@@ -1,0 +1,577 @@
+budget_id,fiscal_year,fiscal_month,category,subcategory,department,budget_allocated,budget_type,approval_status,budget_owner,variance_threshold,reallocation_allowed,forecasted_spend,contingency_buffer
+B202201ITSO,2022,1,IT,Software,Admin,8045.23,OPEX,Pending,Ryan Avila,0.06,False,9561.67,808.93
+B202201ITHA,2022,1,IT,Hardware,Sales,7460.38,CAPEX,Pending,Kara Harmon,0.08,False,12245.72,665.66
+B202201ITCL,2022,1,IT,Cloud,HR,6499.53,CAPEX,Approved,Margaret Lara,0.08,False,12650.88,837.84
+B202201MADI,2022,1,Marketing,Digital Ads,Admin,7784.95,OPEX,Approved,Hannah Young,0.06,True,7599.65,899.87
+B202201MASE,2022,1,Marketing,SEO,Engineering,8960.64,CAPEX,Pending,Mary Anderson,0.07,False,10791.22,596.24
+B202201MAEV,2022,1,Marketing,Events,Finance,8853.99,OPEX,Rejected,Michael Johnson,0.09,True,9710.84,634.25
+B202201OPLO,2022,1,Operations,Logistics,HR,9319.86,OPEX,Approved,Daniel Riley,0.19,False,15803.14,906.68
+B202201OPUT,2022,1,Operations,Utilities,Sales,8542.28,CAPEX,Approved,Brittany West,0.19,True,13174.46,352.76
+B202201HRRE,2022,1,HR,Recruiting,Admin,7727.21,CAPEX,Rejected,Stacy Wright,0.2,True,7130.58,663.77
+B202201HRTR,2022,1,HR,Training,Finance,13461.1,OPEX,Approved,Jacqueline Rich,0.1,True,8228.49,307.81
+B202201FAMA,2022,1,Facilities,Maintenance,Sales,13516.85,CAPEX,Approved,Michael White,0.08,False,12290.14,558.09
+B202201FACL,2022,1,Facilities,Cleaning,Finance,8560.92,CAPEX,Pending,Samantha Arnold,0.09,False,11185.4,583.6
+B202202ITSO,2022,2,IT,Software,HR,12521.04,CAPEX,Pending,Joshua Klein,0.07,False,9532.57,566.96
+B202202ITHA,2022,2,IT,Hardware,Admin,6389.05,CAPEX,Rejected,Mary Lyons DDS,0.06,False,9996.75,281.28
+B202202ITCL,2022,2,IT,Cloud,Admin,5138.31,OPEX,Rejected,Kaylee Briggs,0.16,True,9090.96,742.55
+B202202MADI,2022,2,Marketing,Digital Ads,Finance,14336.2,CAPEX,Approved,Patrick Davis,0.09,True,7148.74,361.57
+B202202MASE,2022,2,Marketing,SEO,HR,12797.69,CAPEX,Approved,Stacey Williams,0.11,True,8240.55,771.43
+B202202MAEV,2022,2,Marketing,Events,Admin,11167.32,CAPEX,Rejected,Rachel Wilkins,0.15,False,5867.81,410.63
+B202202OPLO,2022,2,Operations,Logistics,Engineering,8217.33,OPEX,Pending,Mason Sanders,0.11,True,10101.62,621.11
+B202202OPUT,2022,2,Operations,Utilities,Finance,10057.64,OPEX,Rejected,Joseph Henry,0.13,False,12077.8,673.13
+B202202HRRE,2022,2,HR,Recruiting,Engineering,7814.84,CAPEX,Rejected,Dr. Victoria Chang,0.11,False,7646.9,841.93
+B202202HRTR,2022,2,HR,Training,Admin,11529.11,OPEX,Rejected,Anthony Payne,0.06,True,9671.63,588.09
+B202202FAMA,2022,2,Facilities,Maintenance,HR,7641.88,CAPEX,Pending,Rebecca Walker,0.1,False,10978.08,593.88
+B202202FACL,2022,2,Facilities,Cleaning,Admin,8427.76,CAPEX,Approved,Joseph Norton,0.06,True,11649.3,380.44
+B202203ITSO,2022,3,IT,Software,Engineering,10662.89,CAPEX,Rejected,Kathryn Torres,0.05,False,8455.52,657.02
+B202203ITHA,2022,3,IT,Hardware,Engineering,8762.87,CAPEX,Pending,George Middleton,0.14,True,8176.12,685.91
+B202203ITCL,2022,3,IT,Cloud,Engineering,5404.58,OPEX,Pending,Mark Phillips,0.18,False,7184.37,920.7
+B202203MADI,2022,3,Marketing,Digital Ads,Sales,8675.86,OPEX,Approved,Lisa Mathis,0.15,False,7567.81,954.04
+B202203MASE,2022,3,Marketing,SEO,Admin,8452.25,OPEX,Approved,Andrea Hall,0.17,False,7852.16,545.5
+B202203MAEV,2022,3,Marketing,Events,Engineering,10951.83,OPEX,Rejected,Richard Mcmahon,0.12,False,10530.4,713.52
+B202203OPLO,2022,3,Operations,Logistics,Sales,13232.47,OPEX,Pending,Dr. Anna Miller,0.08,True,9943.12,335.92
+B202203OPUT,2022,3,Operations,Utilities,Sales,13376.38,OPEX,Rejected,Sharon Walker,0.14,False,5953.16,956.29
+B202203HRRE,2022,3,HR,Recruiting,Finance,13301.75,OPEX,Approved,Mary Mason,0.12,False,9776.41,895.5
+B202203HRTR,2022,3,HR,Training,Sales,9205.79,OPEX,Rejected,Derek Carey,0.06,True,8609.34,527.91
+B202203FAMA,2022,3,Facilities,Maintenance,Sales,12739.49,OPEX,Rejected,Renee Collins,0.05,True,8705.94,453.55
+B202203FACL,2022,3,Facilities,Cleaning,Finance,10032.08,OPEX,Rejected,Frank Adams,0.18,True,6586.26,958.07
+B202204ITSO,2022,4,IT,Software,Admin,8193.59,CAPEX,Rejected,Jerry Johnson,0.06,False,7582.97,894.07
+B202204ITHA,2022,4,IT,Hardware,Engineering,9652.4,OPEX,Approved,Thomas Andrews,0.15,False,9522.45,332.87
+B202204ITCL,2022,4,IT,Cloud,Finance,12349.1,CAPEX,Rejected,Mark Malone,0.19,False,6731.73,731.01
+B202204MADI,2022,4,Marketing,Digital Ads,HR,5645.74,CAPEX,Approved,Michael Lowery,0.05,False,11174.49,625.89
+B202204MASE,2022,4,Marketing,SEO,Admin,12455.41,CAPEX,Approved,Alison Campbell,0.13,False,8274.83,444.72
+B202204MAEV,2022,4,Marketing,Events,Admin,9662.29,OPEX,Rejected,Richard Cortez,0.1,True,9336.39,379.82
+B202204OPLO,2022,4,Operations,Logistics,Finance,11893.8,CAPEX,Pending,Karen Huffman,0.05,True,7226.89,386.56
+B202204OPUT,2022,4,Operations,Utilities,HR,11794.98,CAPEX,Approved,Nicole Fletcher,0.14,False,8292.96,891.27
+B202204HRRE,2022,4,HR,Recruiting,Finance,12332.47,CAPEX,Approved,Patrick Mcguire,0.07,True,6355.1,514.64
+B202204HRTR,2022,4,HR,Training,Admin,11410.19,CAPEX,Rejected,Traci Sparks,0.17,False,7912.24,803.04
+B202204FAMA,2022,4,Facilities,Maintenance,Sales,12567.24,OPEX,Rejected,David Smith,0.08,False,10000.27,328.2
+B202204FACL,2022,4,Facilities,Cleaning,Finance,13999.19,CAPEX,Approved,Matthew Lucas,0.15,False,8413.55,856.93
+B202205ITSO,2022,5,IT,Software,Admin,13957.28,OPEX,Pending,James Williams,0.09,True,9419.03,875.7
+B202205ITHA,2022,5,IT,Hardware,Admin,13225.37,OPEX,Pending,Meghan Morris,0.11,False,15193.26,302.49
+B202205ITCL,2022,5,IT,Cloud,Engineering,12626.24,CAPEX,Pending,Kurt Fernandez,0.05,True,9981.98,870.86
+B202205MADI,2022,5,Marketing,Digital Ads,Engineering,9792.43,CAPEX,Rejected,Jose Reese,0.11,False,9611.88,715.76
+B202205MASE,2022,5,Marketing,SEO,Sales,7907.68,CAPEX,Rejected,Susan Chapman,0.16,True,7136.47,384.58
+B202205MAEV,2022,5,Marketing,Events,Admin,9194.51,OPEX,Rejected,Martha Diaz,0.07,True,2499.37,480.41
+B202205OPLO,2022,5,Operations,Logistics,Finance,13139.46,CAPEX,Rejected,Catherine Palmer,0.05,True,12083.16,860.59
+B202205OPUT,2022,5,Operations,Utilities,Admin,7170.11,OPEX,Approved,Riley Wilson,0.13,False,10901.08,431.74
+B202205HRRE,2022,5,HR,Recruiting,Engineering,10934.11,OPEX,Rejected,Elizabeth Adams,0.17,False,10916.01,296.81
+B202205HRTR,2022,5,HR,Training,Sales,12234.8,CAPEX,Rejected,Caleb Johnson,0.19,False,6357.56,878.98
+B202205FAMA,2022,5,Facilities,Maintenance,Admin,13699.11,CAPEX,Approved,Michelle Bishop,0.2,True,9934.66,674.56
+B202205FACL,2022,5,Facilities,Cleaning,Admin,9562.69,CAPEX,Approved,Brandon Krause,0.19,True,3882.72,905.1
+B202206ITSO,2022,6,IT,Software,Finance,11856.17,CAPEX,Pending,Vincent Newman,0.19,True,8629.57,377.04
+B202206ITHA,2022,6,IT,Hardware,Sales,7041.19,OPEX,Rejected,Jimmy Fox,0.05,True,8272.83,349.4
+B202206ITCL,2022,6,IT,Cloud,HR,10948.06,CAPEX,Pending,Anna Hunt,0.06,False,11824.56,885.34
+B202206MADI,2022,6,Marketing,Digital Ads,Sales,13121.62,CAPEX,Pending,Nancy Howell,0.14,True,10101.26,789.63
+B202206MASE,2022,6,Marketing,SEO,Finance,11430.88,OPEX,Approved,Stephanie Rogers,0.13,False,8292.14,544.65
+B202206MAEV,2022,6,Marketing,Events,HR,9740.81,OPEX,Approved,Joseph Rivera,0.18,False,11462.6,545.88
+B202206OPLO,2022,6,Operations,Logistics,Admin,9994.81,OPEX,Rejected,Dean Garrison,0.18,False,8396.02,236.27
+B202206OPUT,2022,6,Operations,Utilities,Finance,10439.98,CAPEX,Pending,Autumn Levine,0.15,False,4554.12,441.65
+B202206HRRE,2022,6,HR,Recruiting,Finance,9066.55,CAPEX,Approved,Christina Wall,0.07,False,4843.93,278.26
+B202206HRTR,2022,6,HR,Training,HR,10162.73,OPEX,Pending,Anna Torres,0.11,False,7330.28,578.78
+B202206FAMA,2022,6,Facilities,Maintenance,Engineering,11811.49,CAPEX,Rejected,Jamie Cook,0.14,False,8508.58,410.63
+B202206FACL,2022,6,Facilities,Cleaning,Finance,8705.95,CAPEX,Pending,Tina Cherry,0.19,True,9421.97,409.92
+B202207ITSO,2022,7,IT,Software,Engineering,8368.08,CAPEX,Pending,Paula Davis,0.1,False,6551.4,464.09
+B202207ITHA,2022,7,IT,Hardware,HR,8068.8,CAPEX,Approved,Jessica Mccoy,0.15,False,4483.41,890.35
+B202207ITCL,2022,7,IT,Cloud,Sales,9624.1,CAPEX,Rejected,James Barrett,0.11,True,7241.84,789.97
+B202207MADI,2022,7,Marketing,Digital Ads,Engineering,9740.71,OPEX,Pending,Brenda Foster,0.17,False,11940.73,974.45
+B202207MASE,2022,7,Marketing,SEO,Finance,10342.67,CAPEX,Pending,William Martinez,0.13,False,7096.66,874.23
+B202207MAEV,2022,7,Marketing,Events,Finance,8884.84,OPEX,Pending,Haley Turner,0.08,True,9401.51,529.51
+B202207OPLO,2022,7,Operations,Logistics,Admin,10174.91,CAPEX,Pending,Vanessa Pearson,0.18,True,9498.88,631.19
+B202207OPUT,2022,7,Operations,Utilities,Admin,13620.75,CAPEX,Pending,Caroline Robinson,0.19,False,7571.82,214.57
+B202207HRRE,2022,7,HR,Recruiting,Finance,9694.35,OPEX,Approved,Holly Hall,0.18,False,11429.1,764.05
+B202207HRTR,2022,7,HR,Training,Admin,8163.05,OPEX,Rejected,William Swanson,0.12,False,8457.37,975.53
+B202207FAMA,2022,7,Facilities,Maintenance,HR,11802.36,CAPEX,Approved,Kristin Rice,0.11,True,10159.06,420.05
+B202207FACL,2022,7,Facilities,Cleaning,Finance,7188.29,CAPEX,Rejected,Christopher Ford,0.16,False,7491.31,211.33
+B202208ITSO,2022,8,IT,Software,Admin,9613.61,CAPEX,Pending,Crystal Briggs,0.07,False,7517.77,239.31
+B202208ITHA,2022,8,IT,Hardware,HR,6053.68,CAPEX,Rejected,Russell Snyder,0.16,True,10399.89,891.71
+B202208ITCL,2022,8,IT,Cloud,Sales,12266.39,CAPEX,Pending,Jacob Mcintosh,0.06,True,11244.99,367.46
+B202208MADI,2022,8,Marketing,Digital Ads,HR,11304.52,OPEX,Approved,Kimberly Valentine,0.07,True,9892.67,419.99
+B202208MASE,2022,8,Marketing,SEO,HR,10339.02,CAPEX,Rejected,Andrew Weaver,0.19,True,9233.22,292.39
+B202208MAEV,2022,8,Marketing,Events,Sales,10015.31,OPEX,Pending,Alexandra Sellers,0.08,False,7784.37,663.45
+B202208OPLO,2022,8,Operations,Logistics,Sales,9700.62,CAPEX,Rejected,Emily Miller,0.15,True,6898.69,670.61
+B202208OPUT,2022,8,Operations,Utilities,Admin,10015.2,OPEX,Approved,Katherine Krause,0.18,False,10450.81,281.33
+B202208HRRE,2022,8,HR,Recruiting,Finance,3868.27,CAPEX,Rejected,Joshua Schaefer,0.14,False,9380.73,666.65
+B202208HRTR,2022,8,HR,Training,Admin,9413.58,CAPEX,Rejected,Robert Harrison,0.11,True,11803.66,314.41
+B202208FAMA,2022,8,Facilities,Maintenance,HR,15161.74,CAPEX,Pending,Tabitha Mccann,0.11,True,5971.5,525.05
+B202208FACL,2022,8,Facilities,Cleaning,Finance,9514.77,CAPEX,Rejected,Ms. Brandi Garza,0.08,False,12749.72,985.92
+B202209ITSO,2022,9,IT,Software,Admin,9155.78,OPEX,Rejected,Catherine Mendoza,0.09,False,8602.59,378.36
+B202209ITHA,2022,9,IT,Hardware,Sales,9377.27,OPEX,Approved,April Smith,0.17,True,10223.81,416.53
+B202209ITCL,2022,9,IT,Cloud,Engineering,5580.98,CAPEX,Rejected,Rebekah Garcia,0.13,False,6665.55,590.21
+B202209MADI,2022,9,Marketing,Digital Ads,Finance,11068.07,OPEX,Pending,Kenneth Villanueva,0.17,True,13567.97,424.92
+B202209MASE,2022,9,Marketing,SEO,Sales,10444.46,CAPEX,Rejected,Daniel Graham,0.13,False,6116.13,384.81
+B202209MAEV,2022,9,Marketing,Events,Engineering,10688.27,CAPEX,Approved,Barbara Williams,0.05,True,6866.51,311.54
+B202209OPLO,2022,9,Operations,Logistics,Admin,10908.65,OPEX,Approved,Sandra Barnett,0.13,False,14625.69,701.34
+B202209OPUT,2022,9,Operations,Utilities,Admin,5451.09,CAPEX,Pending,Timothy Mayer,0.16,False,6667.3,986.23
+B202209HRRE,2022,9,HR,Recruiting,Admin,15847.08,CAPEX,Pending,Latoya George,0.05,True,8530.31,326.08
+B202209HRTR,2022,9,HR,Training,Sales,12555.13,OPEX,Approved,Linda Green,0.14,True,11214.65,736.37
+B202209FAMA,2022,9,Facilities,Maintenance,Admin,13529.51,OPEX,Pending,George Foster,0.07,False,9055.71,957.9
+B202209FACL,2022,9,Facilities,Cleaning,Admin,8455.53,OPEX,Pending,David Howard,0.06,True,6818.8,200.89
+B202210ITSO,2022,10,IT,Software,Engineering,5585.33,CAPEX,Rejected,Dana Johnson,0.08,False,10260.81,376.77
+B202210ITHA,2022,10,IT,Hardware,HR,11013.45,CAPEX,Approved,Anne Hill,0.16,False,9919.63,411.11
+B202210ITCL,2022,10,IT,Cloud,HR,5883.98,CAPEX,Approved,Rebekah Williams,0.2,True,13845.82,452.32
+B202210MADI,2022,10,Marketing,Digital Ads,HR,12170.38,CAPEX,Rejected,Ian Ford,0.17,False,14795.5,910.5
+B202210MASE,2022,10,Marketing,SEO,Sales,8348.74,OPEX,Rejected,Mathew Reyes,0.17,True,10361.79,465.22
+B202210MAEV,2022,10,Marketing,Events,Engineering,8870.57,OPEX,Approved,Brent Harmon,0.19,False,8370.09,465.37
+B202210OPLO,2022,10,Operations,Logistics,Sales,15182.4,CAPEX,Pending,Adam Strickland,0.16,True,11397.67,644.4
+B202210OPUT,2022,10,Operations,Utilities,Admin,8481.55,OPEX,Rejected,Marcia Oconnell,0.18,False,7004.16,496.34
+B202210HRRE,2022,10,HR,Recruiting,HR,13172.48,OPEX,Approved,Steven Rosales,0.16,True,9877.62,719.48
+B202210HRTR,2022,10,HR,Training,Engineering,11118.91,OPEX,Approved,Pamela Paul,0.13,True,7043.04,341.58
+B202210FAMA,2022,10,Facilities,Maintenance,Admin,11807.92,OPEX,Rejected,Edgar Woodward,0.17,False,5242.81,880.29
+B202210FACL,2022,10,Facilities,Cleaning,HR,9070.86,CAPEX,Approved,Matthew Harvey,0.14,True,12209.17,554.86
+B202211ITSO,2022,11,IT,Software,Finance,13728.28,OPEX,Rejected,Victoria Garner,0.16,True,9994.93,255.4
+B202211ITHA,2022,11,IT,Hardware,Engineering,15056.12,CAPEX,Pending,Eric Allen,0.07,True,11322.26,632.79
+B202211ITCL,2022,11,IT,Cloud,Engineering,11073.82,OPEX,Approved,Shelley Oconnor,0.09,False,10615.19,522.17
+B202211MADI,2022,11,Marketing,Digital Ads,Admin,9335.19,OPEX,Rejected,Peter Curtis,0.12,False,12810.88,737.25
+B202211MASE,2022,11,Marketing,SEO,HR,6716.14,OPEX,Pending,Mary Mayo,0.07,True,5450.23,661.64
+B202211MAEV,2022,11,Marketing,Events,HR,8625.02,CAPEX,Pending,Melinda Parsons,0.13,False,10428.59,898.22
+B202211OPLO,2022,11,Operations,Logistics,Engineering,17143.33,OPEX,Approved,Jean Phillips,0.07,True,16727.44,832.48
+B202211OPUT,2022,11,Operations,Utilities,HR,11027.22,CAPEX,Approved,Jennifer Miller,0.11,False,7955.88,422.44
+B202211HRRE,2022,11,HR,Recruiting,HR,13961.77,CAPEX,Rejected,Jessica Edwards,0.11,False,6606.54,787.66
+B202211HRTR,2022,11,HR,Training,Sales,12700.01,CAPEX,Rejected,William Hill,0.06,False,10188.32,704.23
+B202211FAMA,2022,11,Facilities,Maintenance,Sales,11776.8,CAPEX,Pending,Kirk Jones,0.14,True,10203.22,586.01
+B202211FACL,2022,11,Facilities,Cleaning,Engineering,5421.48,CAPEX,Pending,Allison Roberts,0.17,False,10700.67,546.76
+B202212ITSO,2022,12,IT,Software,Engineering,6454.15,CAPEX,Rejected,Rachel Martin,0.09,False,13739.03,755.1
+B202212ITHA,2022,12,IT,Hardware,Admin,11511.19,CAPEX,Pending,Ernest Cox,0.18,False,10529.79,210.78
+B202212ITCL,2022,12,IT,Cloud,Finance,7795.41,CAPEX,Pending,Charles Gomez,0.18,True,10026.84,346.45
+B202212MADI,2022,12,Marketing,Digital Ads,Sales,12465.13,OPEX,Pending,Nancy Ferguson,0.06,False,7535.58,520.05
+B202212MASE,2022,12,Marketing,SEO,Engineering,14157.36,OPEX,Approved,Kevin Wolf,0.08,False,9632.72,384.12
+B202212MAEV,2022,12,Marketing,Events,Admin,11033.49,CAPEX,Pending,Brady Mendoza,0.07,False,7792.63,417.43
+B202212OPLO,2022,12,Operations,Logistics,Finance,13022.59,OPEX,Approved,Gregory Lopez,0.06,True,10574.37,618.36
+B202212OPUT,2022,12,Operations,Utilities,HR,15623.72,CAPEX,Pending,Rita Sullivan,0.17,False,11147.62,960.65
+B202212HRRE,2022,12,HR,Recruiting,Sales,16995.15,OPEX,Rejected,Caleb Ramsey,0.17,True,12290.78,782.28
+B202212HRTR,2022,12,HR,Training,Engineering,14339.33,OPEX,Pending,Noah Williams,0.08,True,11545.95,424.79
+B202212FAMA,2022,12,Facilities,Maintenance,Finance,9807.92,OPEX,Pending,Robert Jimenez,0.18,False,13673.32,386.02
+B202212FACL,2022,12,Facilities,Cleaning,Finance,5812.88,CAPEX,Pending,Mary Simmons,0.06,True,6662.09,314.73
+B202301ITSO,2023,1,IT,Software,Engineering,14977.67,CAPEX,Pending,Anthony Smith,0.11,True,7434.03,724.34
+B202301ITHA,2023,1,IT,Hardware,Finance,6108.68,OPEX,Pending,Mary Mcbride,0.11,True,7259.86,623.58
+B202301ITCL,2023,1,IT,Cloud,HR,7038.45,CAPEX,Approved,Don Jones,0.12,False,9726.86,833.04
+B202301MADI,2023,1,Marketing,Digital Ads,Engineering,12440.89,CAPEX,Rejected,William Cardenas,0.13,False,12475.34,962.32
+B202301MASE,2023,1,Marketing,SEO,HR,5660.67,CAPEX,Pending,Yolanda Deleon,0.17,True,9810.26,395.65
+B202301MAEV,2023,1,Marketing,Events,HR,10839.37,CAPEX,Approved,John Gonzalez,0.11,False,5647.93,659.52
+B202301OPLO,2023,1,Operations,Logistics,Sales,7943.16,CAPEX,Approved,Beth Patterson,0.08,True,8459.87,654.78
+B202301OPUT,2023,1,Operations,Utilities,Sales,12453.01,CAPEX,Rejected,Alvin Fowler,0.06,True,7101.45,635.17
+B202301HRRE,2023,1,HR,Recruiting,Finance,9848.72,OPEX,Pending,Mark Ward,0.11,False,9543.02,969.31
+B202301HRTR,2023,1,HR,Training,HR,9977.06,OPEX,Rejected,Donald Jones,0.07,False,8283.11,828.8
+B202301FAMA,2023,1,Facilities,Maintenance,Finance,7331.44,OPEX,Pending,Mr. Sean Vazquez,0.1,False,4657.1,664.15
+B202301FACL,2023,1,Facilities,Cleaning,Finance,3249.28,OPEX,Rejected,Nicole Joseph,0.18,False,12905.11,966.33
+B202302ITSO,2023,2,IT,Software,Admin,11718.75,CAPEX,Rejected,Douglas Davis,0.08,False,8758.02,406.47
+B202302ITHA,2023,2,IT,Hardware,Sales,11507.23,OPEX,Rejected,Pamela Richards,0.14,True,13675.46,920.88
+B202302ITCL,2023,2,IT,Cloud,Engineering,8509.71,CAPEX,Pending,Jennifer Cole,0.13,True,11702.46,664.32
+B202302MADI,2023,2,Marketing,Digital Ads,Admin,7628.01,CAPEX,Approved,Aaron Moore,0.12,False,13659.86,858.05
+B202302MASE,2023,2,Marketing,SEO,HR,3984.44,OPEX,Pending,Megan Murphy,0.17,False,9258.59,468.46
+B202302MAEV,2023,2,Marketing,Events,Finance,8612.77,CAPEX,Pending,Taylor Jones,0.18,True,8586.61,832.31
+B202302OPLO,2023,2,Operations,Logistics,Sales,10053.14,CAPEX,Approved,Brian Higgins,0.06,False,7782.29,234.96
+B202302OPUT,2023,2,Operations,Utilities,Sales,10711.6,CAPEX,Pending,Shelia Watkins,0.14,True,11106.41,575.71
+B202302HRRE,2023,2,HR,Recruiting,Sales,9169.78,CAPEX,Rejected,Michelle Sheppard,0.13,True,10553.31,559.54
+B202302HRTR,2023,2,HR,Training,HR,15768.77,CAPEX,Rejected,Matthew Fox,0.16,False,9237.85,201.81
+B202302FAMA,2023,2,Facilities,Maintenance,Admin,11462.28,CAPEX,Pending,Randy Miranda,0.15,True,7977.99,768.16
+B202302FACL,2023,2,Facilities,Cleaning,HR,6999.96,CAPEX,Approved,Nicholas Jacobs,0.08,True,7390.83,334.35
+B202303ITSO,2023,3,IT,Software,Sales,8541.24,CAPEX,Approved,Joseph Stanley,0.19,False,12597.18,807.61
+B202303ITHA,2023,3,IT,Hardware,Finance,11950.83,CAPEX,Rejected,Rachel Johnson,0.2,False,11858.92,681.85
+B202303ITCL,2023,3,IT,Cloud,Finance,9420.45,OPEX,Rejected,Madison White,0.2,False,9563.06,967.2
+B202303MADI,2023,3,Marketing,Digital Ads,Finance,8522.95,CAPEX,Rejected,Nicole Walters,0.08,False,11631.77,245.7
+B202303MASE,2023,3,Marketing,SEO,Admin,6576.74,OPEX,Pending,Tony Miller,0.14,True,8238.75,882.9
+B202303MAEV,2023,3,Marketing,Events,Admin,10194.05,CAPEX,Rejected,Destiny Guerrero,0.2,True,8202.42,578.34
+B202303OPLO,2023,3,Operations,Logistics,Sales,9890.65,OPEX,Rejected,Sarah Jones,0.06,True,7635.95,608.07
+B202303OPUT,2023,3,Operations,Utilities,Sales,9650.1,OPEX,Approved,Dr. Henry Diaz Jr.,0.11,True,9314.79,299.22
+B202303HRRE,2023,3,HR,Recruiting,Engineering,13535.48,OPEX,Rejected,Jeffrey Washington,0.17,False,9970.92,665.65
+B202303HRTR,2023,3,HR,Training,Engineering,19829.2,OPEX,Rejected,Amy Johnson,0.17,False,4569.99,290.82
+B202303FAMA,2023,3,Facilities,Maintenance,Finance,10330.08,CAPEX,Pending,Michelle Chavez,0.12,True,9185.0,499.73
+B202303FACL,2023,3,Facilities,Cleaning,Finance,10015.25,OPEX,Rejected,Johnny Foley,0.18,False,9878.0,746.59
+B202304ITSO,2023,4,IT,Software,Admin,3912.04,OPEX,Approved,Thomas Castro,0.1,True,18800.67,743.14
+B202304ITHA,2023,4,IT,Hardware,Finance,12504.26,CAPEX,Approved,Tammy Bailey,0.1,True,11089.1,518.3
+B202304ITCL,2023,4,IT,Cloud,Sales,14653.7,CAPEX,Pending,Connie Herman,0.19,False,6866.96,550.01
+B202304MADI,2023,4,Marketing,Digital Ads,Finance,7506.1,OPEX,Rejected,Mary Turner,0.08,True,11106.86,328.69
+B202304MASE,2023,4,Marketing,SEO,Sales,11519.71,CAPEX,Pending,Jacob Cohen,0.16,True,10465.93,353.14
+B202304MAEV,2023,4,Marketing,Events,Sales,6621.59,OPEX,Approved,David Davis,0.12,False,8061.6,860.85
+B202304OPLO,2023,4,Operations,Logistics,Admin,16177.39,CAPEX,Pending,Amy Neal,0.05,True,10678.13,473.0
+B202304OPUT,2023,4,Operations,Utilities,Finance,6971.97,OPEX,Approved,Matthew Williams,0.1,True,9617.15,631.9
+B202304HRRE,2023,4,HR,Recruiting,Sales,15143.02,CAPEX,Approved,Andrew Reed,0.16,True,12984.17,884.04
+B202304HRTR,2023,4,HR,Training,HR,13637.41,OPEX,Rejected,Christopher Salinas,0.17,True,13499.77,368.88
+B202304FAMA,2023,4,Facilities,Maintenance,Sales,7680.59,CAPEX,Pending,Taylor Scott,0.09,True,11387.69,623.63
+B202304FACL,2023,4,Facilities,Cleaning,Finance,13062.83,OPEX,Approved,Ruth Williams,0.17,True,12323.33,923.56
+B202305ITSO,2023,5,IT,Software,Sales,9632.82,CAPEX,Approved,Desiree Stephenson,0.1,True,5828.3,509.36
+B202305ITHA,2023,5,IT,Hardware,Sales,10395.85,OPEX,Approved,Haley Warren,0.07,False,10153.67,655.91
+B202305ITCL,2023,5,IT,Cloud,HR,4515.77,OPEX,Approved,Ms. Terri Garcia,0.16,True,8438.09,307.02
+B202305MADI,2023,5,Marketing,Digital Ads,Finance,12733.46,OPEX,Pending,Cassandra Owen,0.18,True,12530.0,782.58
+B202305MASE,2023,5,Marketing,SEO,Admin,11052.45,OPEX,Pending,Shawn Murphy,0.11,True,7694.75,356.1
+B202305MAEV,2023,5,Marketing,Events,HR,9342.31,CAPEX,Rejected,Michael Hoffman,0.07,True,10796.11,341.63
+B202305OPLO,2023,5,Operations,Logistics,Finance,12208.01,OPEX,Approved,Paula Patel,0.09,True,11787.09,344.16
+B202305OPUT,2023,5,Operations,Utilities,HR,15356.23,CAPEX,Pending,Cristian Hall,0.15,True,9567.35,306.88
+B202305HRRE,2023,5,HR,Recruiting,HR,15162.62,OPEX,Pending,Timothy Ross,0.11,False,4926.74,916.19
+B202305HRTR,2023,5,HR,Training,Sales,14889.71,CAPEX,Pending,Robin Murphy,0.19,True,12126.68,944.26
+B202305FAMA,2023,5,Facilities,Maintenance,Finance,3967.46,OPEX,Rejected,Cassidy Sanders,0.09,True,11018.48,718.05
+B202305FACL,2023,5,Facilities,Cleaning,Admin,9998.19,OPEX,Pending,Alexander Mueller,0.13,True,13332.98,838.57
+B202306ITSO,2023,6,IT,Software,Admin,6908.34,OPEX,Approved,Randall Booth,0.18,False,11708.2,672.36
+B202306ITHA,2023,6,IT,Hardware,Admin,13928.38,CAPEX,Pending,Brittany Hernandez,0.09,True,12323.11,390.87
+B202306ITCL,2023,6,IT,Cloud,Sales,10290.1,OPEX,Rejected,Tonya Kim,0.11,False,8260.9,961.51
+B202306MADI,2023,6,Marketing,Digital Ads,Finance,11532.23,OPEX,Approved,Tony Parks,0.12,False,10611.91,302.12
+B202306MASE,2023,6,Marketing,SEO,Sales,12771.91,OPEX,Pending,David Hamilton,0.05,True,7832.8,722.6
+B202306MAEV,2023,6,Marketing,Events,HR,12743.34,OPEX,Pending,Crystal Newman,0.14,True,11377.23,467.59
+B202306OPLO,2023,6,Operations,Logistics,HR,7992.37,CAPEX,Approved,Barbara Carney,0.17,True,6154.42,475.39
+B202306OPUT,2023,6,Operations,Utilities,Engineering,8571.15,CAPEX,Rejected,Daniel Lucas,0.14,True,12854.94,617.81
+B202306HRRE,2023,6,HR,Recruiting,Sales,12928.03,CAPEX,Pending,Michele Johnson,0.06,False,10331.78,609.8
+B202306HRTR,2023,6,HR,Training,Finance,12101.93,OPEX,Approved,Kyle Foster,0.12,True,4437.36,839.85
+B202306FAMA,2023,6,Facilities,Maintenance,Finance,12662.68,OPEX,Pending,Samantha Reyes,0.17,False,11162.44,785.27
+B202306FACL,2023,6,Facilities,Cleaning,HR,9428.76,CAPEX,Approved,Robert Macdonald,0.1,True,8471.12,817.54
+B202307ITSO,2023,7,IT,Software,Sales,4426.0,CAPEX,Rejected,Kayla Curry,0.08,True,13106.07,331.93
+B202307ITHA,2023,7,IT,Hardware,Admin,5785.26,OPEX,Pending,Justin Lin,0.19,False,8012.52,984.41
+B202307ITCL,2023,7,IT,Cloud,Sales,15790.81,CAPEX,Rejected,Amanda Garner,0.19,False,9227.23,910.67
+B202307MADI,2023,7,Marketing,Digital Ads,Finance,3597.46,OPEX,Approved,Joan Rose,0.17,True,12369.56,680.12
+B202307MASE,2023,7,Marketing,SEO,Admin,10653.4,CAPEX,Pending,Timothy Curry,0.18,False,11128.48,928.94
+B202307MAEV,2023,7,Marketing,Events,Sales,7565.65,OPEX,Pending,Jamie Hall MD,0.08,False,9727.42,680.61
+B202307OPLO,2023,7,Operations,Logistics,HR,12774.06,OPEX,Rejected,James Mays,0.17,False,12011.68,623.81
+B202307OPUT,2023,7,Operations,Utilities,Finance,13443.45,OPEX,Pending,Janice Reynolds,0.2,True,12476.24,963.87
+B202307HRRE,2023,7,HR,Recruiting,HR,11514.45,OPEX,Rejected,Jack Harris,0.15,True,12566.84,255.19
+B202307HRTR,2023,7,HR,Training,Finance,10454.42,OPEX,Approved,Julie Spencer,0.14,False,6230.32,650.94
+B202307FAMA,2023,7,Facilities,Maintenance,Admin,10299.11,OPEX,Rejected,Michelle Pace,0.16,True,10277.31,247.12
+B202307FACL,2023,7,Facilities,Cleaning,Finance,8568.81,OPEX,Pending,Stacy Fernandez,0.14,False,11319.89,544.37
+B202308ITSO,2023,8,IT,Software,Admin,12175.81,CAPEX,Rejected,Ronald Stevens,0.05,False,11065.24,903.61
+B202308ITHA,2023,8,IT,Hardware,Sales,9343.1,OPEX,Pending,Ashley Howell,0.05,True,11833.92,633.75
+B202308ITCL,2023,8,IT,Cloud,HR,11081.34,OPEX,Pending,Vincent White,0.18,True,12890.71,443.58
+B202308MADI,2023,8,Marketing,Digital Ads,Engineering,11361.06,OPEX,Pending,Taylor Travis,0.1,False,7078.9,883.87
+B202308MASE,2023,8,Marketing,SEO,Engineering,13102.52,OPEX,Approved,Jonathan Short,0.17,True,10998.38,691.12
+B202308MAEV,2023,8,Marketing,Events,Engineering,14261.32,OPEX,Pending,Nathan Jones,0.16,False,4684.62,640.86
+B202308OPLO,2023,8,Operations,Logistics,Sales,8833.87,CAPEX,Pending,Lindsey Johnson,0.14,True,9103.08,932.4
+B202308OPUT,2023,8,Operations,Utilities,Engineering,2795.35,CAPEX,Approved,Donald Brown,0.18,True,5920.0,687.9
+B202308HRRE,2023,8,HR,Recruiting,Admin,7310.86,CAPEX,Pending,James Burns,0.11,True,7999.85,758.73
+B202308HRTR,2023,8,HR,Training,Engineering,11433.71,OPEX,Pending,Mr. Gregg Williams,0.13,False,9791.54,724.26
+B202308FAMA,2023,8,Facilities,Maintenance,Finance,7656.94,CAPEX,Pending,Travis Murphy,0.18,True,11357.08,750.79
+B202308FACL,2023,8,Facilities,Cleaning,Admin,13450.92,CAPEX,Pending,Tina Sanchez,0.06,True,9825.92,591.83
+B202309ITSO,2023,9,IT,Software,Admin,11692.63,OPEX,Pending,Larry Snyder,0.16,True,7805.81,492.83
+B202309ITHA,2023,9,IT,Hardware,HR,9911.59,OPEX,Pending,John Blair,0.06,False,10341.18,713.69
+B202309ITCL,2023,9,IT,Cloud,Finance,8055.79,OPEX,Rejected,Rebecca Barker,0.18,True,10297.78,397.73
+B202309MADI,2023,9,Marketing,Digital Ads,HR,8282.48,CAPEX,Pending,Mary Kelly,0.09,False,6953.28,603.85
+B202309MASE,2023,9,Marketing,SEO,Sales,4654.72,OPEX,Rejected,Alyssa Moore,0.08,False,10562.47,963.16
+B202309MAEV,2023,9,Marketing,Events,Sales,7670.41,OPEX,Rejected,Emma Chang,0.12,False,10558.14,680.33
+B202309OPLO,2023,9,Operations,Logistics,Engineering,6153.19,CAPEX,Rejected,Lisa Obrien,0.15,False,10379.28,228.4
+B202309OPUT,2023,9,Operations,Utilities,Sales,10009.35,OPEX,Pending,Donald Williams,0.07,True,7122.36,774.93
+B202309HRRE,2023,9,HR,Recruiting,Engineering,4471.44,CAPEX,Approved,Kyle Barnes,0.15,True,7092.31,825.55
+B202309HRTR,2023,9,HR,Training,Engineering,10350.31,OPEX,Rejected,Andrew Haley,0.18,True,13582.8,811.68
+B202309FAMA,2023,9,Facilities,Maintenance,Admin,13429.89,CAPEX,Pending,Elizabeth Hall,0.12,False,11746.01,283.59
+B202309FACL,2023,9,Facilities,Cleaning,Sales,7304.83,OPEX,Rejected,Michelle Carpenter,0.09,False,13400.98,650.32
+B202310ITSO,2023,10,IT,Software,HR,10925.73,CAPEX,Approved,Karen Santiago,0.14,True,7210.03,297.86
+B202310ITHA,2023,10,IT,Hardware,Finance,11769.8,OPEX,Pending,Michael Smith,0.05,True,8460.43,834.26
+B202310ITCL,2023,10,IT,Cloud,HR,7622.63,CAPEX,Pending,Traci Rivera,0.12,False,15283.16,697.85
+B202310MADI,2023,10,Marketing,Digital Ads,Finance,11742.9,OPEX,Pending,Jennifer Williams,0.08,True,10989.15,656.66
+B202310MASE,2023,10,Marketing,SEO,HR,5921.32,OPEX,Approved,Rhonda Chavez,0.19,False,6328.69,597.9
+B202310MAEV,2023,10,Marketing,Events,Sales,8926.21,CAPEX,Pending,Gina Hughes,0.09,False,8863.14,692.9
+B202310OPLO,2023,10,Operations,Logistics,Admin,13526.06,OPEX,Approved,Jared Ramirez,0.18,False,5846.97,400.4
+B202310OPUT,2023,10,Operations,Utilities,HR,966.23,CAPEX,Pending,Paul Johnson,0.11,False,10088.58,673.82
+B202310HRRE,2023,10,HR,Recruiting,Admin,5348.11,CAPEX,Rejected,Patrick Taylor Jr.,0.1,False,11123.56,349.59
+B202310HRTR,2023,10,HR,Training,Sales,6514.05,OPEX,Pending,Debbie Patterson,0.19,False,8610.38,813.39
+B202310FAMA,2023,10,Facilities,Maintenance,Engineering,6891.36,OPEX,Pending,Derek Myers,0.07,True,6135.78,337.02
+B202310FACL,2023,10,Facilities,Cleaning,HR,6269.56,CAPEX,Rejected,Michael Jones,0.17,True,9577.39,236.15
+B202311ITSO,2023,11,IT,Software,Engineering,12678.0,OPEX,Rejected,Brian Harrison,0.11,True,6353.85,312.5
+B202311ITHA,2023,11,IT,Hardware,Finance,19938.02,CAPEX,Rejected,Karen Ford,0.07,False,9744.57,564.89
+B202311ITCL,2023,11,IT,Cloud,Sales,8341.81,OPEX,Pending,Brittany Young,0.12,False,8623.43,877.76
+B202311MADI,2023,11,Marketing,Digital Ads,Engineering,6099.05,CAPEX,Approved,Marcus Lowe,0.11,True,9633.48,565.25
+B202311MASE,2023,11,Marketing,SEO,Engineering,14433.39,CAPEX,Approved,David Guerrero,0.14,False,5836.11,327.04
+B202311MAEV,2023,11,Marketing,Events,Finance,4392.73,OPEX,Pending,Alexander Hahn,0.09,False,7494.07,617.02
+B202311OPLO,2023,11,Operations,Logistics,HR,13006.83,OPEX,Rejected,Matthew Young,0.11,True,13491.0,470.72
+B202311OPUT,2023,11,Operations,Utilities,Sales,14808.11,CAPEX,Approved,Courtney West,0.11,False,10236.39,325.01
+B202311HRRE,2023,11,HR,Recruiting,Engineering,8808.53,OPEX,Rejected,Mark Evans,0.16,False,9573.69,468.08
+B202311HRTR,2023,11,HR,Training,Finance,12159.78,CAPEX,Pending,Daniel Lopez,0.11,False,10841.26,536.12
+B202311FAMA,2023,11,Facilities,Maintenance,Engineering,5696.63,OPEX,Rejected,Alexandria Armstrong,0.19,False,13763.89,596.3
+B202311FACL,2023,11,Facilities,Cleaning,Sales,12121.91,OPEX,Approved,Anna Pineda,0.08,True,13140.72,230.37
+B202312ITSO,2023,12,IT,Software,HR,12201.95,OPEX,Pending,Ruben Mays,0.1,False,10334.06,393.71
+B202312ITHA,2023,12,IT,Hardware,Sales,4937.49,OPEX,Pending,Tonya Martin,0.19,True,11623.47,898.28
+B202312ITCL,2023,12,IT,Cloud,Sales,10805.22,CAPEX,Approved,Tammy Hanson,0.15,True,11578.15,978.83
+B202312MADI,2023,12,Marketing,Digital Ads,Finance,11086.34,OPEX,Pending,Sarah Morris,0.16,True,11798.78,547.63
+B202312MASE,2023,12,Marketing,SEO,Sales,11946.86,OPEX,Pending,Emily Cervantes,0.05,True,9962.64,945.18
+B202312MAEV,2023,12,Marketing,Events,Engineering,9740.72,CAPEX,Approved,Lisa Caldwell,0.12,False,10087.61,896.11
+B202312OPLO,2023,12,Operations,Logistics,Finance,11896.02,OPEX,Approved,Linda Green,0.16,True,9396.83,451.49
+B202312OPUT,2023,12,Operations,Utilities,Finance,8454.93,OPEX,Rejected,Thomas Adams,0.07,False,9483.2,759.85
+B202312HRRE,2023,12,HR,Recruiting,Finance,12265.56,CAPEX,Rejected,Tiffany Alexander,0.2,True,6460.94,581.82
+B202312HRTR,2023,12,HR,Training,HR,12850.35,CAPEX,Approved,Stephen Russell,0.09,True,10974.76,739.96
+B202312FAMA,2023,12,Facilities,Maintenance,Finance,5588.25,OPEX,Rejected,David Harris,0.18,True,6995.72,744.21
+B202312FACL,2023,12,Facilities,Cleaning,Finance,11761.43,CAPEX,Pending,Gabriel Suarez,0.13,True,12444.91,957.25
+B202401ITSO,2024,1,IT,Software,Finance,4615.34,OPEX,Rejected,Taylor Padilla,0.06,False,16275.85,296.74
+B202401ITHA,2024,1,IT,Hardware,HR,12479.77,OPEX,Approved,Sara Evans,0.15,True,11427.05,757.78
+B202401ITCL,2024,1,IT,Cloud,Sales,6568.46,OPEX,Rejected,Francisco Coleman,0.1,False,12207.43,262.59
+B202401MADI,2024,1,Marketing,Digital Ads,Engineering,12000.84,OPEX,Approved,Tara Frazier,0.06,True,4657.14,969.1
+B202401MASE,2024,1,Marketing,SEO,Finance,10716.82,CAPEX,Pending,Natalie Berry,0.11,True,8220.94,631.14
+B202401MAEV,2024,1,Marketing,Events,Engineering,3798.16,CAPEX,Approved,Scott Murphy,0.15,True,11550.04,355.68
+B202401OPLO,2024,1,Operations,Logistics,Admin,9148.77,OPEX,Pending,William Hamilton,0.09,False,6337.93,690.3
+B202401OPUT,2024,1,Operations,Utilities,Sales,13704.05,OPEX,Approved,William Chavez,0.12,False,6183.63,777.83
+B202401HRRE,2024,1,HR,Recruiting,Finance,6557.26,OPEX,Approved,Rhonda Green,0.19,True,10882.95,357.75
+B202401HRTR,2024,1,HR,Training,Sales,12866.69,OPEX,Approved,Tamara Barton,0.15,True,11228.65,406.22
+B202401FAMA,2024,1,Facilities,Maintenance,Finance,6337.96,OPEX,Pending,Andrew Baker,0.08,True,10086.51,302.16
+B202401FACL,2024,1,Facilities,Cleaning,HR,9742.37,OPEX,Rejected,David Brooks,0.13,False,13871.38,753.07
+B202402ITSO,2024,2,IT,Software,Sales,11978.35,CAPEX,Approved,Michael Decker,0.16,True,8005.95,732.25
+B202402ITHA,2024,2,IT,Hardware,Engineering,10026.61,CAPEX,Pending,Erin Santos,0.17,False,10263.39,385.59
+B202402ITCL,2024,2,IT,Cloud,Engineering,14248.59,OPEX,Pending,Eric Ruiz,0.19,True,8547.35,785.91
+B202402MADI,2024,2,Marketing,Digital Ads,HR,10081.73,CAPEX,Rejected,Andrea Norton,0.13,True,9837.77,297.54
+B202402MASE,2024,2,Marketing,SEO,Finance,15556.22,OPEX,Approved,William Martin,0.18,False,9789.87,336.63
+B202402MAEV,2024,2,Marketing,Events,Finance,6354.88,OPEX,Approved,Holly Hickman,0.13,True,7383.55,741.55
+B202402OPLO,2024,2,Operations,Logistics,Admin,8481.02,OPEX,Pending,Joshua Briggs,0.17,False,12740.19,232.23
+B202402OPUT,2024,2,Operations,Utilities,Admin,7871.75,OPEX,Approved,Taylor Maynard,0.05,False,10948.19,659.22
+B202402HRRE,2024,2,HR,Recruiting,Admin,13502.17,CAPEX,Pending,Erin Callahan,0.2,True,10985.4,918.7
+B202402HRTR,2024,2,HR,Training,Finance,9010.02,OPEX,Pending,Dustin Mcgee,0.1,True,8295.71,974.14
+B202402FAMA,2024,2,Facilities,Maintenance,Finance,8852.19,CAPEX,Rejected,Joseph Mercado,0.07,True,6227.15,761.13
+B202402FACL,2024,2,Facilities,Cleaning,Engineering,10696.0,CAPEX,Approved,Selena Wells,0.05,True,6365.62,683.96
+B202403ITSO,2024,3,IT,Software,Engineering,9582.55,OPEX,Approved,Jose Boyd,0.07,True,10888.06,375.75
+B202403ITHA,2024,3,IT,Hardware,HR,8036.07,OPEX,Pending,Caitlin Burch,0.12,True,9243.01,637.71
+B202403ITCL,2024,3,IT,Cloud,Sales,10958.29,OPEX,Approved,Katherine Taylor,0.1,True,10735.17,203.45
+B202403MADI,2024,3,Marketing,Digital Ads,Sales,11562.95,CAPEX,Pending,John George,0.12,False,6740.49,223.76
+B202403MASE,2024,3,Marketing,SEO,HR,11562.73,OPEX,Rejected,Elizabeth Dixon,0.11,False,9831.42,453.57
+B202403MAEV,2024,3,Marketing,Events,Engineering,9208.92,CAPEX,Rejected,Marvin Lee,0.11,False,12788.89,556.64
+B202403OPLO,2024,3,Operations,Logistics,Admin,12738.85,OPEX,Rejected,Elizabeth Jackson,0.15,True,11050.55,412.74
+B202403OPUT,2024,3,Operations,Utilities,Sales,9178.84,CAPEX,Approved,Laura Hall,0.14,True,10478.02,807.99
+B202403HRRE,2024,3,HR,Recruiting,Admin,8301.81,OPEX,Rejected,Connor Jones,0.16,False,6907.79,518.38
+B202403HRTR,2024,3,HR,Training,Engineering,12831.16,CAPEX,Approved,Jeff Page II,0.19,False,10979.4,468.81
+B202403FAMA,2024,3,Facilities,Maintenance,HR,11642.17,OPEX,Approved,Elizabeth Ramirez,0.09,True,8339.83,908.62
+B202403FACL,2024,3,Facilities,Cleaning,Engineering,7612.06,CAPEX,Approved,James Porter,0.15,True,7977.88,918.12
+B202404ITSO,2024,4,IT,Software,Finance,10129.31,OPEX,Approved,Katherine Mcintosh,0.07,True,10935.2,889.66
+B202404ITHA,2024,4,IT,Hardware,Sales,7039.25,OPEX,Rejected,Victoria Wilson,0.19,False,10866.9,878.35
+B202404ITCL,2024,4,IT,Cloud,Sales,4710.55,CAPEX,Approved,Caroline Bennett,0.16,False,6219.16,280.27
+B202404MADI,2024,4,Marketing,Digital Ads,Admin,12304.18,CAPEX,Approved,Stephen Ruiz,0.08,True,6878.33,721.46
+B202404MASE,2024,4,Marketing,SEO,Finance,10406.65,CAPEX,Approved,Alexis Johnston,0.18,False,10635.93,718.98
+B202404MAEV,2024,4,Marketing,Events,HR,9859.98,CAPEX,Pending,Clayton Lane,0.17,False,9224.38,994.83
+B202404OPLO,2024,4,Operations,Logistics,HR,6523.71,CAPEX,Pending,Brandy Taylor,0.07,False,11102.85,661.61
+B202404OPUT,2024,4,Operations,Utilities,Engineering,7155.56,CAPEX,Rejected,Taylor Vargas,0.1,True,9030.33,752.01
+B202404HRRE,2024,4,HR,Recruiting,Sales,8986.04,CAPEX,Pending,David Meyer,0.1,True,12065.8,491.49
+B202404HRTR,2024,4,HR,Training,Finance,6105.88,CAPEX,Rejected,Lauren Ramos,0.1,False,8896.92,932.23
+B202404FAMA,2024,4,Facilities,Maintenance,Finance,7341.96,OPEX,Pending,Andrew Garcia,0.12,True,6597.1,694.47
+B202404FACL,2024,4,Facilities,Cleaning,Sales,7814.24,CAPEX,Approved,William Deleon,0.09,False,6496.87,932.95
+B202405ITSO,2024,5,IT,Software,Admin,8910.72,OPEX,Approved,Terry Rivera,0.11,False,9835.57,711.44
+B202405ITHA,2024,5,IT,Hardware,Engineering,12958.82,OPEX,Approved,Jamie Williams,0.09,True,5837.06,492.5
+B202405ITCL,2024,5,IT,Cloud,Engineering,9731.34,CAPEX,Approved,Heather Rodriguez,0.1,False,15014.58,366.64
+B202405MADI,2024,5,Marketing,Digital Ads,Sales,13114.36,OPEX,Pending,Anthony Johnson,0.1,False,12164.32,839.54
+B202405MASE,2024,5,Marketing,SEO,Engineering,13484.79,CAPEX,Approved,Donald Medina,0.14,True,10125.51,805.42
+B202405MAEV,2024,5,Marketing,Events,HR,8042.48,OPEX,Rejected,Barbara Garcia,0.18,True,11058.74,544.75
+B202405OPLO,2024,5,Operations,Logistics,Finance,4276.88,CAPEX,Approved,Stephen Norman,0.19,False,12868.24,732.27
+B202405OPUT,2024,5,Operations,Utilities,Admin,5803.76,CAPEX,Pending,Ms. Ashley Garcia,0.17,True,5010.24,775.79
+B202405HRRE,2024,5,HR,Recruiting,HR,10376.74,CAPEX,Pending,Scott Ortiz,0.1,False,9395.34,333.12
+B202405HRTR,2024,5,HR,Training,Finance,9316.29,CAPEX,Pending,Linda Hobbs,0.19,True,8836.54,467.72
+B202405FAMA,2024,5,Facilities,Maintenance,HR,6397.76,OPEX,Rejected,Jacob Curry,0.15,True,7054.87,998.63
+B202405FACL,2024,5,Facilities,Cleaning,Sales,11392.77,OPEX,Approved,Tracy Fields,0.05,True,11901.23,516.03
+B202406ITSO,2024,6,IT,Software,HR,8762.37,OPEX,Approved,Sarah Washington,0.06,False,7835.84,321.21
+B202406ITHA,2024,6,IT,Hardware,Finance,9341.23,OPEX,Pending,Ryan Jackson,0.06,False,10961.28,374.05
+B202406ITCL,2024,6,IT,Cloud,Sales,12612.26,CAPEX,Rejected,Mark Sanchez,0.12,True,11334.51,997.72
+B202406MADI,2024,6,Marketing,Digital Ads,Admin,12802.47,OPEX,Approved,Donald Sandoval,0.06,False,5678.41,976.13
+B202406MASE,2024,6,Marketing,SEO,HR,11513.96,OPEX,Approved,Amy Edwards,0.08,False,9567.95,697.88
+B202406MAEV,2024,6,Marketing,Events,Admin,9556.73,OPEX,Rejected,Karen Warren,0.11,True,2827.17,394.63
+B202406OPLO,2024,6,Operations,Logistics,Sales,6106.84,CAPEX,Approved,Julie Johnson,0.06,True,9917.42,702.74
+B202406OPUT,2024,6,Operations,Utilities,Finance,9403.05,OPEX,Approved,Alex Brooks,0.07,True,13220.0,295.99
+B202406HRRE,2024,6,HR,Recruiting,Engineering,13835.05,OPEX,Approved,Debra Woods,0.06,False,9601.24,643.48
+B202406HRTR,2024,6,HR,Training,Admin,1752.52,CAPEX,Pending,Megan Mcdowell,0.14,False,11184.76,657.82
+B202406FAMA,2024,6,Facilities,Maintenance,HR,6470.83,CAPEX,Pending,David Taylor,0.05,False,12280.19,862.32
+B202406FACL,2024,6,Facilities,Cleaning,HR,8537.02,OPEX,Pending,Victor Miller,0.19,False,9034.01,643.68
+B202407ITSO,2024,7,IT,Software,Engineering,8849.32,CAPEX,Approved,Mitchell Parker,0.18,True,4513.01,730.68
+B202407ITHA,2024,7,IT,Hardware,HR,12859.54,OPEX,Approved,Rhonda Montgomery,0.08,False,5584.37,601.66
+B202407ITCL,2024,7,IT,Cloud,Sales,6827.04,CAPEX,Pending,Jason Deleon,0.08,True,9719.3,854.84
+B202407MADI,2024,7,Marketing,Digital Ads,Admin,11715.54,OPEX,Pending,Debra Morgan,0.13,True,11637.39,347.83
+B202407MASE,2024,7,Marketing,SEO,Finance,8969.05,OPEX,Pending,Ryan Maxwell,0.1,False,9063.03,982.55
+B202407MAEV,2024,7,Marketing,Events,HR,11003.75,CAPEX,Pending,Bradley Jimenez,0.11,True,9436.97,776.52
+B202407OPLO,2024,7,Operations,Logistics,Admin,9610.81,CAPEX,Rejected,Gregory Barron,0.11,True,6075.62,873.01
+B202407OPUT,2024,7,Operations,Utilities,Engineering,16642.66,OPEX,Approved,Martin Reyes,0.06,False,10928.1,924.89
+B202407HRRE,2024,7,HR,Recruiting,Finance,9365.54,CAPEX,Rejected,Sierra Weber,0.15,True,12935.58,825.21
+B202407HRTR,2024,7,HR,Training,Engineering,9368.94,CAPEX,Rejected,Kimberly Anderson,0.06,True,8494.17,878.79
+B202407FAMA,2024,7,Facilities,Maintenance,Admin,12667.93,CAPEX,Rejected,Corey Soto,0.12,True,10758.97,600.86
+B202407FACL,2024,7,Facilities,Cleaning,HR,8163.66,OPEX,Pending,Ryan Robinson,0.17,False,11828.26,952.68
+B202408ITSO,2024,8,IT,Software,Sales,12091.67,OPEX,Pending,Jill Mcguire,0.15,False,10097.49,827.93
+B202408ITHA,2024,8,IT,Hardware,Sales,7610.61,OPEX,Pending,John Sanders,0.17,False,13342.94,309.61
+B202408ITCL,2024,8,IT,Cloud,Finance,6827.02,OPEX,Approved,Matthew Rodriguez,0.07,False,7384.0,229.99
+B202408MADI,2024,8,Marketing,Digital Ads,Engineering,7354.3,OPEX,Pending,Heather Robinson,0.1,True,10777.31,566.3
+B202408MASE,2024,8,Marketing,SEO,Admin,10104.27,CAPEX,Rejected,Melissa Rosario,0.13,False,10683.32,823.34
+B202408MAEV,2024,8,Marketing,Events,Sales,11395.94,CAPEX,Rejected,Jason Sellers,0.08,False,14159.49,752.48
+B202408OPLO,2024,8,Operations,Logistics,Engineering,13158.87,OPEX,Pending,Danny Haynes,0.09,False,10039.44,749.6
+B202408OPUT,2024,8,Operations,Utilities,Sales,9044.02,OPEX,Pending,Richard Lopez,0.07,True,9235.45,496.42
+B202408HRRE,2024,8,HR,Recruiting,Engineering,10417.91,CAPEX,Approved,Miguel Smith,0.2,False,7439.18,509.29
+B202408HRTR,2024,8,HR,Training,Engineering,13276.71,CAPEX,Pending,Rodney Brown,0.15,False,10340.85,836.76
+B202408FAMA,2024,8,Facilities,Maintenance,HR,8599.66,OPEX,Approved,Calvin Myers,0.11,True,11616.85,498.39
+B202408FACL,2024,8,Facilities,Cleaning,HR,7136.16,CAPEX,Pending,Barbara Adams,0.07,False,7856.09,907.93
+B202409ITSO,2024,9,IT,Software,HR,4266.99,CAPEX,Approved,Christopher Ryan,0.06,False,9621.19,310.49
+B202409ITHA,2024,9,IT,Hardware,Finance,12776.07,OPEX,Rejected,Brittney Hamilton,0.14,False,11124.44,634.23
+B202409ITCL,2024,9,IT,Cloud,HR,6244.76,OPEX,Pending,Brittany Ramirez,0.19,False,9047.51,419.07
+B202409MADI,2024,9,Marketing,Digital Ads,Sales,10383.73,CAPEX,Pending,James Gomez,0.17,False,5961.08,605.7
+B202409MASE,2024,9,Marketing,SEO,HR,5880.9,CAPEX,Approved,Chad Watson,0.16,True,11693.22,258.69
+B202409MAEV,2024,9,Marketing,Events,HR,12772.47,CAPEX,Rejected,Jerry Simpson,0.16,False,12704.75,569.54
+B202409OPLO,2024,9,Operations,Logistics,HR,11183.86,CAPEX,Approved,Ashley Graham,0.16,False,11942.66,776.3
+B202409OPUT,2024,9,Operations,Utilities,Engineering,6513.08,CAPEX,Pending,Pamela Lopez,0.1,True,9798.03,201.53
+B202409HRRE,2024,9,HR,Recruiting,Admin,12879.81,OPEX,Approved,Lauren Anderson,0.17,False,8521.67,590.51
+B202409HRTR,2024,9,HR,Training,HR,7134.33,OPEX,Approved,Dr. Stacey Davis,0.17,False,12484.72,371.72
+B202409FAMA,2024,9,Facilities,Maintenance,Finance,8237.97,OPEX,Pending,Richard Kim,0.06,False,3740.56,604.71
+B202409FACL,2024,9,Facilities,Cleaning,Admin,11024.32,CAPEX,Pending,Melinda Miller,0.18,False,13987.37,555.11
+B202410ITSO,2024,10,IT,Software,Finance,10036.71,OPEX,Approved,Phillip Arnold,0.05,True,8630.93,319.6
+B202410ITHA,2024,10,IT,Hardware,Finance,8382.87,OPEX,Pending,Thomas Brown,0.08,True,7666.48,859.31
+B202410ITCL,2024,10,IT,Cloud,Admin,10282.09,CAPEX,Approved,Robert Richards,0.16,False,7787.61,251.77
+B202410MADI,2024,10,Marketing,Digital Ads,HR,12008.7,CAPEX,Rejected,Robert Rivera,0.14,True,11672.97,411.61
+B202410MASE,2024,10,Marketing,SEO,HR,3200.4,CAPEX,Pending,Cody Martinez,0.2,False,12008.95,965.98
+B202410MAEV,2024,10,Marketing,Events,Sales,10076.99,OPEX,Approved,Jamie Rivas,0.14,True,12250.72,512.55
+B202410OPLO,2024,10,Operations,Logistics,Finance,12013.91,OPEX,Approved,Michael Lewis,0.12,True,8319.47,994.13
+B202410OPUT,2024,10,Operations,Utilities,Engineering,6071.02,CAPEX,Pending,Grace Turner,0.2,False,6059.02,915.72
+B202410HRRE,2024,10,HR,Recruiting,HR,11490.87,CAPEX,Rejected,Christopher Perez,0.15,True,5024.84,432.31
+B202410HRTR,2024,10,HR,Training,HR,7173.59,CAPEX,Approved,Jessica Cruz,0.16,False,9769.69,920.02
+B202410FAMA,2024,10,Facilities,Maintenance,Engineering,7953.85,OPEX,Approved,Thomas Camacho,0.17,False,9719.25,321.21
+B202410FACL,2024,10,Facilities,Cleaning,Sales,10950.04,OPEX,Approved,Robert Anderson,0.06,True,7329.57,477.89
+B202411ITSO,2024,11,IT,Software,Admin,5999.83,OPEX,Approved,Samantha Short MD,0.06,False,11783.0,328.15
+B202411ITHA,2024,11,IT,Hardware,Admin,9402.72,CAPEX,Rejected,Gregory Brown,0.05,False,12083.76,773.54
+B202411ITCL,2024,11,IT,Cloud,Finance,12804.28,CAPEX,Rejected,Kelsey Edwards,0.19,False,10244.19,337.58
+B202411MADI,2024,11,Marketing,Digital Ads,Sales,13508.46,OPEX,Pending,Erik Brown,0.18,False,12760.07,886.48
+B202411MASE,2024,11,Marketing,SEO,Admin,7705.47,CAPEX,Rejected,Nicole Carter,0.09,True,9929.63,607.0
+B202411MAEV,2024,11,Marketing,Events,Finance,5146.41,CAPEX,Rejected,Patrick Estrada,0.16,True,5659.81,777.38
+B202411OPLO,2024,11,Operations,Logistics,Engineering,5621.92,CAPEX,Approved,Joseph Patrick,0.11,False,8158.76,560.23
+B202411OPUT,2024,11,Operations,Utilities,Admin,12037.12,OPEX,Rejected,Heather Joyce,0.13,True,9451.63,603.73
+B202411HRRE,2024,11,HR,Recruiting,Finance,19187.55,OPEX,Rejected,Brian Liu,0.14,False,10347.44,805.36
+B202411HRTR,2024,11,HR,Training,Sales,7312.28,CAPEX,Pending,Willie Price,0.11,True,10307.22,468.9
+B202411FAMA,2024,11,Facilities,Maintenance,Admin,7406.4,OPEX,Rejected,Danielle Stone,0.12,True,9829.3,400.7
+B202411FACL,2024,11,Facilities,Cleaning,HR,11828.9,CAPEX,Approved,Justin Cantu,0.16,True,11361.29,596.63
+B202412ITSO,2024,12,IT,Software,Sales,9841.15,OPEX,Approved,Brandy Melton,0.1,False,16812.94,353.99
+B202412ITHA,2024,12,IT,Hardware,HR,7540.6,OPEX,Approved,Kevin Hanson,0.16,True,10938.64,243.78
+B202412ITCL,2024,12,IT,Cloud,Engineering,11290.48,CAPEX,Rejected,Suzanne Shields,0.18,True,8791.0,861.79
+B202412MADI,2024,12,Marketing,Digital Ads,HR,11809.8,OPEX,Approved,Maria Clark,0.2,True,9390.12,972.86
+B202412MASE,2024,12,Marketing,SEO,Engineering,6149.84,OPEX,Pending,Meredith Lane,0.07,False,7907.13,896.74
+B202412MAEV,2024,12,Marketing,Events,HR,10841.46,CAPEX,Approved,Tyler Allen,0.06,False,11441.01,563.44
+B202412OPLO,2024,12,Operations,Logistics,Engineering,14125.13,OPEX,Rejected,Tristan Gonzalez,0.09,False,7548.08,663.38
+B202412OPUT,2024,12,Operations,Utilities,Engineering,10381.16,OPEX,Rejected,Patty Russell,0.12,True,10060.87,889.99
+B202412HRRE,2024,12,HR,Recruiting,Finance,9035.7,OPEX,Pending,David Taylor,0.07,True,8069.89,935.39
+B202412HRTR,2024,12,HR,Training,Finance,8539.56,OPEX,Rejected,Brandi Wood,0.07,True,12423.64,466.1
+B202412FAMA,2024,12,Facilities,Maintenance,HR,8322.47,OPEX,Pending,Jesse Hinton,0.13,False,10007.32,826.64
+B202412FACL,2024,12,Facilities,Cleaning,HR,11348.19,CAPEX,Pending,Karen Chapman,0.11,True,11805.18,980.18
+B202501ITSO,2025,1,IT,Software,Sales,8605.1,CAPEX,Approved,Ashley Boyle,0.09,False,8654.21,808.98
+B202501ITHA,2025,1,IT,Hardware,Sales,4335.97,OPEX,Pending,Sarah Thornton DDS,0.2,False,9626.23,648.04
+B202501ITCL,2025,1,IT,Cloud,Engineering,8925.36,OPEX,Approved,Dennis David,0.14,True,5207.5,395.37
+B202501MADI,2025,1,Marketing,Digital Ads,Finance,9448.8,CAPEX,Rejected,Yesenia Fuentes,0.07,True,8617.91,439.13
+B202501MASE,2025,1,Marketing,SEO,Engineering,12259.66,CAPEX,Approved,Autumn Foster,0.19,True,13344.75,488.95
+B202501MAEV,2025,1,Marketing,Events,Sales,4781.89,CAPEX,Rejected,Stacey Bailey,0.08,True,10345.47,659.89
+B202501OPLO,2025,1,Operations,Logistics,Sales,3431.15,OPEX,Rejected,Briana Soto,0.14,True,8163.7,678.41
+B202501OPUT,2025,1,Operations,Utilities,Sales,12759.16,CAPEX,Approved,Kaitlyn Weiss,0.15,True,10309.07,878.19
+B202501HRRE,2025,1,HR,Recruiting,Admin,8427.15,CAPEX,Approved,Thomas Keller,0.1,False,14117.52,364.0
+B202501HRTR,2025,1,HR,Training,Finance,15047.93,CAPEX,Pending,Jennifer Spencer,0.14,False,9184.73,715.11
+B202501FAMA,2025,1,Facilities,Maintenance,Engineering,9827.76,OPEX,Pending,Keith Dennis,0.07,True,12717.77,968.85
+B202501FACL,2025,1,Facilities,Cleaning,Finance,7545.28,OPEX,Approved,Bernard Quinn,0.18,True,5736.67,438.63
+B202502ITSO,2025,2,IT,Software,Sales,11093.54,OPEX,Rejected,Bryan Palmer,0.07,True,13680.4,647.53
+B202502ITHA,2025,2,IT,Hardware,Sales,9531.05,OPEX,Rejected,Lee Johnson DDS,0.19,True,13223.77,335.73
+B202502ITCL,2025,2,IT,Cloud,HR,10513.19,CAPEX,Approved,Sharon Pena,0.14,True,8867.55,636.21
+B202502MADI,2025,2,Marketing,Digital Ads,Admin,4549.96,CAPEX,Approved,Joseph Ibarra,0.11,False,13345.43,225.95
+B202502MASE,2025,2,Marketing,SEO,Sales,11569.43,CAPEX,Approved,Michelle Solis,0.11,False,5950.63,423.1
+B202502MAEV,2025,2,Marketing,Events,Engineering,8002.01,CAPEX,Rejected,Chad Wells,0.1,True,13047.73,759.98
+B202502OPLO,2025,2,Operations,Logistics,Sales,11622.35,CAPEX,Rejected,Maria Brennan,0.19,True,10233.1,884.83
+B202502OPUT,2025,2,Operations,Utilities,Sales,9618.4,CAPEX,Approved,Christopher King,0.06,False,9728.92,680.21
+B202502HRRE,2025,2,HR,Recruiting,HR,5274.99,CAPEX,Rejected,Jerry Evans,0.09,False,8816.68,492.21
+B202502HRTR,2025,2,HR,Training,Admin,14049.75,CAPEX,Rejected,Laura Leblanc,0.07,False,10702.89,829.52
+B202502FAMA,2025,2,Facilities,Maintenance,Engineering,9030.62,CAPEX,Pending,Glenn Villa,0.13,True,11368.39,407.24
+B202502FACL,2025,2,Facilities,Cleaning,Admin,11961.16,OPEX,Rejected,Danny Johnson,0.19,False,12017.22,649.91
+B202503ITSO,2025,3,IT,Software,Engineering,8088.68,CAPEX,Pending,Terry Hahn,0.2,False,9182.38,377.38
+B202503ITHA,2025,3,IT,Hardware,Engineering,10065.13,CAPEX,Pending,Amy White,0.2,False,10785.46,775.64
+B202503ITCL,2025,3,IT,Cloud,Sales,12027.08,OPEX,Pending,Amy Martinez,0.06,True,6961.97,387.11
+B202503MADI,2025,3,Marketing,Digital Ads,Admin,15457.03,OPEX,Approved,Kristin Taylor,0.1,False,8088.83,540.31
+B202503MASE,2025,3,Marketing,SEO,Engineering,10049.19,CAPEX,Approved,Haley Collins,0.09,True,8687.21,515.9
+B202503MAEV,2025,3,Marketing,Events,Engineering,12588.57,OPEX,Approved,Amanda Butler,0.16,False,8928.76,649.73
+B202503OPLO,2025,3,Operations,Logistics,Finance,13196.86,OPEX,Approved,Sandra Martin,0.18,False,6802.56,776.27
+B202503OPUT,2025,3,Operations,Utilities,Finance,10320.53,OPEX,Approved,Whitney Ortiz,0.1,False,8944.44,380.95
+B202503HRRE,2025,3,HR,Recruiting,Sales,5834.2,OPEX,Pending,Heather Clark,0.1,True,6201.27,847.85
+B202503HRTR,2025,3,HR,Training,Admin,10624.58,CAPEX,Pending,Amber Johnson,0.14,True,14221.71,615.76
+B202503FAMA,2025,3,Facilities,Maintenance,Admin,10388.52,OPEX,Rejected,Robert Stewart,0.17,True,10115.23,300.42
+B202503FACL,2025,3,Facilities,Cleaning,Finance,8894.33,CAPEX,Pending,Robert Thompson,0.07,False,9434.68,627.51
+B202504ITSO,2025,4,IT,Software,Sales,11034.61,OPEX,Approved,Linda Long,0.15,False,11161.61,908.41
+B202504ITHA,2025,4,IT,Hardware,Admin,9911.5,CAPEX,Rejected,Mrs. Alexis Galloway,0.1,False,13901.29,578.97
+B202504ITCL,2025,4,IT,Cloud,HR,12172.34,OPEX,Approved,Jack Bird,0.09,False,7242.22,482.05
+B202504MADI,2025,4,Marketing,Digital Ads,Engineering,11808.7,OPEX,Pending,Sara Reed,0.18,True,11503.76,603.68
+B202504MASE,2025,4,Marketing,SEO,Finance,3669.49,CAPEX,Rejected,Krista Novak,0.2,False,11809.98,792.36
+B202504MAEV,2025,4,Marketing,Events,HR,7007.03,CAPEX,Pending,David Collins,0.15,True,12832.68,812.31
+B202504OPLO,2025,4,Operations,Logistics,Engineering,13767.69,CAPEX,Rejected,Joshua Carter,0.17,True,6277.59,613.68
+B202504OPUT,2025,4,Operations,Utilities,HR,3758.0,CAPEX,Pending,Michael Weber,0.06,False,7468.95,944.54
+B202504HRRE,2025,4,HR,Recruiting,Admin,13614.66,CAPEX,Pending,Shannon Lewis,0.1,False,5934.93,987.19
+B202504HRTR,2025,4,HR,Training,Finance,1519.26,CAPEX,Rejected,Andrea Taylor,0.17,True,11600.43,703.19
+B202504FAMA,2025,4,Facilities,Maintenance,Engineering,11896.56,OPEX,Pending,Kenneth Salazar,0.09,False,10429.47,431.77
+B202504FACL,2025,4,Facilities,Cleaning,Sales,4972.78,CAPEX,Approved,Laura Frank,0.17,True,9090.01,435.51
+B202505ITSO,2025,5,IT,Software,HR,13620.39,OPEX,Approved,Tyler Schwartz,0.06,False,6766.42,353.13
+B202505ITHA,2025,5,IT,Hardware,HR,14335.17,CAPEX,Approved,Courtney Cantrell,0.15,False,11793.49,910.11
+B202505ITCL,2025,5,IT,Cloud,Sales,6442.13,CAPEX,Pending,Teresa Hoover,0.12,True,5533.05,323.23
+B202505MADI,2025,5,Marketing,Digital Ads,Sales,9006.23,OPEX,Pending,Patrick Thomas,0.15,False,8678.08,798.39
+B202505MASE,2025,5,Marketing,SEO,Sales,13515.35,CAPEX,Pending,Gregory Lee,0.14,False,9923.45,721.26
+B202505MAEV,2025,5,Marketing,Events,Finance,7992.23,OPEX,Pending,Jason Morris,0.18,False,12080.19,211.9
+B202505OPLO,2025,5,Operations,Logistics,Sales,8758.8,CAPEX,Rejected,Jocelyn Martinez,0.16,True,5084.97,418.02
+B202505OPUT,2025,5,Operations,Utilities,Admin,11375.0,CAPEX,Pending,John Wilson,0.13,True,11345.97,233.49
+B202505HRRE,2025,5,HR,Recruiting,Engineering,12973.25,OPEX,Pending,Andres Lane,0.13,False,8930.77,575.53
+B202505HRTR,2025,5,HR,Training,Sales,6861.95,CAPEX,Rejected,Tammy Long,0.13,True,14204.23,271.37
+B202505FAMA,2025,5,Facilities,Maintenance,Sales,7924.58,OPEX,Rejected,Stephen Thomas,0.08,False,11187.44,426.82
+B202505FACL,2025,5,Facilities,Cleaning,HR,8906.84,CAPEX,Pending,Brett Pierce,0.16,True,8407.19,200.34
+B202506ITSO,2025,6,IT,Software,HR,10504.48,OPEX,Rejected,Donald Henderson,0.2,True,9187.82,716.5
+B202506ITHA,2025,6,IT,Hardware,HR,12749.59,OPEX,Pending,Bridget Nelson,0.14,True,9520.87,509.64
+B202506ITCL,2025,6,IT,Cloud,Admin,10607.98,CAPEX,Pending,Dr. Ronald Cobb,0.15,True,5716.03,267.9
+B202506MADI,2025,6,Marketing,Digital Ads,Engineering,15039.2,CAPEX,Pending,Andrea Patel,0.15,True,12717.56,203.45
+B202506MASE,2025,6,Marketing,SEO,HR,10480.76,OPEX,Rejected,Christopher Turner,0.18,True,9422.45,903.03
+B202506MAEV,2025,6,Marketing,Events,Sales,12037.2,OPEX,Rejected,Allen Frederick,0.11,False,9941.85,314.95
+B202506OPLO,2025,6,Operations,Logistics,Finance,14017.83,OPEX,Pending,Marie Brown,0.2,True,8743.88,310.56
+B202506OPUT,2025,6,Operations,Utilities,Admin,13194.57,OPEX,Rejected,Adam Mathis,0.11,False,10947.72,639.11
+B202506HRRE,2025,6,HR,Recruiting,Finance,11853.66,CAPEX,Pending,Brian Rubio,0.14,False,7209.12,878.15
+B202506HRTR,2025,6,HR,Training,Finance,14406.97,CAPEX,Approved,Ian Becker,0.09,True,8547.37,467.18
+B202506FAMA,2025,6,Facilities,Maintenance,HR,11393.41,CAPEX,Rejected,Danielle Hudson,0.13,True,7460.77,480.38
+B202506FACL,2025,6,Facilities,Cleaning,Admin,8411.35,CAPEX,Pending,Amanda Martinez,0.09,False,7271.73,517.64
+B202507ITSO,2025,7,IT,Software,HR,5008.74,OPEX,Rejected,Darlene Jones,0.13,False,7103.31,788.32
+B202507ITHA,2025,7,IT,Hardware,Sales,15182.8,CAPEX,Pending,Terri Bean,0.13,True,9396.3,535.17
+B202507ITCL,2025,7,IT,Cloud,Engineering,10355.81,OPEX,Approved,Linda Martinez,0.16,True,9129.61,889.06
+B202507MADI,2025,7,Marketing,Digital Ads,Finance,5432.98,OPEX,Rejected,Matthew Martinez,0.11,True,11111.43,657.73
+B202507MASE,2025,7,Marketing,SEO,Finance,15468.34,CAPEX,Approved,Robert Cummings,0.08,False,11077.94,458.04
+B202507MAEV,2025,7,Marketing,Events,Finance,10031.98,CAPEX,Rejected,Matthew Morales,0.14,True,6788.77,995.8
+B202507OPLO,2025,7,Operations,Logistics,Finance,10114.07,OPEX,Pending,Leonard Young,0.08,False,7581.14,652.35
+B202507OPUT,2025,7,Operations,Utilities,Sales,6558.18,CAPEX,Rejected,Kaitlin Hahn,0.09,True,15381.19,488.89
+B202507HRRE,2025,7,HR,Recruiting,HR,7300.85,CAPEX,Pending,Patrick Jackson,0.17,True,11183.88,452.36
+B202507HRTR,2025,7,HR,Training,Sales,7445.93,CAPEX,Rejected,Dr. Shannon King,0.15,False,9962.45,945.86
+B202507FAMA,2025,7,Facilities,Maintenance,Sales,5362.64,OPEX,Approved,Brian Evans,0.05,True,9482.3,256.48
+B202507FACL,2025,7,Facilities,Cleaning,Finance,10367.51,CAPEX,Pending,Heather Vargas,0.09,False,12868.97,610.45
+B202508ITSO,2025,8,IT,Software,Admin,7150.45,CAPEX,Pending,Kevin Hamilton,0.15,False,6722.18,609.48
+B202508ITHA,2025,8,IT,Hardware,Engineering,10597.44,OPEX,Rejected,Logan Johnson,0.19,False,12385.09,890.59
+B202508ITCL,2025,8,IT,Cloud,Finance,7700.17,CAPEX,Rejected,Michael Simon,0.2,False,7149.99,288.47
+B202508MADI,2025,8,Marketing,Digital Ads,HR,6615.38,CAPEX,Rejected,Suzanne Smith,0.18,True,7599.16,839.44
+B202508MASE,2025,8,Marketing,SEO,Admin,14789.95,OPEX,Pending,Joseph Mills,0.14,False,8746.52,443.44
+B202508MAEV,2025,8,Marketing,Events,Sales,9562.72,CAPEX,Approved,Ashley Woods,0.08,True,14335.77,310.24
+B202508OPLO,2025,8,Operations,Logistics,Admin,8354.54,OPEX,Rejected,Brittany Miller,0.14,True,7708.54,328.04
+B202508OPUT,2025,8,Operations,Utilities,Engineering,6624.86,OPEX,Pending,Kayla Miles,0.15,False,8552.66,495.22
+B202508HRRE,2025,8,HR,Recruiting,Admin,11947.76,CAPEX,Rejected,Rebecca Moore,0.08,True,9897.05,324.82
+B202508HRTR,2025,8,HR,Training,Engineering,10356.9,CAPEX,Rejected,Anthony Hughes,0.09,True,5180.16,498.68
+B202508FAMA,2025,8,Facilities,Maintenance,HR,9387.07,OPEX,Rejected,Anna Brooks,0.12,False,12532.71,746.52
+B202508FACL,2025,8,Facilities,Cleaning,Admin,9159.66,CAPEX,Rejected,Douglas Glenn,0.14,True,8934.9,963.21
+B202509ITSO,2025,9,IT,Software,Admin,12906.35,OPEX,Rejected,Alexandra Lopez,0.16,True,8563.81,355.42
+B202509ITHA,2025,9,IT,Hardware,Admin,8861.94,CAPEX,Pending,Taylor Hodges,0.2,True,7731.14,422.7
+B202509ITCL,2025,9,IT,Cloud,HR,9739.26,OPEX,Pending,Timothy Ray,0.15,True,9642.11,753.74
+B202509MADI,2025,9,Marketing,Digital Ads,Sales,11412.14,OPEX,Approved,Mr. Philip Lee,0.09,True,10866.26,933.57
+B202509MASE,2025,9,Marketing,SEO,Finance,10952.53,OPEX,Approved,Alyssa Lucas,0.07,False,11764.19,228.05
+B202509MAEV,2025,9,Marketing,Events,Finance,1600.0,OPEX,Approved,Dillon Duncan,0.07,True,8136.78,782.55
+B202509OPLO,2025,9,Operations,Logistics,HR,12562.21,OPEX,Approved,Jacob Jones,0.09,False,12550.09,915.4
+B202509OPUT,2025,9,Operations,Utilities,HR,6713.45,OPEX,Approved,Brandon Vega,0.09,False,5629.28,470.53
+B202509HRRE,2025,9,HR,Recruiting,Sales,8020.11,OPEX,Approved,Michael Huang,0.19,True,8102.97,621.49
+B202509HRTR,2025,9,HR,Training,HR,9044.26,OPEX,Rejected,Alicia Larsen,0.18,False,6065.66,769.45
+B202509FAMA,2025,9,Facilities,Maintenance,Engineering,11650.0,OPEX,Pending,Sergio Smith,0.07,False,9959.99,557.84
+B202509FACL,2025,9,Facilities,Cleaning,Finance,14986.21,CAPEX,Rejected,John Garcia,0.06,True,12239.95,807.44
+B202510ITSO,2025,10,IT,Software,Admin,8531.33,CAPEX,Rejected,Ronald Carter,0.07,False,10254.19,887.25
+B202510ITHA,2025,10,IT,Hardware,HR,4264.67,CAPEX,Approved,Jessica Baker,0.16,True,1903.6,665.86
+B202510ITCL,2025,10,IT,Cloud,Engineering,12945.55,OPEX,Pending,Anna Mendoza,0.15,True,12430.98,584.49
+B202510MADI,2025,10,Marketing,Digital Ads,Sales,12588.77,CAPEX,Approved,Jason Moore MD,0.14,True,9716.48,759.07
+B202510MASE,2025,10,Marketing,SEO,HR,8666.45,OPEX,Pending,Connie Thomas,0.16,True,6206.56,408.58
+B202510MAEV,2025,10,Marketing,Events,Engineering,7305.12,OPEX,Pending,Joshua Morales,0.1,False,7999.08,846.53
+B202510OPLO,2025,10,Operations,Logistics,HR,8982.89,OPEX,Approved,Matthew Walters,0.07,True,1976.76,503.64
+B202510OPUT,2025,10,Operations,Utilities,Admin,9138.53,OPEX,Rejected,Billy Walters,0.14,True,9868.27,683.89
+B202510HRRE,2025,10,HR,Recruiting,Finance,11836.12,CAPEX,Rejected,Billy Booker,0.1,False,9875.04,599.13
+B202510HRTR,2025,10,HR,Training,Admin,5599.08,CAPEX,Pending,Randy Garcia,0.1,False,6999.58,252.39
+B202510FAMA,2025,10,Facilities,Maintenance,HR,9040.4,OPEX,Pending,Michael Howard,0.1,True,5350.79,507.86
+B202510FACL,2025,10,Facilities,Cleaning,Sales,9283.45,OPEX,Rejected,Samantha Bird,0.2,False,11535.78,241.09
+B202511ITSO,2025,11,IT,Software,Finance,5530.85,CAPEX,Approved,Craig Aguirre,0.06,False,13349.67,523.54
+B202511ITHA,2025,11,IT,Hardware,HR,12429.29,OPEX,Pending,Trevor Sherman,0.07,True,10361.06,520.98
+B202511ITCL,2025,11,IT,Cloud,Finance,9654.31,CAPEX,Rejected,Carly Smith,0.08,True,13542.24,615.12
+B202511MADI,2025,11,Marketing,Digital Ads,Engineering,8784.44,OPEX,Pending,Alexander Robinson,0.17,True,12037.15,891.45
+B202511MASE,2025,11,Marketing,SEO,Finance,6266.53,CAPEX,Approved,Pamela Smith,0.14,True,9575.1,716.57
+B202511MAEV,2025,11,Marketing,Events,Engineering,17357.51,OPEX,Pending,Melissa Reilly,0.1,False,9115.32,717.07
+B202511OPLO,2025,11,Operations,Logistics,HR,11154.55,OPEX,Approved,Jamie Santos,0.06,False,7865.52,907.74
+B202511OPUT,2025,11,Operations,Utilities,Engineering,10615.49,CAPEX,Approved,Charles Cook,0.07,False,9815.97,948.65
+B202511HRRE,2025,11,HR,Recruiting,Admin,9573.25,CAPEX,Pending,Joshua Greene,0.12,True,8580.0,740.08
+B202511HRTR,2025,11,HR,Training,HR,15094.84,OPEX,Approved,Laura Smith,0.11,True,9732.89,665.66
+B202511FAMA,2025,11,Facilities,Maintenance,Sales,11935.28,OPEX,Pending,Justin Williams,0.07,False,10266.21,652.44
+B202511FACL,2025,11,Facilities,Cleaning,Finance,5788.0,CAPEX,Rejected,Nicole Schultz,0.1,False,6065.08,709.21
+B202512ITSO,2025,12,IT,Software,Engineering,14082.94,OPEX,Pending,Preston Andrade,0.16,False,11622.42,948.66
+B202512ITHA,2025,12,IT,Hardware,Admin,4848.36,CAPEX,Rejected,Cody Elliott,0.1,False,9175.36,919.64
+B202512ITCL,2025,12,IT,Cloud,Admin,4605.53,CAPEX,Rejected,Brandon Lewis,0.13,False,6906.97,666.17
+B202512MADI,2025,12,Marketing,Digital Ads,HR,15317.81,CAPEX,Pending,William Gordon,0.13,False,9560.73,472.9
+B202512MASE,2025,12,Marketing,SEO,Finance,8123.32,CAPEX,Pending,David Moran,0.08,False,10652.18,801.6
+B202512MAEV,2025,12,Marketing,Events,Finance,13773.68,CAPEX,Rejected,Cassandra Golden,0.11,False,8057.78,973.6
+B202512OPLO,2025,12,Operations,Logistics,Finance,9379.63,OPEX,Approved,Hector Gutierrez,0.09,False,5990.39,685.34
+B202512OPUT,2025,12,Operations,Utilities,Finance,15481.12,CAPEX,Pending,Austin Baxter,0.07,True,6315.99,463.13
+B202512HRRE,2025,12,HR,Recruiting,Engineering,12581.47,OPEX,Approved,Xavier Arias,0.08,True,6901.21,570.38
+B202512HRTR,2025,12,HR,Training,HR,10554.1,CAPEX,Approved,Caleb Thompson,0.09,True,8641.02,438.52
+B202512FAMA,2025,12,Facilities,Maintenance,Admin,12365.58,OPEX,Pending,Christine Hines,0.1,False,8636.24,853.21
+B202512FACL,2025,12,Facilities,Cleaning,Finance,19531.18,OPEX,Approved,Samantha Ramsey,0.19,True,10807.92,405.79

@@ -1,0 +1,13 @@
+category,subcategory,market_price_low,market_price_high,market_price_avg,pricing_model,geographic_region,last_updated,data_source,confidence_level,trend_direction,seasonal_adjustment,volume_tier_pricing
+IT,Software,1162,1588,1375.0,Fixed,APAC,2025-06-01,Internal,High,Down,True,True
+IT,Hardware,860,1971,1415.5,Fixed,Europe,2025-06-01,External Consultant,Medium,Stable,True,False
+IT,Cloud,1083,1919,1501.0,Tiered,APAC,2025-06-01,Internal,Low,Down,False,False
+Marketing,Digital Ads,1068,1996,1532.0,Fixed,APAC,2025-06-01,Gartner,High,Stable,True,False
+Marketing,SEO,1150,1408,1279.0,Volume-Based,Europe,2025-06-01,Gartner,Low,Down,True,False
+Marketing,Events,803,1776,1289.5,Volume-Based,APAC,2025-06-01,Internal,Medium,Up,False,False
+Operations,Logistics,873,1696,1284.5,Fixed,North America,2025-06-01,External Consultant,Low,Down,False,False
+Operations,Utilities,1049,1420,1234.5,Volume-Based,North America,2025-06-01,External Consultant,High,Down,False,True
+HR,Recruiting,1133,1532,1332.5,Volume-Based,APAC,2025-06-01,Internal,Low,Stable,True,False
+HR,Training,882,1420,1151.0,Fixed,Europe,2025-06-01,External Consultant,Low,Stable,False,False
+Facilities,Maintenance,912,1720,1316.0,Fixed,North America,2025-06-01,Gartner,High,Down,False,True
+Facilities,Cleaning,1167,1326,1246.5,Tiered,APAC,2025-06-01,Internal,Medium,Up,False,True

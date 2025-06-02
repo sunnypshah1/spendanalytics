@@ -1,0 +1,1001 @@
+vendor_id,vendor_name,category,subcategory,risk_score,financial_health,location,size,contract_start,primary_contact,payment_terms,preferred_vendor_status,spend_volume_tier,contract_complexity,renewal_frequency,price_escalation_terms
+V0000,"Rodriguez, Figueroa and Sanchez",IT,Cloud,2.37,Poor,Lake Curtis,Large,2023-12-29,garzaanthony@example.org,Net 60,False,Medium,Medium,Annual,CPI Linked
+V0001,Hall PLC,Operations,Logistics,8.46,Poor,New Jamesside,Medium,2023-04-23,shaneramirez@example.org,Net 45,True,Low,High,Annual,CPI Linked
+V0002,Wolfe LLC,Marketing,SEO,6.43,Poor,Ericmouth,Small,2022-08-20,jamesmichael@example.com,Net 60,False,Medium,Low,Biennial,CPI Linked
+V0003,"Baker, Williams and Stevens",IT,Cloud,3.58,Poor,South Christianport,Large,2024-03-07,barbara10@example.net,Net 30,False,Low,Low,Annual,Negotiated
+V0004,Mejia Inc,Marketing,Digital Ads,3.15,Good,Port Craig,Small,2023-01-03,xreid@example.org,Net 60,False,Low,Low,Biennial,Negotiated
+V0005,Kelly-Santiago,Facilities,Maintenance,6.27,Good,New Cynthiaside,Medium,2023-12-20,frankgray@example.net,Net 45,False,Low,Low,Annual,Fixed
+V0006,"Hawkins, Cohen and Cameron",HR,Recruiting,6.25,Average,East Lydiamouth,Small,2023-04-09,carl95@example.org,Net 45,False,Medium,High,Annual,Negotiated
+V0007,"Porter, Wilkerson and Day",Marketing,Digital Ads,8.31,Poor,West Donald,Small,2024-01-01,julie69@example.com,Net 60,True,High,High,Annual,Fixed
+V0008,Robinson-Bright,Operations,Logistics,3.64,Poor,Daviston,Small,2024-03-31,hernandezernest@example.net,Net 60,False,Low,Low,Annual,Fixed
+V0009,Carlson-Cruz,Marketing,Events,2.93,Poor,Riceside,Medium,2024-03-31,frazierdanny@example.net,Net 30,False,Low,Medium,Annual,Fixed
+V0010,Mack-Peterson,IT,Cloud,5.34,Poor,Ryanmouth,Large,2022-06-04,teresa28@example.org,Net 30,False,Medium,Medium,Biennial,Negotiated
+V0011,"Evans, Fowler and Lynch",HR,Recruiting,6.65,Average,West Kathryn,Medium,2023-07-25,georgetracy@example.org,Net 60,True,Low,Medium,Annual,Fixed
+V0012,Koch-Decker,HR,Training,3.05,Good,Johnbury,Small,2024-04-13,millertodd@example.org,Net 45,False,Low,High,Annual,Negotiated
+V0013,"Cannon, Anderson and Alvarez",Marketing,Events,5.39,Average,West Allison,Small,2023-09-16,ibrandt@example.net,Net 30,True,Medium,High,Biennial,Negotiated
+V0014,"Harris, Collins and Carney",Marketing,Events,4.82,Good,Samuelhaven,Small,2023-05-18,wrightcaleb@example.org,Net 30,True,Medium,High,Biennial,Fixed
+V0015,"Spencer, Chapman and Smith",HR,Recruiting,3.74,Good,East Carloston,Small,2024-03-30,chad34@example.net,Net 45,True,Low,High,Biennial,Fixed
+V0016,Lewis-Anderson,Facilities,Cleaning,3.19,Average,Sanchezfort,Medium,2024-02-19,glee@example.net,Net 30,True,Low,High,Annual,CPI Linked
+V0017,Gomez-Jenkins,Operations,Logistics,4.31,Average,Lake Deniseville,Small,2022-07-19,zchandler@example.org,Net 60,True,Medium,Low,Annual,CPI Linked
+V0018,Lee PLC,IT,Cloud,1.84,Average,Taylorburgh,Medium,2023-01-04,ewright@example.com,Net 30,False,Low,High,Annual,CPI Linked
+V0019,"Garcia, Pearson and Fernandez",IT,Software,8.02,Poor,North Sarabury,Large,2022-10-09,ntucker@example.com,Net 45,False,High,Medium,Biennial,Negotiated
+V0020,Martin Inc,Facilities,Maintenance,5.61,Average,Bakermouth,Medium,2023-01-09,uhorton@example.net,Net 30,False,Low,High,Biennial,Fixed
+V0021,"Higgins, Moore and Phillips",Facilities,Maintenance,9.78,Average,New Jillton,Small,2024-01-03,brian97@example.net,Net 60,False,Low,Medium,Annual,Fixed
+V0022,"Moore, Yu and Miller",HR,Training,0.75,Average,North Brooke,Small,2023-11-08,richarddavid@example.net,Net 30,False,Medium,High,Annual,Fixed
+V0023,Riley Inc,IT,Software,0.97,Good,South Dianeshire,Large,2023-07-13,sarah35@example.org,Net 30,True,Medium,Low,Biennial,Negotiated
+V0024,Foster-Powers,Facilities,Cleaning,4.86,Poor,Stephenland,Medium,2022-06-09,khowell@example.org,Net 45,True,High,Low,Biennial,Fixed
+V0025,Medina PLC,Marketing,Digital Ads,3.67,Poor,Davidstad,Large,2024-04-16,suarezmike@example.org,Net 30,False,Medium,Low,Biennial,Negotiated
+V0026,Bass-Warner,IT,Cloud,7.05,Good,Lake Lisaport,Small,2024-05-25,mcmillandennis@example.org,Net 60,False,Medium,Low,Annual,Fixed
+V0027,Newton and Sons,IT,Hardware,6.79,Average,Juanborough,Large,2023-12-11,james48@example.com,Net 45,False,Medium,High,Annual,Fixed
+V0028,Whitehead-Mathis,IT,Hardware,9.04,Average,Lake Rodneyview,Small,2022-07-06,cookdavid@example.com,Net 45,False,Low,Low,Annual,Negotiated
+V0029,Figueroa PLC,IT,Hardware,0.21,Average,Hoffmanville,Medium,2022-07-30,amydavenport@example.net,Net 60,False,Low,Low,Annual,CPI Linked
+V0030,"Hernandez, Anderson and Parker",Operations,Logistics,3.19,Poor,West Jasonbury,Large,2023-11-02,gomezanita@example.com,Net 30,False,High,Medium,Biennial,Negotiated
+V0031,"Brady, Frost and Young",Facilities,Cleaning,1.55,Average,Port Lisa,Medium,2024-04-16,vjohnson@example.com,Net 45,False,High,Low,Biennial,Negotiated
+V0032,Pham-Shields,Operations,Logistics,3.1,Good,West Erik,Small,2023-11-28,reyesbenjamin@example.com,Net 45,True,Low,High,Biennial,Fixed
+V0033,Gonzalez Group,Facilities,Cleaning,5.88,Average,Kevinbury,Medium,2022-11-22,kellerraymond@example.com,Net 30,False,Medium,Low,Annual,Fixed
+V0034,Rasmussen LLC,HR,Training,9.12,Poor,Darlenefurt,Medium,2023-11-11,sheila14@example.org,Net 30,False,High,High,Biennial,Negotiated
+V0035,"Estes, Baker and Rodriguez",Marketing,SEO,1.29,Average,Reedmouth,Small,2023-05-06,cruzbarbara@example.com,Net 60,False,Medium,Low,Biennial,CPI Linked
+V0036,Fletcher Inc,Marketing,Digital Ads,3.16,Good,West Ryan,Medium,2023-10-30,cindy14@example.net,Net 45,True,Low,Medium,Biennial,CPI Linked
+V0037,Estrada-Nguyen,Facilities,Maintenance,5.54,Poor,Angelaborough,Medium,2023-04-24,lbyrd@example.net,Net 60,False,Medium,Low,Biennial,Fixed
+V0038,"Turner, Kelley and Smith",IT,Cloud,2.39,Good,Jasonshire,Large,2023-09-16,steven73@example.net,Net 30,False,Low,Low,Annual,Fixed
+V0039,Leon-Moyer,Marketing,Events,7.61,Good,Lake Christopher,Large,2023-07-07,clarence34@example.org,Net 60,False,Medium,Medium,Biennial,Negotiated
+V0040,Hernandez Inc,IT,Hardware,8.11,Average,South Cheryl,Large,2024-01-19,gibsonolivia@example.net,Net 60,True,Medium,Low,Biennial,CPI Linked
+V0041,Higgins Group,Marketing,SEO,1.09,Poor,Rossberg,Medium,2023-10-24,staffordmichelle@example.org,Net 30,True,High,Medium,Annual,CPI Linked
+V0042,Robinson-Brock,Marketing,SEO,5.54,Poor,Williamsbury,Small,2024-05-14,bryantlaurie@example.net,Net 30,False,High,High,Annual,CPI Linked
+V0043,"Travis, Larson and Dodson",Operations,Logistics,4.19,Poor,Salazarhaven,Large,2023-04-29,vmerritt@example.com,Net 45,False,Low,Medium,Biennial,Negotiated
+V0044,Green-Wright,Operations,Logistics,9.54,Poor,Katiehaven,Medium,2023-06-13,joshuajones@example.com,Net 30,False,Low,Medium,Annual,CPI Linked
+V0045,Nelson LLC,Facilities,Cleaning,0.75,Average,East Edwardfurt,Large,2023-11-23,jasminebrown@example.com,Net 45,True,Low,Low,Biennial,Fixed
+V0046,Daniels-Perry,Facilities,Cleaning,0.97,Poor,Port Robert,Small,2024-05-04,gateskathy@example.com,Net 45,True,Medium,Medium,Biennial,CPI Linked
+V0047,Smith-Bell,Marketing,Digital Ads,5.21,Poor,Castanedachester,Small,2023-07-25,tracynelson@example.com,Net 45,False,Low,Medium,Annual,CPI Linked
+V0048,Price Ltd,Marketing,SEO,7.53,Poor,Ramseymouth,Large,2024-05-16,tinaferguson@example.com,Net 45,True,Medium,High,Annual,CPI Linked
+V0049,"Elliott, Johnson and Day",Operations,Utilities,0.92,Average,Port Steven,Large,2022-07-11,nicholas37@example.com,Net 60,False,Medium,Medium,Biennial,Negotiated
+V0050,Juarez-Gray,Marketing,SEO,2.0,Average,Kingland,Large,2023-06-02,currybrett@example.com,Net 60,True,High,Low,Annual,Negotiated
+V0051,Santos Ltd,Marketing,SEO,7.29,Poor,Port Anthonybury,Small,2022-11-03,howelljohn@example.com,Net 60,False,High,Low,Annual,CPI Linked
+V0052,"Wilson, Gould and Marshall",HR,Recruiting,9.05,Poor,Katieburgh,Small,2023-09-15,stricklandfrank@example.com,Net 45,True,High,High,Biennial,Negotiated
+V0053,Lane LLC,HR,Recruiting,0.4,Poor,Sandersborough,Medium,2022-07-31,curtisbarton@example.net,Net 30,True,Medium,Low,Annual,Fixed
+V0054,"Trujillo, Hogan and Knight",Operations,Utilities,9.04,Good,West Amandastad,Medium,2022-07-25,alexander67@example.org,Net 60,False,Medium,Medium,Biennial,Negotiated
+V0055,Yu-Reid,HR,Recruiting,1.79,Average,Zimmermanchester,Small,2022-10-16,christina87@example.com,Net 45,True,High,High,Biennial,CPI Linked
+V0056,Petersen-Vargas,Facilities,Cleaning,9.7,Average,Melissaland,Large,2023-01-04,dsanchez@example.net,Net 60,True,High,High,Biennial,Fixed
+V0057,"Barnett, Rogers and Snyder",IT,Hardware,5.39,Average,Hunterborough,Medium,2023-03-04,matthew94@example.net,Net 45,True,High,High,Annual,Negotiated
+V0058,Black and Sons,IT,Software,3.35,Average,East Jenniferfort,Large,2023-08-07,hannahbrewer@example.com,Net 45,False,Medium,Medium,Biennial,Fixed
+V0059,Mcguire-Davis,Marketing,SEO,1.6,Poor,South Heather,Medium,2023-01-25,thomas85@example.com,Net 45,True,Medium,Medium,Annual,Negotiated
+V0060,"Pierce, Bell and Chavez",HR,Training,8.75,Good,Johnville,Large,2023-12-14,leslienewton@example.net,Net 30,False,High,High,Biennial,CPI Linked
+V0061,Lee Ltd,HR,Training,0.34,Average,Hillshire,Small,2024-01-13,tina34@example.org,Net 30,False,Medium,Medium,Annual,CPI Linked
+V0062,White-Smith,Facilities,Cleaning,9.13,Average,West Brandon,Small,2022-07-14,heidi27@example.org,Net 60,False,High,Low,Annual,Fixed
+V0063,Andrews Group,Facilities,Maintenance,3.34,Good,Alexanderburgh,Large,2022-07-11,shelley71@example.org,Net 60,True,High,Medium,Annual,Negotiated
+V0064,Vasquez-Ray,IT,Software,1.37,Poor,East Edwardshire,Small,2023-01-23,mcknightdavid@example.com,Net 45,False,Medium,Low,Annual,Negotiated
+V0065,"Carlson, Montgomery and Rowe",Operations,Utilities,1.99,Poor,Hayesmouth,Large,2023-01-18,ntorres@example.org,Net 30,False,High,High,Biennial,Fixed
+V0066,"Choi, Garcia and Farmer",Operations,Utilities,9.29,Poor,West Donna,Large,2022-10-01,glennjones@example.org,Net 30,True,Low,High,Biennial,Fixed
+V0067,Hayes-Wheeler,Facilities,Cleaning,1.56,Average,Antonioport,Large,2023-12-03,jacqueline71@example.net,Net 30,True,Medium,High,Biennial,CPI Linked
+V0068,Bradshaw Ltd,IT,Software,5.08,Poor,South Danny,Large,2022-11-23,rebekahserrano@example.org,Net 45,True,Low,High,Annual,Negotiated
+V0069,Martin LLC,Operations,Logistics,8.96,Average,Scottmouth,Small,2023-11-18,holly48@example.net,Net 30,False,Low,Low,Biennial,Fixed
+V0070,Kim-George,IT,Software,4.43,Poor,Navarroview,Medium,2022-06-22,perezemily@example.net,Net 45,True,High,Medium,Biennial,CPI Linked
+V0071,"Sampson, Key and Chambers",Operations,Logistics,4.44,Average,Barbaraburgh,Medium,2023-06-02,lmoon@example.net,Net 30,True,Medium,Medium,Annual,Fixed
+V0072,Walters-Vasquez,Facilities,Cleaning,2.35,Poor,South Michaelmouth,Small,2023-02-06,hodgemark@example.net,Net 60,False,Medium,High,Annual,CPI Linked
+V0073,Roberts-Landry,Marketing,Events,3.07,Average,South Christopherview,Large,2023-02-08,cordovarichard@example.net,Net 30,False,High,Medium,Annual,CPI Linked
+V0074,Sandoval PLC,IT,Cloud,8.78,Average,Gutierrezborough,Medium,2023-07-09,cindy77@example.org,Net 60,True,Medium,Medium,Annual,Fixed
+V0075,Adams and Sons,HR,Training,2.96,Poor,Samuelfort,Medium,2022-09-04,dudleychelsea@example.org,Net 45,False,Low,Low,Biennial,CPI Linked
+V0076,"Moore, Pierce and Tran",IT,Cloud,8.71,Average,East Victoriaville,Medium,2023-05-26,hollanderic@example.net,Net 60,False,Low,High,Annual,Negotiated
+V0077,Hicks-Hill,Marketing,Digital Ads,2.52,Good,Bairdbury,Large,2023-05-22,patrickweeks@example.net,Net 30,True,High,Low,Biennial,CPI Linked
+V0078,"Suarez, Shields and Hill",Marketing,SEO,4.8,Good,Morganhaven,Medium,2022-12-26,campbellkenneth@example.net,Net 45,True,Low,Medium,Biennial,Fixed
+V0079,"Duarte, Burns and Hernandez",IT,Cloud,7.06,Average,Reedside,Small,2024-01-15,ugibson@example.org,Net 30,False,Medium,Low,Annual,CPI Linked
+V0080,"Allen, Reyes and Chase",Operations,Utilities,8.41,Average,Williamsfort,Large,2023-12-01,qhughes@example.net,Net 30,True,Medium,Medium,Biennial,Fixed
+V0081,Simpson Inc,HR,Recruiting,1.67,Good,New Tammy,Medium,2023-02-14,sawyerscott@example.net,Net 45,True,High,High,Biennial,Fixed
+V0082,Smith-Thomas,Marketing,Digital Ads,2.03,Average,North Terrance,Small,2022-12-24,cindy61@example.com,Net 30,False,High,High,Annual,Negotiated
+V0083,"Villarreal, James and Stewart",HR,Training,1.95,Good,Brennanton,Small,2023-09-24,younggabrielle@example.com,Net 45,False,High,High,Biennial,CPI Linked
+V0084,Francis Group,Facilities,Cleaning,4.86,Average,Port Cynthiaville,Small,2023-05-12,heatherberger@example.org,Net 30,True,Low,Low,Annual,CPI Linked
+V0085,Flynn-Carter,Facilities,Cleaning,6.91,Poor,Ryanbury,Medium,2023-07-19,yknight@example.org,Net 30,True,Medium,High,Annual,CPI Linked
+V0086,Thompson PLC,Operations,Utilities,9.41,Good,Harveybury,Large,2023-06-23,jesselittle@example.com,Net 30,False,High,Medium,Biennial,Negotiated
+V0087,Estrada-Nolan,Operations,Logistics,4.13,Poor,Santanaside,Small,2022-10-02,alexandermichael@example.net,Net 45,True,Medium,High,Annual,Fixed
+V0088,Fowler-Coleman,Operations,Logistics,8.93,Good,Stephenport,Small,2022-11-03,gcastaneda@example.org,Net 45,False,High,Medium,Annual,CPI Linked
+V0089,Armstrong-Andrews,IT,Software,2.09,Average,Andrewfurt,Small,2023-01-01,knightgina@example.net,Net 45,True,Low,High,Biennial,Fixed
+V0090,Lozano Ltd,IT,Hardware,2.76,Poor,Wallport,Medium,2024-01-25,catherinegomez@example.net,Net 60,False,High,High,Annual,Fixed
+V0091,Oliver Ltd,IT,Software,3.02,Average,Lake Colton,Medium,2023-10-02,parkerscott@example.net,Net 45,True,Medium,High,Biennial,Negotiated
+V0092,Oconnor-Davis,Marketing,SEO,6.87,Good,Markchester,Small,2022-10-16,davidryan@example.com,Net 60,False,Low,High,Biennial,CPI Linked
+V0093,"Shaw, Nelson and Martin",HR,Training,1.73,Poor,Coffeyport,Large,2024-01-02,linda71@example.org,Net 45,True,Medium,High,Annual,Negotiated
+V0094,Dalton Ltd,IT,Cloud,8.52,Average,Coffeyside,Medium,2023-03-13,gibbsalexander@example.net,Net 45,False,Medium,Low,Biennial,Fixed
+V0095,Gibson Ltd,HR,Recruiting,0.2,Good,Brendastad,Small,2022-08-25,thomasharvey@example.net,Net 45,True,Low,High,Annual,CPI Linked
+V0096,Herman-Walker,Operations,Utilities,2.77,Poor,Lake Madisonport,Large,2023-10-19,cwilson@example.org,Net 30,False,Low,High,Biennial,Fixed
+V0097,Ferrell-Wilson,IT,Cloud,9.48,Average,New Derek,Large,2023-05-20,ellen86@example.net,Net 30,True,Medium,Low,Annual,Fixed
+V0098,"Barber, Mcclure and Pena",Marketing,Digital Ads,5.49,Average,Gilbertview,Large,2022-06-27,jeff73@example.com,Net 30,False,Low,High,Annual,Fixed
+V0099,Pollard LLC,Operations,Utilities,9.39,Average,Bruceview,Small,2022-10-27,rushmadison@example.org,Net 60,False,Medium,High,Biennial,Fixed
+V0100,"Lewis, Fowler and Maddox",Operations,Utilities,2.87,Average,Port Matthewberg,Large,2024-02-03,caseyhubbard@example.org,Net 45,True,Medium,Medium,Biennial,Negotiated
+V0101,"Robinson, Kane and Murphy",Operations,Utilities,3.88,Average,Port Rachel,Large,2022-06-04,michele22@example.net,Net 60,True,Medium,Medium,Biennial,Negotiated
+V0102,Lindsey-Rodriguez,HR,Training,6.78,Average,East Alexisbury,Large,2023-09-02,alfred40@example.org,Net 45,False,Low,Low,Biennial,Fixed
+V0103,"Fisher, Wilson and Brown",IT,Cloud,7.68,Good,Stricklandhaven,Medium,2023-09-06,hayesjeffrey@example.net,Net 30,False,Low,Medium,Biennial,Fixed
+V0104,Acosta Ltd,Operations,Utilities,5.25,Average,Stephentown,Large,2022-07-19,bboone@example.net,Net 45,True,Medium,Medium,Biennial,Negotiated
+V0105,Henry Group,Operations,Utilities,3.69,Poor,North Marcberg,Small,2022-07-23,joshuaschultz@example.net,Net 60,True,Low,Medium,Biennial,Negotiated
+V0106,"Nguyen, Vang and Schmidt",IT,Hardware,1.8,Poor,Wagnerchester,Small,2022-08-18,farrelldebra@example.net,Net 30,False,High,High,Annual,Fixed
+V0107,"Glenn, Jordan and Beasley",Operations,Utilities,8.65,Poor,Morganmouth,Medium,2023-04-07,ublair@example.com,Net 30,True,Medium,High,Biennial,Fixed
+V0108,Ortega-Brooks,Marketing,Digital Ads,6.13,Poor,Lake Sandra,Large,2022-07-24,deckerchristopher@example.org,Net 45,False,High,Low,Annual,CPI Linked
+V0109,"Rodgers, Cain and Hawkins",HR,Recruiting,5.84,Good,Elizabethchester,Medium,2023-03-03,uparrish@example.org,Net 45,False,Low,High,Biennial,Negotiated
+V0110,Burke-Bell,IT,Hardware,5.14,Average,East Diane,Medium,2022-11-23,bellangela@example.org,Net 60,False,High,Low,Biennial,Negotiated
+V0111,Andrews-Aguirre,IT,Cloud,8.21,Average,New Sarahview,Medium,2022-06-24,joshuafarmer@example.com,Net 45,True,High,Low,Biennial,Negotiated
+V0112,Smith-Kane,Facilities,Maintenance,9.33,Good,Jonestown,Small,2022-08-12,nicholaschavez@example.org,Net 60,False,Low,Medium,Biennial,Fixed
+V0113,Collins-Nguyen,Operations,Utilities,3.17,Good,North Ericton,Small,2023-11-07,nelsonebony@example.com,Net 30,True,High,Medium,Annual,Negotiated
+V0114,"Ramos, Nelson and Fischer",Marketing,Events,5.48,Poor,West Russellport,Medium,2023-11-10,trose@example.org,Net 45,False,High,Medium,Biennial,Negotiated
+V0115,Foster PLC,Operations,Logistics,6.69,Average,North Jamesborough,Small,2024-01-19,kathrynroberts@example.org,Net 45,True,Medium,Medium,Annual,CPI Linked
+V0116,Jimenez Group,Marketing,Events,8.26,Poor,East Omar,Large,2023-11-30,vincentwhitaker@example.com,Net 45,False,Medium,High,Annual,Fixed
+V0117,Sanders Ltd,Operations,Logistics,2.37,Poor,South Andrewland,Large,2024-04-01,barbara96@example.net,Net 30,True,Medium,High,Biennial,CPI Linked
+V0118,"Butler, Wilson and Smith",Marketing,Digital Ads,9.73,Good,Georgemouth,Small,2024-03-09,christopher13@example.com,Net 60,False,Low,Low,Annual,Negotiated
+V0119,"Morales, Miller and Harrell",IT,Hardware,5.97,Poor,Jeffreyburgh,Large,2022-07-31,schmidtjames@example.com,Net 45,False,High,Low,Annual,Negotiated
+V0120,Luna-Fuentes,HR,Recruiting,5.11,Poor,East Curtis,Medium,2022-12-17,glennhernandez@example.net,Net 45,True,High,High,Annual,CPI Linked
+V0121,Thompson Ltd,Operations,Utilities,4.75,Poor,Marshallshire,Large,2024-01-13,kmaldonado@example.net,Net 30,False,Low,High,Biennial,Fixed
+V0122,"Downs, Morris and Maddox",IT,Software,2.58,Poor,Edwardland,Small,2023-06-01,ywelch@example.com,Net 60,True,Medium,Low,Annual,Negotiated
+V0123,"Brown, Romero and Collins",Facilities,Cleaning,2.73,Poor,Johnsonstad,Medium,2024-03-08,chase19@example.net,Net 45,True,High,High,Biennial,Negotiated
+V0124,"Cruz, Carpenter and Best",Facilities,Maintenance,4.52,Poor,South Reginashire,Medium,2023-10-21,marcalvarez@example.org,Net 45,True,Low,High,Annual,Fixed
+V0125,Hayes LLC,Operations,Logistics,9.22,Average,New Debbieton,Small,2022-12-11,hritter@example.net,Net 45,True,Medium,High,Biennial,Fixed
+V0126,"Moore, Watson and Campbell",Operations,Utilities,9.74,Poor,Schroederton,Medium,2024-02-05,cameron18@example.net,Net 60,False,High,Low,Annual,CPI Linked
+V0127,Mitchell-Cummings,Facilities,Maintenance,7.85,Average,West Christopher,Large,2023-10-30,sabrinacollins@example.net,Net 30,True,High,Low,Biennial,Negotiated
+V0128,"Bates, Anderson and Fletcher",IT,Hardware,1.25,Poor,West Angelicamouth,Large,2024-02-23,elizabethcalderon@example.net,Net 45,True,Low,Low,Biennial,Negotiated
+V0129,"Gaines, Davis and Santiago",IT,Software,5.89,Poor,Andrewport,Large,2022-10-20,matthewmiranda@example.org,Net 45,True,Low,Medium,Annual,CPI Linked
+V0130,Cooke and Sons,IT,Software,9.18,Poor,West Meganville,Large,2023-07-01,stanleynancy@example.net,Net 45,False,High,Medium,Biennial,Negotiated
+V0131,Harper and Sons,Facilities,Maintenance,7.16,Good,East Marie,Medium,2024-01-21,jenniferwilliams@example.com,Net 30,True,Low,Low,Annual,CPI Linked
+V0132,"Ball, Montes and Bishop",HR,Training,0.46,Good,Youngbury,Small,2023-01-28,mmckee@example.com,Net 45,True,High,Low,Biennial,Fixed
+V0133,"Valentine, Joyce and Murray",IT,Software,9.66,Poor,Kimberlyhaven,Small,2023-07-16,mburch@example.net,Net 30,True,Low,Medium,Biennial,Negotiated
+V0134,Salas Inc,IT,Software,4.15,Poor,Sawyerside,Large,2024-05-27,dawsonzachary@example.org,Net 30,True,Medium,Medium,Annual,Fixed
+V0135,Miller-Martin,Operations,Logistics,3.13,Poor,Whiteheadberg,Large,2024-03-08,odavis@example.com,Net 60,False,Medium,Low,Annual,Fixed
+V0136,Arias-Perry,Facilities,Maintenance,6.21,Average,Shawbury,Medium,2023-03-28,brooksanthony@example.org,Net 30,False,Medium,Medium,Biennial,Negotiated
+V0137,"Santos, Moody and Taylor",Facilities,Cleaning,4.35,Good,Samanthafort,Medium,2023-11-24,katherineharrison@example.net,Net 30,False,Medium,Medium,Annual,Fixed
+V0138,Bullock Inc,Operations,Logistics,0.23,Poor,Jasonberg,Medium,2023-08-02,srodriguez@example.org,Net 30,True,Low,Medium,Annual,Fixed
+V0139,Martinez-Allen,Operations,Logistics,7.74,Average,Brownfort,Small,2023-09-08,chenbailey@example.net,Net 45,False,Medium,High,Biennial,Negotiated
+V0140,Carter Inc,Facilities,Cleaning,3.67,Poor,Johnchester,Small,2022-10-25,millsmichael@example.net,Net 30,False,Medium,Low,Annual,Fixed
+V0141,"Romero, Mcneil and Spencer",Operations,Logistics,5.79,Average,Markston,Medium,2023-10-08,qzavala@example.net,Net 30,False,High,Low,Biennial,Negotiated
+V0142,Kelly Inc,Marketing,SEO,0.56,Poor,Johnville,Small,2024-01-22,dennis58@example.com,Net 45,False,Low,High,Biennial,CPI Linked
+V0143,"Thompson, Maxwell and Marshall",Marketing,SEO,5.07,Poor,Welchberg,Small,2022-07-21,mjohnson@example.org,Net 45,False,Medium,High,Biennial,CPI Linked
+V0144,Blackwell LLC,IT,Hardware,3.58,Poor,Zacharyside,Small,2023-06-04,benjamin34@example.com,Net 45,True,Medium,Low,Biennial,Fixed
+V0145,Glenn LLC,Operations,Utilities,6.23,Average,Davidstad,Small,2023-05-07,ypaul@example.com,Net 30,False,Medium,Low,Biennial,Fixed
+V0146,Crawford Group,Marketing,Digital Ads,7.11,Poor,Sandrahaven,Small,2022-12-26,acostachristian@example.net,Net 45,True,High,High,Biennial,CPI Linked
+V0147,Gardner LLC,Operations,Logistics,5.85,Good,North Markport,Small,2023-01-26,bmorrison@example.org,Net 60,True,Low,Medium,Biennial,Negotiated
+V0148,"Wallace, West and Acosta",Operations,Logistics,5.86,Good,Christinachester,Small,2023-01-01,jonesdana@example.com,Net 45,True,Low,High,Biennial,Fixed
+V0149,"Owen, Shelton and Cisneros",IT,Cloud,2.86,Good,Port Cathy,Small,2024-01-29,ejohnson@example.org,Net 60,True,Medium,High,Biennial,CPI Linked
+V0150,"Diaz, Reyes and Bradley",IT,Cloud,4.53,Poor,Lake Shannon,Medium,2023-03-17,scott19@example.org,Net 45,True,Medium,Low,Biennial,Negotiated
+V0151,"Richardson, Edwards and Ramirez",Facilities,Cleaning,1.18,Good,North Jillfort,Medium,2023-07-09,hmcintyre@example.com,Net 45,False,Medium,Medium,Annual,Negotiated
+V0152,Padilla-Lewis,HR,Recruiting,2.95,Good,Heatherfort,Large,2022-11-04,taylorcharles@example.org,Net 45,False,High,Medium,Biennial,CPI Linked
+V0153,"Wallace, Miller and Fleming",Operations,Logistics,8.11,Good,Elizabethland,Small,2023-08-03,patricia22@example.com,Net 30,True,Medium,Medium,Biennial,CPI Linked
+V0154,"Walker, Galloway and Conner",HR,Recruiting,3.29,Poor,Port Troy,Small,2023-03-09,tanner82@example.net,Net 60,True,Low,Medium,Annual,Fixed
+V0155,Jones Group,IT,Cloud,2.2,Average,Foxchester,Medium,2024-03-02,martinezlogan@example.org,Net 30,True,Medium,Medium,Biennial,Negotiated
+V0156,Owens-Holmes,Operations,Utilities,1.49,Good,Port Kimberly,Medium,2023-10-11,katrinaanderson@example.net,Net 60,False,Medium,Low,Annual,CPI Linked
+V0157,Guerra PLC,Marketing,SEO,7.55,Good,West Fred,Large,2023-02-07,michaeleverett@example.com,Net 30,False,Low,High,Annual,CPI Linked
+V0158,King Ltd,Facilities,Cleaning,5.29,Average,Davidport,Small,2023-09-22,shawgary@example.net,Net 45,True,Low,High,Biennial,CPI Linked
+V0159,Jackson PLC,HR,Recruiting,7.99,Average,Meganshire,Medium,2022-07-03,millerstacy@example.net,Net 45,False,Low,High,Biennial,CPI Linked
+V0160,Curtis-Wang,HR,Training,2.7,Average,Montgomerytown,Medium,2023-06-23,dawn47@example.org,Net 45,True,Low,High,Annual,CPI Linked
+V0161,"Sullivan, Chavez and Barker",IT,Hardware,8.19,Average,South Robert,Medium,2023-05-28,matthewthomas@example.net,Net 30,False,High,Medium,Annual,Negotiated
+V0162,Gross-Valencia,HR,Recruiting,0.57,Good,Andersonstad,Small,2023-07-06,floressteven@example.com,Net 30,False,High,High,Annual,Fixed
+V0163,Wright-Davis,IT,Hardware,2.96,Good,Soniachester,Medium,2022-12-11,lisapeck@example.net,Net 60,True,High,High,Annual,Fixed
+V0164,Lee-Moore,Facilities,Cleaning,8.5,Average,Jimenezport,Large,2023-06-23,davisphillip@example.com,Net 60,True,High,Medium,Annual,Fixed
+V0165,Lewis LLC,HR,Training,8.36,Average,North Juanfort,Large,2023-01-09,booneryan@example.com,Net 60,True,High,High,Biennial,Negotiated
+V0166,"Diaz, Powell and Williams",Operations,Utilities,9.91,Good,New Annastad,Medium,2023-08-05,charles87@example.net,Net 45,True,Low,Low,Annual,Negotiated
+V0167,Bryan-Hanson,Facilities,Cleaning,8.08,Poor,East Theresafurt,Large,2023-03-18,angela52@example.org,Net 60,False,Medium,Low,Annual,Fixed
+V0168,"Hicks, Porter and Williams",HR,Training,5.07,Average,Lake Mason,Medium,2023-06-04,ghernandez@example.org,Net 45,False,High,Low,Biennial,Negotiated
+V0169,Velazquez-Flores,HR,Recruiting,4.64,Good,Ewingport,Small,2023-09-06,william88@example.com,Net 60,True,Low,Low,Biennial,CPI Linked
+V0170,"Hart, Wells and Smith",IT,Hardware,0.51,Good,Emilychester,Medium,2023-08-29,laura09@example.com,Net 45,False,Medium,Low,Annual,Fixed
+V0171,Coffey-Patton,Marketing,Events,6.17,Good,Lake Brett,Large,2023-06-10,alexandriagriffith@example.com,Net 45,False,High,High,Biennial,CPI Linked
+V0172,Underwood and Sons,IT,Software,9.51,Poor,New Stacyville,Medium,2022-10-28,alexanderrobert@example.com,Net 45,True,Medium,Low,Biennial,CPI Linked
+V0173,"Harris, Shaw and Carr",IT,Software,6.69,Poor,Salaston,Small,2023-12-02,aprilhoffman@example.net,Net 30,True,Low,Medium,Biennial,CPI Linked
+V0174,Fox-Edwards,Facilities,Cleaning,9.31,Good,South Rhonda,Large,2023-02-22,erica49@example.com,Net 30,False,Low,Medium,Biennial,Fixed
+V0175,Bernard LLC,HR,Training,6.43,Poor,Jeffreyport,Small,2024-01-21,janet75@example.com,Net 30,False,High,Low,Annual,Fixed
+V0176,Castro-Michael,HR,Training,4.53,Good,Keithshire,Small,2023-11-09,zhuang@example.com,Net 60,False,Medium,High,Annual,Fixed
+V0177,Roberts LLC,IT,Software,3.08,Good,West Sandraview,Small,2024-01-03,ilewis@example.com,Net 60,False,Low,High,Annual,CPI Linked
+V0178,"Horton, Taylor and Gilbert",IT,Hardware,1.93,Poor,East Brent,Large,2024-05-05,danawilliams@example.com,Net 45,True,Medium,Medium,Biennial,Negotiated
+V0179,Love-Garcia,Facilities,Cleaning,4.16,Average,North Tamara,Large,2024-05-23,richarddonovan@example.com,Net 30,True,Medium,Medium,Biennial,CPI Linked
+V0180,Santos-Avila,Marketing,Digital Ads,8.79,Average,Manuelton,Medium,2024-05-07,pearsonjesse@example.net,Net 30,False,Medium,Low,Biennial,Fixed
+V0181,"Jefferson, Johnson and Dorsey",Marketing,Events,2.53,Poor,Khanburgh,Small,2024-05-27,osbornrandy@example.com,Net 60,True,Low,Low,Biennial,Negotiated
+V0182,Zuniga LLC,HR,Training,5.84,Good,North Kennethville,Small,2024-05-23,justin88@example.com,Net 30,True,High,Low,Annual,CPI Linked
+V0183,Rosales Group,HR,Recruiting,9.77,Average,Jamesville,Small,2023-02-13,jessicawong@example.net,Net 30,True,High,Low,Biennial,Fixed
+V0184,Smith LLC,Facilities,Maintenance,6.45,Good,Ashleyborough,Large,2022-10-16,gwilcox@example.com,Net 30,False,Medium,Low,Annual,CPI Linked
+V0185,Morales Inc,Marketing,Events,5.13,Poor,East Thomas,Large,2024-05-28,adamreyes@example.com,Net 60,True,High,Medium,Biennial,CPI Linked
+V0186,Finley-Turner,IT,Hardware,3.09,Poor,West Desireebury,Large,2022-07-20,marshallerik@example.net,Net 30,True,High,Medium,Annual,Fixed
+V0187,"Leblanc, Barron and Carrillo",HR,Recruiting,4.96,Good,Lake Sabrinaport,Large,2023-03-14,jeffreyanderson@example.org,Net 60,True,High,Low,Biennial,CPI Linked
+V0188,Adkins-Obrien,Facilities,Cleaning,9.06,Poor,Milesfort,Medium,2024-01-11,kathleenbecker@example.net,Net 60,False,Medium,High,Biennial,CPI Linked
+V0189,Fox PLC,IT,Hardware,5.05,Good,Christianshire,Medium,2022-08-28,poolerebecca@example.org,Net 30,True,Medium,Low,Biennial,Fixed
+V0190,"Herrera, Martin and Bond",IT,Software,4.59,Average,Wilsonborough,Small,2023-12-10,gdavis@example.com,Net 45,False,Low,Medium,Annual,CPI Linked
+V0191,Chavez PLC,Operations,Logistics,0.5,Average,Bryantton,Small,2023-08-10,tchambers@example.net,Net 60,False,Medium,Medium,Biennial,Negotiated
+V0192,Foster Inc,Marketing,Digital Ads,8.65,Poor,New Charles,Large,2023-04-27,isabella80@example.org,Net 30,False,Medium,Low,Annual,Fixed
+V0193,Johnson-Ortiz,Facilities,Maintenance,9.96,Poor,Port Darlene,Small,2023-12-20,ybrooks@example.com,Net 45,False,High,Medium,Annual,Fixed
+V0194,Bennett-Vega,Marketing,Digital Ads,5.96,Good,Lake Michelle,Large,2022-09-02,victorialong@example.org,Net 45,True,Low,High,Biennial,Negotiated
+V0195,"Irwin, Davenport and Avila",Marketing,Digital Ads,2.27,Good,Stevenside,Large,2023-04-27,pmorrow@example.com,Net 30,True,Low,Medium,Annual,Negotiated
+V0196,Moore-Lopez,Marketing,Digital Ads,8.95,Average,North Lisachester,Medium,2023-09-22,allencarlos@example.net,Net 30,True,High,High,Biennial,Negotiated
+V0197,Griffin Ltd,Facilities,Cleaning,2.21,Good,East Joyfurt,Medium,2023-05-08,amberwebster@example.org,Net 30,False,High,High,Biennial,Fixed
+V0198,Gordon LLC,Facilities,Cleaning,8.68,Good,Port Sabrina,Small,2023-08-23,barbara53@example.com,Net 45,False,Low,Low,Annual,Fixed
+V0199,Odom PLC,IT,Cloud,2.64,Average,South Kevin,Medium,2022-07-19,conniesimmons@example.com,Net 30,True,Low,Medium,Annual,Negotiated
+V0200,Compton Ltd,Operations,Utilities,8.09,Average,Floydmouth,Large,2023-11-24,trussell@example.com,Net 60,False,High,Low,Annual,Negotiated
+V0201,Webster Group,HR,Training,9.18,Average,Port Jeremiah,Large,2024-03-29,lindamelendez@example.net,Net 45,False,High,High,Biennial,Fixed
+V0202,Faulkner-Grant,Marketing,Events,6.0,Poor,South John,Large,2022-11-06,deborah75@example.org,Net 30,True,Medium,High,Annual,CPI Linked
+V0203,"Hardy, Lee and Adams",Marketing,SEO,2.13,Poor,Port Charlesshire,Medium,2023-12-16,timothybooth@example.com,Net 30,True,Low,High,Annual,CPI Linked
+V0204,Krueger-Smith,Operations,Logistics,7.8,Good,Lake David,Large,2024-01-08,srocha@example.net,Net 45,False,Medium,High,Biennial,Fixed
+V0205,"Harris, Herman and Arnold",IT,Software,1.78,Poor,Oscarside,Medium,2023-10-18,kyle58@example.com,Net 45,True,High,High,Annual,Negotiated
+V0206,Garcia-Zavala,Facilities,Maintenance,0.61,Poor,Gillmouth,Medium,2024-05-12,nathangutierrez@example.net,Net 45,True,High,High,Annual,CPI Linked
+V0207,Figueroa Inc,HR,Recruiting,0.69,Good,Angelashire,Large,2023-08-25,mphillips@example.com,Net 45,False,Low,Low,Annual,Negotiated
+V0208,James and Sons,Marketing,SEO,0.49,Average,Piercemouth,Small,2022-12-18,plevy@example.net,Net 45,False,Medium,High,Annual,CPI Linked
+V0209,Murray-Oconnor,Facilities,Cleaning,8.95,Poor,Garyside,Large,2023-06-16,sabrinaweaver@example.net,Net 60,False,Medium,Low,Biennial,Fixed
+V0210,Warren Inc,Marketing,SEO,6.88,Good,Port Adamberg,Medium,2024-03-17,carloshernandez@example.org,Net 45,True,Low,High,Annual,Negotiated
+V0211,"Bryant, Brown and Little",Facilities,Maintenance,1.86,Average,Hopkinstown,Small,2022-06-07,hsmith@example.net,Net 45,True,Low,Low,Biennial,Fixed
+V0212,Nichols-Mitchell,Facilities,Maintenance,2.49,Poor,Drakeburgh,Medium,2022-08-24,warrenjohn@example.net,Net 60,False,Medium,Medium,Biennial,Fixed
+V0213,"King, Gomez and Norton",Marketing,SEO,9.31,Poor,West Susanmouth,Small,2023-08-14,veronicaperez@example.net,Net 60,False,Low,Medium,Biennial,CPI Linked
+V0214,Valdez Ltd,HR,Recruiting,0.48,Average,North Richardfurt,Medium,2023-08-05,abrown@example.net,Net 30,False,High,Medium,Biennial,Negotiated
+V0215,Miller Group,Facilities,Cleaning,3.39,Good,Arielville,Small,2024-04-27,hallrachel@example.net,Net 30,False,Medium,Medium,Annual,Fixed
+V0216,"Alvarez, Williams and Jones",Marketing,Events,1.55,Poor,Rachelshire,Medium,2023-10-26,whitemelissa@example.org,Net 30,True,Low,Medium,Biennial,Negotiated
+V0217,Matthews Ltd,IT,Hardware,7.2,Poor,Hickmanport,Large,2022-10-06,ashleyatkinson@example.net,Net 60,False,High,Medium,Annual,CPI Linked
+V0218,"Rivera, Campos and Taylor",Marketing,SEO,8.39,Poor,New Juliestad,Small,2022-07-13,kimmary@example.com,Net 60,False,Medium,Low,Biennial,CPI Linked
+V0219,"Mack, Friedman and Sanders",HR,Training,0.21,Average,Anthonyview,Large,2024-01-31,whenry@example.net,Net 30,True,Low,High,Biennial,Fixed
+V0220,Reynolds-Frazier,Marketing,Events,1.97,Good,Millerport,Medium,2024-02-11,jennifermiller@example.org,Net 30,True,High,Medium,Annual,Fixed
+V0221,Dawson-Walters,Operations,Logistics,0.07,Average,Stewartville,Large,2022-08-12,hahnsean@example.com,Net 30,False,Medium,Low,Annual,Negotiated
+V0222,Anderson and Sons,Facilities,Cleaning,9.08,Poor,Coleside,Medium,2023-07-05,fgarcia@example.com,Net 60,False,Medium,High,Biennial,Fixed
+V0223,"Davis, George and Nguyen",Facilities,Maintenance,8.69,Poor,Smithchester,Small,2023-03-30,hardyanita@example.org,Net 45,False,Medium,Medium,Biennial,CPI Linked
+V0224,"Meyer, Jennings and Jackson",Operations,Utilities,6.13,Poor,Kevinfort,Large,2022-09-23,jacksonjoshua@example.com,Net 60,True,Medium,High,Biennial,Negotiated
+V0225,Patton-Ward,Facilities,Maintenance,3.09,Average,Lake Colleen,Small,2023-09-06,stephentaylor@example.org,Net 60,False,Low,Medium,Biennial,Negotiated
+V0226,Cook-Oliver,Marketing,Events,8.12,Poor,Scottchester,Small,2024-02-25,kevinmorrison@example.net,Net 45,True,Medium,Medium,Annual,CPI Linked
+V0227,Mendoza and Sons,Facilities,Maintenance,6.47,Poor,Novakport,Small,2023-12-24,yfaulkner@example.org,Net 60,False,Low,Low,Biennial,Fixed
+V0228,Bennett-Velasquez,Operations,Logistics,5.37,Good,Diazshire,Small,2022-11-04,erinpierce@example.net,Net 30,True,High,Medium,Annual,CPI Linked
+V0229,Hahn-Clark,Operations,Utilities,9.15,Poor,Marieland,Medium,2024-02-28,ichambers@example.net,Net 45,False,Medium,High,Biennial,CPI Linked
+V0230,Allen-Hopkins,IT,Hardware,5.86,Average,Mccormickland,Large,2023-05-16,iaguilar@example.net,Net 60,True,High,Medium,Biennial,Negotiated
+V0231,"Barnes, Johnson and Schmitt",Facilities,Maintenance,3.61,Average,North Kaylastad,Medium,2022-10-09,hartdeanna@example.net,Net 30,False,Medium,High,Annual,CPI Linked
+V0232,Rasmussen-Rivera,HR,Recruiting,1.61,Poor,Rodriguezville,Small,2022-12-19,williamstone@example.net,Net 30,True,Low,Low,Annual,Negotiated
+V0233,"Johnston, Griffin and Myers",HR,Training,3.67,Average,West Whitney,Medium,2023-06-11,phillipssamantha@example.org,Net 60,False,Medium,Medium,Annual,CPI Linked
+V0234,Guerra Ltd,Facilities,Cleaning,8.88,Poor,West Larry,Small,2023-05-21,adrianabailey@example.org,Net 30,True,High,High,Biennial,Fixed
+V0235,Bowen-Chavez,HR,Recruiting,6.02,Good,West Bradleyville,Large,2022-06-19,deborah23@example.net,Net 30,False,Low,Medium,Annual,CPI Linked
+V0236,Arnold LLC,Operations,Utilities,3.19,Average,Mullenbury,Large,2024-02-11,lsoto@example.net,Net 60,True,High,Medium,Biennial,CPI Linked
+V0237,"Reynolds, Johnson and Mendez",HR,Training,4.71,Good,South Brittany,Medium,2023-03-31,bushjamie@example.net,Net 60,False,Medium,Medium,Annual,CPI Linked
+V0238,Ray PLC,HR,Training,2.49,Good,West Mark,Small,2023-05-23,bakermichelle@example.net,Net 60,True,High,High,Annual,Negotiated
+V0239,"Edwards, Price and Long",Marketing,Events,5.19,Good,West Michaelmouth,Medium,2023-09-24,lisamccarthy@example.com,Net 30,False,High,Medium,Biennial,Fixed
+V0240,"Lawrence, Powers and Edwards",HR,Recruiting,6.41,Poor,West Daryl,Small,2023-03-18,williambarnes@example.org,Net 60,False,Low,High,Biennial,Fixed
+V0241,"Reyes, Lopez and Reid",IT,Software,1.93,Poor,New Garrett,Medium,2023-01-12,jacobwilkinson@example.net,Net 30,False,Medium,Low,Annual,Fixed
+V0242,Glenn Inc,HR,Recruiting,3.54,Good,Taylorfurt,Small,2023-08-12,fortiz@example.com,Net 60,True,Low,Low,Biennial,Fixed
+V0243,"Larsen, Burns and Miller",HR,Training,6.6,Good,Port Kathleenport,Large,2022-06-27,jeffrey42@example.com,Net 45,False,Low,Medium,Annual,Negotiated
+V0244,"Newton, Cannon and Dunn",Facilities,Maintenance,9.46,Poor,New Dannyside,Small,2024-03-02,amber07@example.net,Net 60,False,Medium,Medium,Annual,Negotiated
+V0245,Fritz Inc,Facilities,Cleaning,5.75,Poor,West Nancy,Large,2022-06-27,fbaker@example.com,Net 60,True,Medium,Low,Biennial,Negotiated
+V0246,Rowe and Sons,Facilities,Maintenance,1.2,Poor,Port Joan,Medium,2023-11-19,michelle96@example.org,Net 30,True,Low,High,Biennial,Fixed
+V0247,"Taylor, Clark and Clark",IT,Hardware,8.07,Average,New Michaelview,Small,2023-09-08,mariopadilla@example.com,Net 60,False,Low,High,Annual,Fixed
+V0248,"Adams, Hodge and Duke",HR,Recruiting,9.69,Poor,East Sydneychester,Small,2024-05-15,riddlemichelle@example.org,Net 60,True,High,Low,Biennial,Negotiated
+V0249,"Cline, Wright and Dawson",IT,Software,9.69,Good,Port Megan,Small,2023-04-03,othomas@example.com,Net 60,True,High,High,Annual,Fixed
+V0250,"Perry, Hayes and Schultz",Facilities,Maintenance,1.67,Average,South Zacharyview,Small,2023-11-23,shawn75@example.net,Net 45,True,Low,Medium,Biennial,Negotiated
+V0251,Melton Ltd,Facilities,Maintenance,5.09,Good,Lake Teresastad,Medium,2024-03-23,flynnraymond@example.com,Net 60,True,Low,Medium,Biennial,CPI Linked
+V0252,Simpson LLC,Facilities,Cleaning,0.99,Good,Matthewshire,Medium,2022-09-11,rkramer@example.org,Net 45,True,High,Low,Annual,Negotiated
+V0253,Garcia Group,Operations,Utilities,2.71,Good,North Sarahburgh,Large,2023-05-10,bsmith@example.org,Net 45,False,High,Low,Annual,Fixed
+V0254,"Blankenship, Khan and Turner",Marketing,Events,6.09,Good,Clarencestad,Small,2022-12-13,watsonrebecca@example.org,Net 60,True,Low,High,Annual,CPI Linked
+V0255,Sanders LLC,Operations,Utilities,2.36,Poor,South Diana,Large,2023-11-30,smiththomas@example.org,Net 60,False,High,Low,Annual,CPI Linked
+V0256,"Perez, Frazier and Smith",Marketing,SEO,3.53,Good,Lisachester,Medium,2023-11-23,timperez@example.org,Net 45,False,High,Low,Annual,Fixed
+V0257,"Shaffer, Garcia and Richardson",IT,Cloud,4.06,Poor,Derrickberg,Large,2023-10-13,caseyelliott@example.net,Net 60,True,High,High,Biennial,CPI Linked
+V0258,"Martin, Bell and Lewis",HR,Recruiting,8.35,Poor,South Christina,Medium,2023-05-11,christophergarcia@example.org,Net 45,False,Low,Low,Annual,Negotiated
+V0259,"Blair, Bell and Jordan",HR,Recruiting,9.51,Average,East Joshua,Small,2022-08-06,angelagreene@example.net,Net 60,True,Low,Medium,Biennial,Negotiated
+V0260,Maxwell-Vaughn,Facilities,Cleaning,4.39,Poor,Jamiehaven,Medium,2022-10-26,dphillips@example.org,Net 30,True,Medium,Medium,Annual,Negotiated
+V0261,Cruz-Allen,IT,Software,2.82,Poor,New Pamelatown,Large,2023-03-09,david96@example.com,Net 45,False,High,Low,Biennial,CPI Linked
+V0262,"Vega, Farmer and Best",Marketing,SEO,5.91,Good,North Brendatown,Large,2022-12-22,billbrown@example.com,Net 45,True,High,Medium,Annual,Fixed
+V0263,"Mitchell, Marquez and Wang",HR,Training,5.3,Good,Milesland,Medium,2023-10-12,joshuacollins@example.net,Net 45,False,Low,Low,Biennial,Negotiated
+V0264,Mccann and Sons,Operations,Logistics,2.68,Good,Peterland,Small,2023-01-28,pblair@example.org,Net 45,False,Low,High,Biennial,Negotiated
+V0265,Miller Group,Marketing,Events,8.43,Average,South Cherylton,Medium,2023-01-28,davidzimmerman@example.net,Net 45,False,Medium,Medium,Biennial,Fixed
+V0266,Martin LLC,HR,Training,9.54,Poor,Garyberg,Medium,2024-01-05,jessica10@example.com,Net 30,False,Low,High,Biennial,Fixed
+V0267,Nelson-Brown,HR,Training,6.62,Good,South Spencerstad,Medium,2022-07-15,kvillarreal@example.com,Net 60,False,High,High,Annual,CPI Linked
+V0268,Scott Inc,IT,Cloud,3.21,Poor,East Joycetown,Small,2022-07-06,sanchezthomas@example.com,Net 60,True,Medium,Medium,Annual,CPI Linked
+V0269,White Inc,IT,Cloud,6.78,Average,Walkerbury,Large,2023-04-21,joseph19@example.com,Net 60,False,Medium,Medium,Annual,Fixed
+V0270,Shaw Inc,IT,Cloud,8.67,Poor,East Linda,Large,2022-07-07,djones@example.com,Net 45,True,Low,High,Annual,Fixed
+V0271,Murphy-Tran,HR,Recruiting,6.73,Good,West Jamesshire,Small,2024-02-01,jodi37@example.com,Net 45,True,High,High,Annual,Negotiated
+V0272,"Bonilla, Cuevas and Parsons",HR,Training,3.25,Average,East Adam,Small,2023-04-16,hallmichael@example.net,Net 45,True,Medium,Low,Biennial,Fixed
+V0273,Tapia Inc,Marketing,Digital Ads,5.93,Good,Sweeneyport,Medium,2022-08-21,alyssaallen@example.com,Net 30,False,High,Low,Annual,CPI Linked
+V0274,Kaufman and Sons,Marketing,Events,2.12,Average,Christopherbury,Medium,2024-04-28,xhaynes@example.com,Net 45,True,Low,Medium,Annual,CPI Linked
+V0275,"Miller, Davis and Anderson",Facilities,Cleaning,5.02,Good,Jonesshire,Large,2022-07-20,ibates@example.org,Net 60,True,Low,Low,Annual,Fixed
+V0276,Green-Edwards,HR,Training,8.87,Average,Haynesmouth,Medium,2023-02-04,enelson@example.org,Net 30,False,Low,Medium,Annual,Fixed
+V0277,Chan PLC,Operations,Logistics,2.56,Poor,East Danielmouth,Large,2023-05-29,richard85@example.org,Net 60,True,Medium,High,Biennial,Fixed
+V0278,Parker-Baker,Facilities,Cleaning,8.89,Average,North Ericport,Large,2024-03-04,lewismelissa@example.org,Net 60,True,Medium,Medium,Biennial,Fixed
+V0279,Dawson LLC,Operations,Logistics,2.24,Average,Palmerport,Large,2022-12-21,anthonysullivan@example.com,Net 45,True,Medium,High,Annual,Negotiated
+V0280,"Adkins, Wright and Murray",IT,Hardware,1.92,Average,North Alexander,Medium,2024-03-07,davidcolon@example.com,Net 60,True,Low,Medium,Biennial,Fixed
+V0281,"Mccoy, Newman and Aguilar",Facilities,Cleaning,3.39,Average,Samanthaland,Small,2022-06-18,gonzalezdebbie@example.org,Net 45,False,Medium,High,Annual,Negotiated
+V0282,Stein LLC,Operations,Logistics,8.78,Average,North Sheriton,Large,2022-10-10,zunderwood@example.com,Net 30,True,Medium,Low,Biennial,Fixed
+V0283,Reyes Group,Facilities,Maintenance,8.86,Poor,West Jason,Small,2022-10-25,joshua20@example.net,Net 45,True,Medium,Medium,Biennial,CPI Linked
+V0284,"Jensen, Holland and Porter",IT,Cloud,9.01,Poor,Brownview,Medium,2023-03-26,robertday@example.net,Net 30,False,High,Medium,Biennial,Negotiated
+V0285,Mccoy PLC,IT,Cloud,4.96,Good,South Kimberlystad,Medium,2023-06-09,kcooper@example.net,Net 60,False,Low,Medium,Annual,CPI Linked
+V0286,Price-White,HR,Recruiting,1.49,Poor,Carlatown,Small,2024-04-27,brian78@example.com,Net 45,False,High,High,Biennial,Negotiated
+V0287,"Key, Dickson and Garcia",Marketing,SEO,4.99,Poor,West Amanda,Large,2024-02-06,gallagherstacie@example.net,Net 60,True,Low,High,Annual,Negotiated
+V0288,Kelly-Combs,Operations,Utilities,1.4,Good,East Joel,Small,2023-02-04,robin05@example.net,Net 45,True,Low,Low,Annual,CPI Linked
+V0289,"Thomas, Vaughan and Copeland",IT,Hardware,3.93,Good,Weaverburgh,Small,2023-06-17,davisjesse@example.org,Net 30,False,Low,High,Annual,Negotiated
+V0290,Fox Inc,Facilities,Maintenance,0.76,Average,Samanthaborough,Medium,2024-02-18,matthewthompson@example.com,Net 60,True,High,Low,Annual,CPI Linked
+V0291,Johnson PLC,IT,Software,8.94,Poor,Port Daniel,Medium,2023-07-15,susan56@example.net,Net 30,False,Low,Low,Biennial,Fixed
+V0292,Rogers LLC,IT,Cloud,7.02,Average,East Jessica,Small,2023-05-07,lbanks@example.net,Net 45,False,Low,High,Biennial,CPI Linked
+V0293,"Steele, Mcfarland and Buchanan",Operations,Utilities,9.3,Good,Lake Brianna,Medium,2022-10-16,sparker@example.com,Net 45,False,Low,High,Biennial,Fixed
+V0294,Thompson Inc,HR,Training,0.89,Good,Rosalesshire,Medium,2022-06-27,carriemccall@example.net,Net 30,False,High,Low,Biennial,Fixed
+V0295,Bowman Inc,HR,Training,2.33,Average,Taylorland,Large,2022-12-03,toni21@example.net,Net 60,True,Low,Medium,Biennial,Fixed
+V0296,"Fowler, Tanner and Griffin",Marketing,Events,7.03,Average,Jasonland,Small,2023-03-01,kristin00@example.com,Net 30,True,Low,High,Annual,Fixed
+V0297,Oconnor-Costa,IT,Software,2.34,Good,Snyderfurt,Large,2023-03-01,egarcia@example.net,Net 30,False,Low,Low,Biennial,Fixed
+V0298,"Chang, Perez and Hayes",IT,Cloud,3.83,Average,West Andrewview,Large,2022-08-22,petersonpamela@example.org,Net 30,False,High,High,Annual,Negotiated
+V0299,"Jones, Mcmahon and Spence",HR,Recruiting,4.43,Poor,Brookefort,Small,2023-12-01,reynoldsdesiree@example.net,Net 45,True,Low,Low,Biennial,CPI Linked
+V0300,Moore-Garcia,Operations,Logistics,2.99,Good,East Robert,Medium,2023-08-06,donna43@example.org,Net 45,False,High,Medium,Annual,CPI Linked
+V0301,Long PLC,Operations,Utilities,5.46,Good,Hernandezstad,Medium,2022-06-04,qmiller@example.net,Net 30,False,High,Low,Biennial,Negotiated
+V0302,"Castillo, Davis and Clark",Facilities,Cleaning,6.25,Average,Tiffanyfort,Medium,2024-03-18,parkerraymond@example.com,Net 30,False,Low,High,Annual,Negotiated
+V0303,"Baker, May and Hughes",Marketing,SEO,6.01,Average,Nicolestad,Small,2022-10-24,cwilliams@example.com,Net 30,True,Medium,Low,Annual,Fixed
+V0304,Perez-Adams,Facilities,Maintenance,0.84,Average,East Karenville,Large,2022-08-07,lindsey69@example.org,Net 60,False,High,Low,Biennial,Fixed
+V0305,"Brown, Hughes and Mills",Operations,Logistics,4.72,Average,Armstrongbury,Small,2023-06-06,christian08@example.net,Net 30,False,Low,High,Annual,Fixed
+V0306,"Mcbride, Byrd and Oliver",Facilities,Cleaning,4.25,Good,Port Shaneburgh,Large,2022-11-13,davidhenderson@example.net,Net 45,True,Low,High,Biennial,Negotiated
+V0307,Harris-Carson,HR,Training,9.91,Average,Port Brooke,Medium,2023-02-05,millerangela@example.net,Net 45,True,High,High,Annual,CPI Linked
+V0308,Gates-Stone,IT,Hardware,1.51,Average,Port Isabellashire,Large,2023-07-12,jrodriguez@example.org,Net 45,False,Low,Medium,Annual,Negotiated
+V0309,"Matthews, Chang and Ayers",Marketing,Digital Ads,1.94,Poor,New Kimberlyport,Large,2024-04-05,natalie46@example.net,Net 30,False,Medium,High,Annual,Negotiated
+V0310,Armstrong-Kennedy,IT,Cloud,3.89,Average,West Richard,Small,2023-09-25,vwilliams@example.net,Net 30,False,Medium,High,Biennial,Fixed
+V0311,Williams Group,HR,Training,4.46,Poor,Pennytown,Small,2023-02-19,larry71@example.org,Net 30,False,High,High,Annual,Negotiated
+V0312,Turner Ltd,Marketing,SEO,6.42,Good,Schroedermouth,Large,2022-12-28,fjacobs@example.org,Net 30,True,Low,Medium,Biennial,Negotiated
+V0313,Lewis-Holloway,IT,Software,6.83,Poor,Malonestad,Small,2024-02-29,robertsonerik@example.com,Net 30,True,High,High,Biennial,CPI Linked
+V0314,"Hunter, Taylor and York",HR,Training,4.83,Good,East Jamesborough,Small,2024-03-13,wrightstephen@example.com,Net 60,True,Medium,Low,Annual,Fixed
+V0315,"Gonzalez, Richardson and Marshall",Marketing,Digital Ads,2.38,Poor,Reidville,Medium,2023-11-13,allentracy@example.com,Net 30,False,Low,Medium,Biennial,Negotiated
+V0316,Horne Group,Marketing,Events,9.82,Good,Maxview,Large,2024-01-04,mitchellpaul@example.org,Net 45,False,Low,High,Annual,Negotiated
+V0317,"Chan, Lewis and Walker",Operations,Utilities,7.97,Poor,Lake Jamie,Medium,2023-10-21,xpalmer@example.net,Net 30,False,Medium,Low,Annual,CPI Linked
+V0318,Wells and Sons,Operations,Logistics,3.34,Average,New Lauren,Medium,2022-11-22,charlene44@example.com,Net 30,True,Medium,Medium,Annual,Negotiated
+V0319,York-Stevens,Operations,Logistics,3.18,Good,South Kevin,Large,2023-07-11,asilva@example.net,Net 60,False,High,High,Biennial,Fixed
+V0320,"Levy, Franco and Hoffman",HR,Recruiting,6.5,Average,Kennethville,Small,2023-06-11,rogersjoshua@example.com,Net 30,False,Medium,Medium,Annual,CPI Linked
+V0321,Green-Dawson,HR,Recruiting,2.07,Average,Jacobhaven,Small,2024-01-17,racheltrujillo@example.net,Net 45,False,Low,Low,Biennial,Fixed
+V0322,Guerrero-Becker,IT,Software,8.52,Good,Lake Tylerport,Large,2022-12-20,vsullivan@example.org,Net 60,False,Low,Low,Biennial,CPI Linked
+V0323,"Erickson, Armstrong and Lee",Facilities,Cleaning,2.68,Poor,Lake Amanda,Small,2024-02-01,qknox@example.com,Net 60,True,Low,High,Biennial,CPI Linked
+V0324,"Evans, Jackson and Sandoval",Marketing,Digital Ads,6.81,Good,West Connor,Large,2022-09-09,jessica82@example.net,Net 45,True,High,Low,Biennial,CPI Linked
+V0325,Pena-Walker,HR,Training,1.42,Average,Lake Monica,Medium,2023-04-24,nathan94@example.com,Net 60,True,High,Medium,Annual,Fixed
+V0326,Ruiz Ltd,Facilities,Cleaning,5.58,Good,South Pamelahaven,Medium,2022-09-03,amoreno@example.org,Net 45,False,Low,Low,Annual,CPI Linked
+V0327,Taylor and Sons,HR,Recruiting,4.04,Average,Robertshire,Small,2024-04-25,tthomas@example.org,Net 60,True,Low,Low,Biennial,Fixed
+V0328,Freeman Ltd,Operations,Logistics,9.36,Average,West Cynthia,Large,2022-06-05,whill@example.org,Net 60,True,Medium,Medium,Annual,Fixed
+V0329,"Duran, Burns and Gallagher",IT,Cloud,6.99,Poor,East Christinachester,Small,2023-04-11,ysanford@example.org,Net 30,False,High,Low,Annual,CPI Linked
+V0330,Ferguson Ltd,Facilities,Cleaning,3.75,Average,Stephaniemouth,Small,2024-01-10,andrewsmith@example.net,Net 45,False,Medium,Medium,Biennial,CPI Linked
+V0331,Perez LLC,Marketing,SEO,3.79,Poor,Davidfurt,Large,2023-06-27,gary04@example.com,Net 30,False,Medium,Low,Biennial,CPI Linked
+V0332,Luna-Carlson,Facilities,Maintenance,6.75,Average,Ryanberg,Small,2023-02-23,mhoward@example.org,Net 30,False,High,Low,Biennial,Negotiated
+V0333,Smith-Walker,IT,Cloud,9.84,Average,East Jessica,Small,2023-09-03,daviddawson@example.org,Net 30,True,High,Medium,Annual,Negotiated
+V0334,Mcdowell-Scott,Operations,Logistics,5.84,Good,New Virginiaville,Small,2023-10-22,williamsdarrell@example.com,Net 30,True,High,Low,Biennial,Fixed
+V0335,Martinez-King,HR,Training,0.72,Good,East Heather,Large,2023-10-04,turnerdorothy@example.net,Net 45,False,Medium,High,Biennial,CPI Linked
+V0336,"Nelson, Obrien and Taylor",Facilities,Cleaning,2.75,Poor,New Jenniferville,Large,2023-01-07,glovertyler@example.net,Net 45,False,Medium,Low,Biennial,Negotiated
+V0337,Strickland PLC,IT,Hardware,1.56,Average,West Jade,Small,2023-01-17,benjamincrawford@example.org,Net 45,False,High,Medium,Biennial,Fixed
+V0338,"Fitzpatrick, Rivera and Smith",HR,Training,2.28,Poor,North Maryfort,Medium,2022-09-25,chancharles@example.net,Net 30,True,Medium,Medium,Biennial,CPI Linked
+V0339,Conway Ltd,Marketing,SEO,5.29,Good,South Vanessa,Medium,2023-01-17,steven12@example.org,Net 30,False,Low,High,Annual,Negotiated
+V0340,Ward-Rhodes,HR,Training,2.69,Good,Rodgersville,Large,2024-03-24,smithdevon@example.net,Net 60,True,High,High,Annual,Negotiated
+V0341,Murphy Group,IT,Hardware,7.51,Poor,Natalieland,Small,2023-03-18,ian66@example.com,Net 60,False,Medium,Low,Annual,Fixed
+V0342,Houston-Vaughn,HR,Training,4.51,Good,Marshburgh,Medium,2022-08-28,heatherbrown@example.org,Net 30,False,Medium,High,Annual,Negotiated
+V0343,Perry PLC,Marketing,Digital Ads,2.11,Poor,Phammouth,Large,2022-10-20,nmaxwell@example.org,Net 60,True,High,Medium,Annual,Fixed
+V0344,"Hobbs, Acosta and Snow",Marketing,Events,5.35,Poor,Knappville,Medium,2024-04-21,ealexander@example.com,Net 45,False,High,High,Biennial,CPI Linked
+V0345,"Edwards, Bush and Gregory",Operations,Logistics,6.44,Good,Lake Morgan,Large,2023-07-10,reynoldsjessica@example.com,Net 45,False,Medium,Low,Biennial,Negotiated
+V0346,Alvarado-Davidson,Marketing,Digital Ads,1.39,Poor,Port Margaret,Large,2024-04-24,smithsarah@example.net,Net 45,True,Low,High,Annual,Negotiated
+V0347,Christian-Booth,HR,Recruiting,5.39,Average,Port Travisbury,Medium,2023-02-14,brent38@example.net,Net 30,False,Low,Low,Biennial,Fixed
+V0348,Powell-Young,IT,Hardware,7.58,Poor,Wallaceshire,Large,2023-05-16,gatessergio@example.org,Net 60,False,Low,Medium,Annual,CPI Linked
+V0349,Mcgee-Smith,Facilities,Cleaning,4.39,Good,Gutierrezside,Large,2023-08-02,petersenlatoya@example.net,Net 60,False,Medium,High,Biennial,Negotiated
+V0350,"Torres, Romero and Clark",Marketing,SEO,9.55,Poor,Clementsstad,Medium,2024-03-04,velasquezmegan@example.com,Net 30,True,Medium,Medium,Biennial,Negotiated
+V0351,"Saunders, Greene and Moran",HR,Training,0.84,Poor,Jenniferville,Small,2022-08-16,aaronkelly@example.net,Net 60,False,Medium,High,Biennial,Negotiated
+V0352,Kelley-Brooks,Facilities,Maintenance,7.34,Poor,North Pennyfort,Medium,2022-09-19,nrodriguez@example.org,Net 30,True,Medium,Low,Annual,CPI Linked
+V0353,Martinez Group,HR,Recruiting,0.04,Average,South Makayla,Small,2022-10-28,daniel60@example.net,Net 30,False,Medium,High,Biennial,CPI Linked
+V0354,"Chapman, Barton and Hayes",Marketing,SEO,4.51,Average,South Adam,Medium,2023-12-25,tranryan@example.net,Net 30,False,Low,High,Biennial,Fixed
+V0355,Glass-Norman,Operations,Utilities,2.65,Good,Lake Beth,Large,2023-12-21,dalesandoval@example.net,Net 45,False,Low,Medium,Annual,Fixed
+V0356,Gordon-Cruz,Operations,Utilities,5.78,Good,West Raymond,Medium,2023-02-23,shawn22@example.com,Net 45,False,Medium,Medium,Annual,CPI Linked
+V0357,"Graves, Goodman and Evans",IT,Hardware,8.16,Average,Jenniferside,Medium,2023-10-06,jamesweber@example.com,Net 45,True,Low,Low,Biennial,CPI Linked
+V0358,"Reed, Chambers and Zavala",HR,Recruiting,2.85,Average,New Amy,Small,2023-10-09,jennifer58@example.com,Net 45,False,Low,Low,Biennial,CPI Linked
+V0359,"Duncan, Contreras and Butler",Operations,Logistics,5.13,Average,Nataliechester,Small,2024-02-19,millsanthony@example.org,Net 45,True,High,Medium,Biennial,Negotiated
+V0360,Santiago and Sons,Facilities,Maintenance,6.14,Poor,Karenburgh,Small,2023-01-10,dwayne04@example.org,Net 30,False,High,Medium,Biennial,Negotiated
+V0361,"Johnson, Cervantes and Garcia",IT,Cloud,0.72,Poor,Lake Deborah,Small,2023-03-31,williamrobles@example.net,Net 45,False,High,Low,Biennial,CPI Linked
+V0362,Schwartz-Williams,HR,Training,4.65,Good,Hughesmouth,Medium,2023-08-04,smithjohn@example.net,Net 30,True,Medium,High,Annual,CPI Linked
+V0363,Greer-Pruitt,IT,Cloud,1.96,Good,Kariside,Small,2023-12-27,kimberlybrandt@example.com,Net 30,True,Medium,Medium,Annual,CPI Linked
+V0364,Thompson-Fleming,IT,Hardware,9.36,Good,East Jill,Large,2022-09-02,rwilliams@example.net,Net 30,False,High,High,Annual,Negotiated
+V0365,Anderson-Silva,Operations,Logistics,5.9,Poor,Adammouth,Large,2023-12-05,billmcfarland@example.net,Net 45,False,Low,Medium,Annual,Negotiated
+V0366,Ayala Ltd,Operations,Utilities,2.84,Poor,Tracyshire,Small,2023-08-03,charles58@example.org,Net 60,True,Medium,High,Annual,Negotiated
+V0367,Meyer PLC,HR,Recruiting,1.74,Average,South Amy,Large,2023-04-11,baileynicole@example.net,Net 45,False,Medium,Low,Biennial,CPI Linked
+V0368,Rivera-Carter,Facilities,Cleaning,6.63,Average,Barajastown,Small,2022-08-30,sean99@example.org,Net 45,False,Medium,High,Biennial,Negotiated
+V0369,Fleming LLC,Operations,Logistics,7.67,Good,Moonville,Large,2023-03-28,amber40@example.net,Net 60,False,High,High,Annual,CPI Linked
+V0370,Robertson-Hicks,HR,Recruiting,5.12,Good,Williamsborough,Large,2023-02-05,vaughangary@example.net,Net 45,True,High,High,Annual,Fixed
+V0371,"Smith, Jones and Santiago",Facilities,Cleaning,9.69,Good,Port Gina,Medium,2024-03-12,harrismaria@example.net,Net 45,False,Low,Low,Annual,Fixed
+V0372,Lucas-Case,HR,Recruiting,6.44,Good,North Stephen,Medium,2023-02-14,millerbrian@example.com,Net 30,True,High,High,Annual,Negotiated
+V0373,"Jones, Underwood and Bartlett",IT,Hardware,6.78,Good,Hughesfurt,Large,2023-05-04,andre18@example.org,Net 45,False,Medium,Medium,Biennial,Negotiated
+V0374,"Cortez, Brown and Reese",Operations,Utilities,5.01,Average,Lake Melaniestad,Small,2024-05-22,robertsgina@example.net,Net 45,False,Medium,High,Annual,Negotiated
+V0375,Campbell Group,Facilities,Maintenance,1.34,Good,Fostertown,Large,2023-06-05,amandataylor@example.com,Net 45,False,High,Low,Biennial,CPI Linked
+V0376,"Phillips, Walters and Evans",Marketing,Digital Ads,0.14,Good,Susantown,Medium,2023-08-05,davidsmith@example.net,Net 60,True,Low,High,Biennial,Negotiated
+V0377,Medina-Arroyo,Operations,Logistics,5.07,Good,Jasonstad,Medium,2022-11-13,gwhitehead@example.org,Net 30,False,Medium,Medium,Biennial,Negotiated
+V0378,White PLC,Operations,Logistics,5.66,Good,Jamesburgh,Medium,2023-11-05,yorksarah@example.net,Net 60,False,Medium,Medium,Biennial,CPI Linked
+V0379,Newman-Jones,Marketing,Digital Ads,6.39,Good,West Coreyshire,Large,2023-06-15,michael31@example.com,Net 45,False,Low,High,Annual,Fixed
+V0380,"Jones, Lee and Tucker",HR,Recruiting,4.62,Average,Christinaport,Small,2023-11-22,arianadiaz@example.com,Net 45,True,Low,Medium,Annual,Negotiated
+V0381,Jackson-Edwards,Marketing,Events,9.59,Good,Lake Jodi,Large,2023-05-06,mary25@example.com,Net 30,False,Low,High,Annual,Negotiated
+V0382,Griffin-Hampton,Marketing,SEO,1.35,Poor,Arnoldburgh,Small,2023-10-16,wilkinsonmichele@example.org,Net 60,False,Low,Medium,Annual,CPI Linked
+V0383,"Gonzalez, Gross and Sims",Operations,Utilities,8.64,Poor,North Melissatown,Medium,2024-02-23,nhammond@example.org,Net 45,False,Low,Medium,Biennial,CPI Linked
+V0384,"Green, Shannon and Fernandez",Facilities,Cleaning,0.3,Poor,West Philip,Medium,2024-04-24,dennis88@example.org,Net 45,False,Medium,High,Annual,CPI Linked
+V0385,Cox-Smith,Marketing,Digital Ads,0.46,Good,Port Tamara,Large,2023-09-21,katherinetaylor@example.org,Net 30,True,High,High,Biennial,Negotiated
+V0386,Knight PLC,Operations,Utilities,0.48,Average,Lake Jessica,Small,2024-05-31,billy73@example.org,Net 45,False,High,Low,Biennial,Fixed
+V0387,Wood-Williams,Facilities,Maintenance,6.09,Good,New Rebecca,Medium,2023-03-09,dharrison@example.org,Net 30,False,High,Low,Biennial,CPI Linked
+V0388,Hooper LLC,Facilities,Maintenance,6.58,Poor,Lake Tanyaview,Small,2024-03-11,beth92@example.com,Net 45,False,Medium,High,Biennial,Fixed
+V0389,"Gray, Matthews and Villanueva",IT,Software,7.57,Average,New Johnbury,Large,2023-07-08,wgomez@example.com,Net 60,False,Medium,Medium,Annual,Fixed
+V0390,Eaton-Smith,Operations,Utilities,9.72,Good,South Gabriel,Large,2022-07-31,jason22@example.com,Net 30,False,High,High,Annual,CPI Linked
+V0391,"Love, Wilson and Hall",Operations,Utilities,2.2,Poor,Jenniferfort,Small,2023-11-08,lmendoza@example.org,Net 30,False,High,Low,Annual,Fixed
+V0392,"Whitaker, Johnson and Williams",Marketing,Digital Ads,7.99,Poor,East Crystal,Large,2022-07-02,brianscott@example.org,Net 60,True,Low,High,Biennial,Fixed
+V0393,"Mullen, Greene and Elliott",Marketing,Events,6.59,Good,Lake Jessicaport,Small,2022-08-07,shanehaney@example.com,Net 60,False,Medium,Low,Annual,CPI Linked
+V0394,Robinson Group,Marketing,Digital Ads,8.65,Average,Port Brandi,Medium,2024-01-19,cindydixon@example.org,Net 30,False,Medium,Low,Biennial,Negotiated
+V0395,"Jennings, Nielsen and Carlson",IT,Hardware,0.73,Poor,East Nicholasberg,Large,2022-08-25,harrismichele@example.net,Net 30,False,Low,Medium,Annual,CPI Linked
+V0396,"Barnes, Hernandez and Davis",Marketing,SEO,0.76,Poor,Valenzuelaton,Medium,2024-04-13,davisdonna@example.net,Net 30,True,Medium,High,Annual,Fixed
+V0397,"Carey, Prince and Hampton",Facilities,Cleaning,2.8,Good,Boydstad,Small,2024-04-11,wolferoy@example.com,Net 60,True,High,Low,Biennial,Negotiated
+V0398,Bell-Ballard,HR,Recruiting,3.56,Good,South Dennisfort,Medium,2024-01-17,reneemiller@example.net,Net 45,False,High,High,Annual,Fixed
+V0399,"Ortiz, Lopez and Fletcher",IT,Software,1.34,Average,New Alexandrahaven,Small,2022-06-07,spena@example.com,Net 60,False,Low,Low,Annual,Negotiated
+V0400,Cox-Moore,Facilities,Maintenance,0.03,Good,Joseside,Medium,2023-04-26,cheryl63@example.com,Net 45,True,High,Medium,Biennial,Negotiated
+V0401,"Bowers, Olson and Wood",HR,Training,1.35,Average,Kingport,Large,2023-08-24,kim62@example.net,Net 30,True,Medium,Medium,Biennial,Fixed
+V0402,Adkins Group,Facilities,Cleaning,2.89,Good,North Jason,Medium,2023-04-09,lauren90@example.org,Net 30,False,Medium,Low,Annual,CPI Linked
+V0403,Oconnell-Smith,Marketing,Events,8.36,Good,Port Dustinchester,Medium,2022-08-09,bakernathan@example.net,Net 45,False,Low,Low,Biennial,Fixed
+V0404,Ramsey Group,HR,Training,7.37,Good,Jenniferton,Medium,2024-01-23,daniellegonzales@example.org,Net 30,True,High,Low,Annual,Negotiated
+V0405,"Galvan, Holmes and Lee",Operations,Logistics,9.01,Poor,New Gavin,Medium,2022-06-30,john02@example.org,Net 60,True,Low,High,Biennial,CPI Linked
+V0406,Chan-Gomez,Marketing,SEO,7.54,Poor,Sullivanborough,Large,2023-07-09,mclaughlincasey@example.org,Net 60,False,High,High,Annual,CPI Linked
+V0407,"Mitchell, Gallegos and Herman",HR,Training,8.17,Average,Michaelview,Medium,2022-11-24,shawnpowell@example.org,Net 45,False,High,Medium,Annual,Negotiated
+V0408,Thompson-Hunter,IT,Software,5.75,Good,New Kellyville,Large,2024-02-15,nancy94@example.net,Net 45,True,Low,Medium,Biennial,Fixed
+V0409,Church-Hart,Operations,Utilities,6.96,Average,Port Matthew,Large,2024-01-25,lmaldonado@example.org,Net 60,False,Medium,Medium,Biennial,Fixed
+V0410,Wilson-Jones,IT,Software,6.75,Average,Lake Jacqueline,Large,2024-02-13,robert58@example.net,Net 45,True,Low,High,Annual,CPI Linked
+V0411,Haynes LLC,Facilities,Maintenance,7.04,Good,West Christopher,Large,2023-11-07,charles27@example.com,Net 30,False,Medium,Medium,Annual,Negotiated
+V0412,Robinson-Berry,Facilities,Maintenance,7.64,Good,Lake Felicia,Small,2024-05-08,victorgonzalez@example.net,Net 30,False,Low,High,Annual,CPI Linked
+V0413,Salas and Sons,Marketing,SEO,2.74,Poor,East Mary,Small,2024-03-12,eric11@example.org,Net 45,False,High,Low,Annual,Negotiated
+V0414,"Sosa, Vasquez and Smith",Marketing,SEO,2.2,Good,Port Timothymouth,Medium,2023-06-19,travis84@example.com,Net 30,False,High,Low,Biennial,Negotiated
+V0415,Christensen and Sons,Operations,Utilities,6.77,Good,New Laurenfort,Medium,2024-05-31,shawphillip@example.net,Net 45,False,High,Low,Biennial,Negotiated
+V0416,Bryant Inc,Facilities,Maintenance,0.77,Average,Stewarttown,Medium,2022-06-11,nicolasgarcia@example.com,Net 30,False,Medium,Low,Biennial,CPI Linked
+V0417,"Hensley, Lopez and Baker",Operations,Logistics,7.31,Good,Thomasmouth,Medium,2023-03-13,victorclark@example.net,Net 45,True,Low,Low,Annual,Fixed
+V0418,Diaz-Morales,HR,Training,7.87,Average,Whiteberg,Small,2023-08-23,lisale@example.org,Net 45,True,Medium,High,Biennial,Fixed
+V0419,"Reynolds, James and Thomas",Facilities,Maintenance,8.8,Poor,South Linda,Small,2022-10-17,oporter@example.net,Net 60,False,Medium,Medium,Annual,CPI Linked
+V0420,"Le, Floyd and Evans",Marketing,SEO,0.22,Average,South Coreyburgh,Small,2022-07-18,lisawoods@example.net,Net 60,True,High,Low,Annual,CPI Linked
+V0421,Cole LLC,Marketing,Digital Ads,6.68,Poor,Michaelside,Large,2023-08-09,maurice61@example.com,Net 30,False,Medium,High,Biennial,CPI Linked
+V0422,"Mccarty, Gonzalez and Johnston",HR,Recruiting,7.21,Average,Port Justin,Large,2023-02-09,champton@example.org,Net 45,False,High,High,Biennial,Negotiated
+V0423,Austin-Ford,Facilities,Cleaning,3.87,Poor,Port Gary,Medium,2024-02-19,robert99@example.com,Net 45,False,Medium,High,Annual,Negotiated
+V0424,Miller LLC,HR,Recruiting,8.53,Poor,West Logan,Medium,2023-01-14,catherine64@example.com,Net 45,False,Low,Medium,Biennial,CPI Linked
+V0425,Adkins-Meyer,Operations,Logistics,1.57,Poor,Gutierrezburgh,Large,2024-03-26,martinezjimmy@example.com,Net 60,False,Low,Low,Annual,Negotiated
+V0426,"Haynes, Miller and Jackson",HR,Recruiting,4.6,Good,North Calebfort,Medium,2023-08-01,johnsonrandy@example.org,Net 60,False,Medium,High,Biennial,Negotiated
+V0427,Baker and Sons,IT,Software,6.15,Good,Lake Sarahfurt,Medium,2023-01-28,johnmitchell@example.net,Net 60,False,High,Low,Biennial,Fixed
+V0428,Anderson and Sons,Operations,Logistics,2.34,Average,North Elizabethmouth,Small,2024-04-03,imcdonald@example.com,Net 45,False,Low,High,Annual,CPI Linked
+V0429,"Wallace, Montes and Wolfe",Operations,Logistics,5.38,Average,New Carla,Small,2023-10-05,omills@example.net,Net 30,True,High,High,Biennial,Fixed
+V0430,Stout-Olson,Marketing,Events,3.42,Good,Port Christopher,Large,2023-01-27,robert24@example.org,Net 45,False,Medium,Medium,Biennial,Negotiated
+V0431,Mills and Sons,Marketing,SEO,7.16,Good,Justinside,Large,2022-06-08,earroyo@example.com,Net 45,False,Medium,Low,Biennial,Negotiated
+V0432,Cannon LLC,IT,Cloud,9.82,Poor,Port Adrian,Medium,2023-03-19,robertcastro@example.com,Net 60,True,Medium,Low,Annual,Negotiated
+V0433,Martin Ltd,Facilities,Cleaning,7.47,Average,Claytonbury,Large,2022-12-23,hendersonjohn@example.net,Net 30,False,High,Medium,Annual,CPI Linked
+V0434,"Cohen, Mitchell and Paul",IT,Software,2.75,Good,Robertland,Large,2022-10-21,keithwalsh@example.net,Net 45,False,High,High,Annual,CPI Linked
+V0435,Nelson-Dean,HR,Training,5.09,Average,West Andrew,Medium,2022-07-10,lopezcurtis@example.com,Net 30,True,High,Medium,Annual,Fixed
+V0436,Espinoza Ltd,Marketing,Digital Ads,8.63,Good,East Christophertown,Large,2023-06-20,matthewcollins@example.com,Net 30,True,Medium,Medium,Biennial,CPI Linked
+V0437,Ford-Moody,Operations,Utilities,4.08,Poor,Christopherberg,Medium,2022-07-15,kimberly18@example.com,Net 30,True,Low,Medium,Annual,Negotiated
+V0438,Lee LLC,Operations,Utilities,4.94,Poor,Claytonville,Medium,2024-01-19,paulproctor@example.org,Net 45,False,Low,High,Annual,CPI Linked
+V0439,"Vang, Gonzalez and Moss",Operations,Utilities,4.54,Good,New Elizabethborough,Small,2023-06-04,tmaldonado@example.com,Net 60,True,Low,Medium,Annual,CPI Linked
+V0440,Soto Inc,IT,Software,4.88,Good,West Timothyport,Large,2022-11-03,paige31@example.org,Net 30,False,Medium,Low,Annual,Negotiated
+V0441,"Hamilton, Smith and Bauer",Operations,Utilities,3.55,Poor,South Kristinatown,Large,2022-07-04,jbarker@example.com,Net 30,True,High,Medium,Biennial,CPI Linked
+V0442,Wright Group,Marketing,SEO,1.73,Poor,Lake Christineton,Medium,2022-07-18,deanna81@example.org,Net 60,True,High,Medium,Annual,Fixed
+V0443,Hall-Holden,Marketing,Digital Ads,9.98,Good,Lindamouth,Medium,2023-12-23,andrewgray@example.net,Net 60,False,Low,High,Annual,Fixed
+V0444,King Inc,Marketing,Events,6.69,Poor,Mannside,Small,2023-01-16,llopez@example.net,Net 30,False,Low,Low,Biennial,CPI Linked
+V0445,Morris-Mcdonald,Marketing,Events,2.28,Good,North Amanda,Large,2023-05-17,lori85@example.com,Net 30,True,High,Medium,Biennial,CPI Linked
+V0446,Parsons PLC,IT,Hardware,4.62,Average,Grosstown,Large,2023-09-26,kimberly35@example.net,Net 60,True,Medium,Medium,Annual,Negotiated
+V0447,Barrett PLC,Marketing,Events,7.09,Average,Leefort,Large,2024-01-17,chloemorris@example.net,Net 60,False,Low,Medium,Annual,Fixed
+V0448,Rodriguez-Mills,HR,Recruiting,8.65,Poor,North Maryberg,Medium,2022-10-18,harristodd@example.org,Net 45,False,Medium,Low,Annual,Negotiated
+V0449,Duncan Group,Facilities,Maintenance,7.03,Poor,Foxshire,Large,2022-12-17,diazcatherine@example.org,Net 60,True,Medium,Low,Biennial,Negotiated
+V0450,Conrad and Sons,Facilities,Maintenance,8.85,Poor,Hebertland,Large,2023-05-31,wardjulia@example.com,Net 45,False,Low,Low,Annual,Fixed
+V0451,Bauer-Brown,Operations,Logistics,5.31,Average,Allisonland,Medium,2024-03-11,christian38@example.org,Net 30,False,Medium,Medium,Annual,Fixed
+V0452,Hardy PLC,IT,Hardware,8.43,Average,Lopezhaven,Medium,2023-10-25,ashleymeza@example.net,Net 45,False,Low,Medium,Annual,Negotiated
+V0453,"Grant, Reese and Miranda",Operations,Utilities,4.25,Average,Emilychester,Small,2024-04-17,jacksonhenry@example.com,Net 45,False,Medium,Medium,Biennial,Negotiated
+V0454,"Morgan, Moore and Murillo",Facilities,Maintenance,8.11,Poor,Mahoneymouth,Small,2023-08-03,megan66@example.net,Net 60,True,Low,High,Biennial,Negotiated
+V0455,Franklin-Hart,Operations,Utilities,2.35,Good,South Katie,Large,2024-05-21,michael77@example.com,Net 45,False,Low,Medium,Annual,Fixed
+V0456,Barber LLC,Operations,Logistics,9.62,Poor,New Derekport,Medium,2022-06-07,tracey35@example.org,Net 60,False,Medium,Low,Biennial,Negotiated
+V0457,"Short, Ellison and Dixon",Marketing,SEO,2.39,Average,North Benjamin,Large,2023-03-05,devonrichardson@example.net,Net 30,False,Medium,Medium,Annual,CPI Linked
+V0458,Hall LLC,Marketing,Digital Ads,3.03,Average,New Ricardoborough,Large,2023-12-24,cummingslaura@example.org,Net 45,True,Medium,High,Annual,CPI Linked
+V0459,Petersen-Norris,IT,Software,4.3,Good,New Dawnton,Medium,2023-12-21,dmiller@example.com,Net 60,True,Medium,High,Biennial,CPI Linked
+V0460,Hobbs-Hamilton,IT,Cloud,3.13,Poor,Port Kayleetown,Medium,2023-10-07,hbrown@example.org,Net 30,True,Low,Low,Biennial,Negotiated
+V0461,Fernandez-Hernandez,Facilities,Cleaning,7.64,Poor,East Brent,Large,2023-12-22,wmaddox@example.net,Net 30,True,Low,Low,Biennial,Fixed
+V0462,"Wagner, Walker and Roberts",IT,Cloud,2.6,Average,Hernandezmouth,Small,2022-08-05,dduncan@example.net,Net 60,True,Medium,High,Biennial,Negotiated
+V0463,Baker-Ross,IT,Software,6.19,Poor,Ayalaberg,Large,2024-01-14,timothygonzalez@example.com,Net 45,False,High,High,Biennial,Fixed
+V0464,"Duncan, Hoffman and Shea",HR,Recruiting,0.76,Average,East Charles,Small,2024-01-26,kmorris@example.org,Net 30,False,High,Medium,Biennial,Negotiated
+V0465,Powers Group,HR,Recruiting,8.83,Good,Michaelmouth,Medium,2023-02-24,carrillogary@example.com,Net 60,True,Low,Low,Annual,Negotiated
+V0466,"Underwood, Lang and Hanson",Marketing,SEO,2.52,Average,Williamsbury,Large,2022-11-04,eric11@example.net,Net 30,False,High,High,Biennial,CPI Linked
+V0467,Sanchez PLC,Marketing,Events,1.99,Poor,Port Marissa,Small,2023-01-11,cooperlinda@example.com,Net 45,False,Low,Medium,Biennial,Negotiated
+V0468,Ruiz-Rivera,IT,Hardware,0.09,Average,East Amy,Small,2024-01-05,ana92@example.net,Net 45,False,Low,Low,Annual,Fixed
+V0469,"Barnett, Bennett and Escobar",IT,Hardware,7.85,Good,West Georgeport,Small,2022-11-04,brian01@example.com,Net 30,True,High,High,Biennial,Fixed
+V0470,"Nelson, Christian and Keller",Operations,Logistics,4.21,Poor,North Kellyfurt,Medium,2022-11-28,tromero@example.org,Net 60,False,Low,Medium,Biennial,Fixed
+V0471,Washington-Harper,Operations,Utilities,8.74,Poor,East Jamesmouth,Medium,2023-08-11,williamssandra@example.com,Net 45,True,Medium,Medium,Biennial,Fixed
+V0472,Burns-Garner,HR,Recruiting,2.2,Average,West Gabriellestad,Small,2023-09-30,joel84@example.org,Net 60,True,High,Medium,Biennial,CPI Linked
+V0473,"Scott, Hughes and Cooke",Operations,Utilities,8.14,Average,New Stacybury,Small,2022-09-27,penny21@example.net,Net 60,False,High,High,Annual,Negotiated
+V0474,Meyer-Gregory,Marketing,SEO,6.54,Average,South John,Medium,2022-09-28,mwaller@example.com,Net 30,True,Low,High,Annual,Fixed
+V0475,Daniels-Clark,Operations,Logistics,2.51,Poor,New Amber,Small,2024-02-13,michelleparker@example.net,Net 30,True,Medium,Medium,Annual,Fixed
+V0476,"Browning, Jordan and Stout",Marketing,Events,4.45,Good,Lake Sarah,Small,2024-05-14,lonniegrant@example.net,Net 60,False,Low,Medium,Biennial,CPI Linked
+V0477,White and Sons,Facilities,Cleaning,4.06,Poor,Port Lucaschester,Large,2023-04-17,scott42@example.org,Net 60,False,Low,Low,Annual,CPI Linked
+V0478,Anderson Inc,Marketing,Events,9.35,Average,Catherinebury,Medium,2023-09-08,jerryjohnson@example.org,Net 60,False,Low,High,Annual,Negotiated
+V0479,"Chan, Anderson and Mathis",Facilities,Maintenance,0.72,Poor,Josephstad,Large,2022-10-22,ihenry@example.org,Net 45,True,High,High,Biennial,Negotiated
+V0480,Perez Group,Operations,Utilities,5.47,Good,West Stephaniebury,Small,2023-12-30,katherinejones@example.com,Net 45,False,Medium,High,Annual,Fixed
+V0481,"Burns, Nguyen and Ellis",IT,Software,9.82,Average,South Richard,Medium,2022-07-04,zcortez@example.net,Net 30,True,High,Medium,Annual,Negotiated
+V0482,"Armstrong, Herrera and Davidson",HR,Recruiting,0.44,Poor,New Danielmouth,Large,2024-03-05,richjohn@example.net,Net 60,True,Medium,Medium,Annual,Fixed
+V0483,Terrell-Williams,Marketing,Digital Ads,6.61,Good,Blackton,Large,2022-10-27,scott44@example.com,Net 60,True,Low,High,Annual,Negotiated
+V0484,Henderson PLC,HR,Training,1.86,Poor,Lake Zacharyberg,Medium,2023-05-28,gdavis@example.org,Net 60,False,Medium,Medium,Annual,CPI Linked
+V0485,Osborne Ltd,Facilities,Cleaning,7.7,Average,South Robert,Small,2023-05-18,whitebrittany@example.net,Net 30,False,Medium,High,Annual,CPI Linked
+V0486,Khan Inc,HR,Recruiting,9.84,Poor,Marioburgh,Large,2023-12-11,davisjasmin@example.net,Net 30,True,Low,Medium,Annual,CPI Linked
+V0487,Miller-Zimmerman,Facilities,Cleaning,6.91,Good,South Andrea,Large,2022-07-06,rhondacunningham@example.net,Net 30,False,Medium,High,Biennial,Negotiated
+V0488,Martin and Sons,Operations,Utilities,0.87,Poor,Port Jennifer,Small,2023-04-23,kyle74@example.net,Net 45,False,Low,High,Biennial,Fixed
+V0489,Wilson and Sons,IT,Cloud,0.26,Poor,North Cindy,Medium,2022-12-15,ellismelissa@example.net,Net 45,True,Low,Low,Annual,Negotiated
+V0490,Franklin Group,Operations,Utilities,8.61,Average,East Brianna,Medium,2023-06-06,fortiz@example.net,Net 45,True,High,Medium,Biennial,Fixed
+V0491,"Smith, Khan and Ramirez",Operations,Utilities,2.75,Average,North Jack,Small,2022-07-14,benjamin09@example.net,Net 60,True,Medium,High,Annual,CPI Linked
+V0492,Rivera-Miller,Marketing,SEO,8.5,Good,South Victoriaburgh,Small,2023-11-06,cheryl99@example.net,Net 45,True,Low,Low,Annual,Fixed
+V0493,Burch Ltd,Facilities,Maintenance,4.5,Good,Sarahland,Small,2024-01-19,marcus61@example.com,Net 45,False,High,Medium,Biennial,Fixed
+V0494,"Brown, Ruiz and Martinez",Operations,Logistics,8.89,Average,Markchester,Small,2023-07-14,heathersalazar@example.org,Net 30,True,High,Medium,Annual,Fixed
+V0495,"Blair, Fuller and Benitez",HR,Training,9.54,Average,Ramseyport,Small,2023-04-29,jordan99@example.com,Net 60,True,Low,High,Biennial,Fixed
+V0496,Mendez Group,Marketing,Events,8.13,Average,Vasquezburgh,Large,2024-04-18,jeanettekrause@example.org,Net 45,True,High,High,Annual,Fixed
+V0497,Johnson Ltd,Marketing,Events,2.14,Poor,Lake Melaniechester,Large,2023-04-19,cookann@example.net,Net 30,True,High,Medium,Annual,Negotiated
+V0498,Smith and Sons,HR,Recruiting,1.93,Average,Jonathanland,Small,2023-01-27,william50@example.org,Net 60,True,Low,High,Annual,Fixed
+V0499,"Cook, Foster and Carroll",Operations,Utilities,2.45,Poor,Port Gregorymouth,Large,2024-03-10,sandra77@example.org,Net 30,False,High,Low,Biennial,Fixed
+V0500,"Taylor, Moore and Murray",Marketing,SEO,5.88,Good,Stevenchester,Medium,2024-05-22,conleykevin@example.net,Net 60,False,Medium,Medium,Annual,CPI Linked
+V0501,"Stewart, Herrera and Clark",Operations,Utilities,4.63,Good,Laurenstad,Large,2022-07-23,juanjohnson@example.com,Net 60,True,High,Low,Biennial,Fixed
+V0502,"Ferguson, Martin and Obrien",Operations,Logistics,7.99,Good,New Darryl,Medium,2024-01-30,janet50@example.com,Net 45,True,Medium,Low,Biennial,CPI Linked
+V0503,Miller-Wiley,HR,Training,2.69,Poor,Shannonport,Large,2022-11-16,gregory50@example.org,Net 60,False,High,Low,Biennial,Negotiated
+V0504,Wallace Inc,Operations,Logistics,1.3,Average,Steinberg,Small,2022-10-27,sandra84@example.com,Net 60,False,High,Medium,Annual,Negotiated
+V0505,Hammond Inc,IT,Software,0.32,Good,East Jenny,Large,2023-05-24,hreeves@example.org,Net 30,False,Medium,Low,Annual,Negotiated
+V0506,Collins Inc,Operations,Utilities,1.75,Good,West Steventon,Small,2022-08-21,andrew43@example.com,Net 30,False,High,High,Annual,Negotiated
+V0507,Lee LLC,Facilities,Maintenance,2.41,Good,Kendraville,Small,2022-12-30,ericwilson@example.net,Net 60,True,Medium,Low,Annual,Negotiated
+V0508,"Palmer, Clark and Bell",Facilities,Cleaning,6.98,Poor,Josephport,Large,2023-08-21,georgecollins@example.com,Net 30,False,Medium,High,Biennial,Fixed
+V0509,"Wallace, Anderson and Ruiz",Marketing,Digital Ads,4.08,Poor,North Patrickland,Small,2023-04-29,mwhite@example.net,Net 30,True,Low,Low,Biennial,Negotiated
+V0510,"Huff, Lyons and Jensen",Marketing,SEO,6.33,Good,Martinborough,Medium,2023-12-07,beltrankatelyn@example.com,Net 30,True,Medium,Low,Annual,CPI Linked
+V0511,"Anderson, Hess and Gillespie",Operations,Utilities,8.62,Average,Davisport,Small,2023-11-15,oruiz@example.org,Net 60,False,Medium,High,Biennial,CPI Linked
+V0512,"Scott, Cox and White",Facilities,Maintenance,5.87,Poor,Kristinamouth,Medium,2023-05-20,ejohnson@example.org,Net 30,False,High,Medium,Annual,Negotiated
+V0513,Mendoza-Singleton,Operations,Logistics,3.87,Average,Katrinashire,Small,2022-09-08,sullivanjennifer@example.org,Net 60,True,Low,Medium,Biennial,Fixed
+V0514,Hawkins-Jones,Marketing,Digital Ads,8.79,Poor,Amandafurt,Small,2023-09-03,pallen@example.net,Net 60,True,Medium,Medium,Biennial,Fixed
+V0515,Dickson Group,HR,Recruiting,8.27,Good,West Jaredshire,Small,2023-05-02,vbradley@example.net,Net 45,False,Low,High,Annual,CPI Linked
+V0516,"Young, Bates and Miller",Facilities,Maintenance,4.68,Poor,Wilsonmouth,Medium,2023-02-09,shortgregory@example.com,Net 60,False,Low,Medium,Biennial,CPI Linked
+V0517,George Ltd,Operations,Utilities,7.1,Poor,Murphyton,Large,2022-08-11,lisaclay@example.net,Net 30,True,Low,High,Annual,Negotiated
+V0518,Sherman Ltd,HR,Training,0.1,Average,South Amanda,Small,2023-03-31,rgonzalez@example.com,Net 30,False,Medium,Medium,Biennial,Negotiated
+V0519,Hudson-Gentry,Operations,Utilities,7.39,Good,Samanthachester,Medium,2023-12-11,veronica90@example.net,Net 60,False,Low,High,Biennial,Negotiated
+V0520,"Powell, Anderson and Phillips",IT,Hardware,5.55,Average,Rachelton,Large,2022-06-02,daniel40@example.org,Net 45,False,Low,Medium,Biennial,Fixed
+V0521,Park-Long,Operations,Utilities,5.2,Good,Jenniferfurt,Small,2023-03-25,qgardner@example.org,Net 45,True,Medium,Medium,Biennial,CPI Linked
+V0522,Taylor-Peters,Marketing,Events,9.48,Poor,Maryberg,Small,2023-01-12,dennisjones@example.org,Net 60,True,High,High,Biennial,Fixed
+V0523,Griffith Group,HR,Recruiting,5.41,Good,Proctorberg,Small,2022-08-06,dawnperry@example.com,Net 60,True,Medium,High,Biennial,Fixed
+V0524,"Munoz, Simmons and White",Facilities,Maintenance,3.44,Poor,Arnoldmouth,Small,2023-03-27,jeremiah69@example.org,Net 45,False,Medium,Medium,Biennial,Negotiated
+V0525,"Jimenez, Simon and Joseph",Marketing,Digital Ads,3.24,Average,Robertside,Medium,2023-08-23,arthur09@example.com,Net 45,False,High,High,Annual,CPI Linked
+V0526,"Richardson, Carpenter and Nixon",Facilities,Cleaning,7.64,Average,East Jessicahaven,Large,2024-03-30,steven18@example.net,Net 30,False,Medium,High,Annual,Negotiated
+V0527,Sanchez Ltd,IT,Software,1.1,Good,Lake Cynthiashire,Small,2023-01-30,bergeramanda@example.org,Net 30,True,Low,High,Biennial,CPI Linked
+V0528,Gibson-Escobar,HR,Recruiting,2.52,Good,Robertport,Small,2023-01-12,austinlivingston@example.net,Net 45,True,Low,Medium,Annual,CPI Linked
+V0529,Acosta-Elliott,IT,Hardware,0.7,Good,Lake Thomasburgh,Small,2023-08-20,douglaskelly@example.net,Net 60,False,Medium,Medium,Annual,Fixed
+V0530,"Johnson, Washington and Martinez",IT,Cloud,4.68,Good,Port Kristenview,Medium,2022-09-12,joshua40@example.net,Net 30,False,Medium,Medium,Annual,CPI Linked
+V0531,Munoz PLC,Facilities,Cleaning,3.38,Average,Lake Sean,Small,2024-02-19,josehaynes@example.com,Net 60,True,Low,High,Biennial,CPI Linked
+V0532,Lloyd Inc,HR,Recruiting,6.46,Good,Traceyberg,Small,2023-09-07,marymullins@example.com,Net 45,True,Medium,High,Annual,Negotiated
+V0533,Young-Alexander,HR,Recruiting,8.03,Average,East Becky,Medium,2024-03-16,brian41@example.org,Net 60,False,Medium,Medium,Annual,Fixed
+V0534,Marshall Group,Facilities,Cleaning,7.76,Poor,Thomasside,Medium,2022-11-30,yvega@example.com,Net 45,True,Medium,Medium,Annual,CPI Linked
+V0535,Thomas-Berg,HR,Training,8.45,Poor,West Saramouth,Large,2023-03-25,suzanne01@example.net,Net 60,False,Low,Low,Biennial,CPI Linked
+V0536,"Gomez, Richard and Bishop",Marketing,SEO,3.18,Poor,Matthewview,Medium,2024-02-15,scottbreanna@example.com,Net 60,False,Low,Medium,Biennial,Fixed
+V0537,"Curry, Navarro and Chapman",Marketing,Events,5.01,Average,New Matthew,Medium,2023-11-20,lawrencesmith@example.org,Net 45,True,High,High,Biennial,Fixed
+V0538,Smith Inc,Marketing,Events,5.49,Average,Lake Seanbury,Large,2023-12-17,johnathan00@example.net,Net 30,True,High,High,Annual,Fixed
+V0539,Brown PLC,Marketing,Digital Ads,5.75,Average,New Danielle,Medium,2023-12-03,millercassandra@example.com,Net 60,False,High,Medium,Biennial,Fixed
+V0540,"Gallagher, Wong and Pratt",Operations,Logistics,9.62,Average,North Heather,Small,2022-12-15,steven17@example.com,Net 60,True,Medium,Low,Biennial,Fixed
+V0541,Schwartz-Contreras,Operations,Utilities,4.05,Good,Jonathanland,Large,2023-01-03,reyesmarvin@example.org,Net 60,True,Medium,Low,Annual,Fixed
+V0542,Sosa-Baker,Facilities,Maintenance,6.54,Average,Jonesborough,Small,2023-09-19,fwhite@example.org,Net 30,True,High,Low,Biennial,Fixed
+V0543,Fernandez Group,IT,Software,0.93,Average,New Dawn,Large,2024-05-10,gbaldwin@example.org,Net 30,False,Low,High,Annual,Fixed
+V0544,Jones Ltd,HR,Recruiting,1.3,Good,Kimberlytown,Large,2024-04-28,ohernandez@example.org,Net 30,True,Medium,High,Annual,Fixed
+V0545,Ortega LLC,Operations,Utilities,1.93,Average,Lake Mark,Small,2023-04-01,robertsonshelby@example.com,Net 60,False,High,High,Biennial,CPI Linked
+V0546,Graham-Anthony,HR,Training,7.79,Good,New Jeremiahfurt,Large,2023-11-19,imartinez@example.com,Net 60,True,Medium,High,Annual,CPI Linked
+V0547,Maldonado-Morales,Facilities,Cleaning,2.21,Average,West Amandamouth,Medium,2022-08-03,shodges@example.net,Net 60,True,Medium,Medium,Biennial,Fixed
+V0548,Thompson Inc,IT,Cloud,5.17,Good,Guerreroport,Small,2023-11-24,omosley@example.net,Net 60,True,Medium,High,Annual,Fixed
+V0549,Tucker-Mcclure,Facilities,Maintenance,6.69,Good,Mossberg,Large,2022-06-29,anthonydavies@example.org,Net 45,True,Medium,Medium,Annual,Fixed
+V0550,Price-Sparks,IT,Cloud,7.25,Poor,Victormouth,Small,2022-06-14,morganmatthew@example.net,Net 60,True,Low,Medium,Biennial,CPI Linked
+V0551,Sullivan and Sons,Operations,Logistics,4.34,Poor,Bentleyside,Small,2022-09-25,sandyjohnson@example.org,Net 45,False,Low,Medium,Annual,CPI Linked
+V0552,Valdez-Ruiz,IT,Software,4.11,Average,East Jacquelineberg,Medium,2022-06-13,cynthiaconway@example.org,Net 30,False,Medium,High,Biennial,Fixed
+V0553,Carr-Conley,IT,Software,4.86,Average,Port Lisaville,Large,2023-06-23,bryanharris@example.com,Net 45,True,High,High,Annual,Fixed
+V0554,"Gregory, Nguyen and Daugherty",Facilities,Cleaning,6.68,Poor,West Mary,Medium,2024-02-08,kathrynwatkins@example.com,Net 45,False,Medium,Medium,Biennial,Fixed
+V0555,Martinez and Sons,Marketing,Digital Ads,8.58,Average,Jacksonstad,Medium,2023-08-05,samuelfrost@example.org,Net 60,False,Medium,Low,Annual,CPI Linked
+V0556,Garcia Ltd,HR,Recruiting,3.88,Good,Stricklandtown,Medium,2024-04-15,amiller@example.org,Net 60,True,High,Low,Biennial,CPI Linked
+V0557,Mann PLC,Facilities,Maintenance,8.79,Poor,Robertfort,Medium,2023-11-21,jamiebowman@example.net,Net 60,False,Medium,Medium,Biennial,CPI Linked
+V0558,Jenkins-Hurley,Facilities,Maintenance,0.54,Average,New Hectorfort,Large,2023-09-20,burtonkimberly@example.com,Net 45,True,Low,Medium,Annual,Negotiated
+V0559,Smith-Young,HR,Training,2.42,Good,New Tiffanystad,Medium,2024-04-02,stevensims@example.org,Net 60,True,Medium,Low,Annual,Negotiated
+V0560,Brown-Rodriguez,Marketing,SEO,9.91,Average,Lake Megan,Large,2024-05-09,kjimenez@example.net,Net 45,False,High,Medium,Biennial,CPI Linked
+V0561,Brown LLC,Marketing,Digital Ads,3.65,Average,Jasonview,Large,2023-02-16,vwilliams@example.org,Net 45,False,High,High,Annual,Negotiated
+V0562,"Thompson, Floyd and Washington",Facilities,Maintenance,3.0,Poor,North Pattymouth,Medium,2023-09-05,robert53@example.org,Net 60,True,High,Medium,Biennial,CPI Linked
+V0563,Perez-Young,HR,Recruiting,6.08,Good,Kanefurt,Large,2024-04-24,charlesrichards@example.org,Net 60,True,Low,Medium,Biennial,Fixed
+V0564,Thomas-Reilly,IT,Hardware,8.02,Good,Thompsonstad,Small,2022-09-15,ocortez@example.com,Net 60,False,High,High,Biennial,Fixed
+V0565,Harris-Martinez,Operations,Utilities,8.09,Good,West Derekmouth,Large,2023-05-24,vjackson@example.org,Net 30,False,High,High,Annual,Negotiated
+V0566,Munoz-Clarke,IT,Cloud,6.65,Good,New Tara,Medium,2024-03-27,christophervincent@example.com,Net 45,True,Low,Low,Biennial,CPI Linked
+V0567,Vargas Group,Facilities,Maintenance,1.03,Good,Alexischester,Large,2023-12-25,johnhamilton@example.org,Net 60,False,Low,High,Annual,Fixed
+V0568,"Shah, Mcintyre and Villanueva",Marketing,SEO,0.99,Poor,Bairdton,Small,2023-06-02,simmonsphillip@example.net,Net 30,True,Low,Medium,Biennial,Negotiated
+V0569,Chavez and Sons,Facilities,Cleaning,9.13,Good,New Karenchester,Large,2022-11-18,michaelallen@example.org,Net 30,True,Low,Medium,Biennial,CPI Linked
+V0570,Castillo LLC,Operations,Utilities,8.79,Good,Lake Stephen,Medium,2023-08-19,braysteven@example.org,Net 30,False,Low,High,Biennial,Negotiated
+V0571,"Sullivan, Clarke and Wood",Operations,Logistics,0.29,Poor,Padillatown,Medium,2024-03-31,cruzhannah@example.net,Net 30,True,High,Medium,Annual,Negotiated
+V0572,Phillips LLC,Facilities,Cleaning,1.39,Good,Port Gail,Small,2023-09-26,jill08@example.net,Net 30,True,High,Low,Annual,Negotiated
+V0573,Barron-Rodriguez,Operations,Logistics,6.19,Good,Steventon,Small,2023-03-12,gregory81@example.net,Net 45,False,Low,High,Biennial,CPI Linked
+V0574,"Ayala, Taylor and Rogers",Marketing,Digital Ads,0.7,Good,Lake Timothyshire,Medium,2024-04-08,karenhodges@example.com,Net 60,False,Low,Medium,Annual,CPI Linked
+V0575,Hurst-Gordon,Operations,Utilities,1.4,Poor,Ramirezland,Medium,2023-03-18,shaun88@example.org,Net 30,False,Medium,High,Annual,Fixed
+V0576,Mckinney-Gregory,HR,Training,2.67,Poor,Shannonstad,Medium,2024-02-13,lopeznicole@example.org,Net 60,True,Medium,High,Biennial,Fixed
+V0577,Myers and Sons,Facilities,Maintenance,6.25,Poor,Susanland,Small,2022-08-25,joshuaterry@example.com,Net 60,True,Low,High,Annual,Negotiated
+V0578,Golden PLC,Marketing,SEO,0.56,Good,West Robertside,Medium,2024-05-25,thomasfisher@example.net,Net 30,True,Low,High,Biennial,Negotiated
+V0579,"Smith, Lopez and Johnson",Marketing,Digital Ads,0.23,Poor,Port Stacey,Medium,2023-10-15,robert55@example.com,Net 45,True,Medium,Medium,Biennial,CPI Linked
+V0580,"Wade, Moreno and Kelley",IT,Cloud,6.07,Good,Torresberg,Medium,2024-04-29,george43@example.com,Net 30,True,Medium,Medium,Annual,CPI Linked
+V0581,Arellano-Carrillo,HR,Recruiting,7.01,Poor,East Michaelmouth,Large,2022-10-09,jennifermitchell@example.org,Net 60,False,High,Low,Biennial,Negotiated
+V0582,"Schwartz, Estrada and Hernandez",HR,Training,5.52,Poor,North Blake,Medium,2023-02-02,scottwood@example.org,Net 30,True,Medium,Medium,Annual,Negotiated
+V0583,"Mann, Wade and Spence",Facilities,Cleaning,1.95,Poor,West Shane,Small,2022-10-06,david06@example.com,Net 60,False,Low,Medium,Annual,Fixed
+V0584,Gould LLC,Facilities,Cleaning,0.51,Poor,North Tara,Medium,2023-07-31,deborah47@example.com,Net 60,False,Low,Low,Biennial,Negotiated
+V0585,"Estrada, Marsh and Chandler",Facilities,Maintenance,4.58,Average,Morganville,Medium,2023-12-22,imccullough@example.net,Net 45,True,High,Low,Annual,Fixed
+V0586,"Wilson, Johnson and Williamson",Facilities,Maintenance,5.41,Good,South Michael,Large,2023-02-10,franklinjames@example.net,Net 60,True,Medium,Medium,Biennial,CPI Linked
+V0587,Harrington LLC,Facilities,Maintenance,6.15,Poor,North Christopher,Large,2024-03-22,frhodes@example.net,Net 60,False,Medium,Low,Biennial,Fixed
+V0588,Lee-Stewart,IT,Hardware,5.67,Average,Lake Michaelberg,Large,2023-12-10,xwood@example.org,Net 30,True,High,High,Annual,Fixed
+V0589,Cooper-Parker,HR,Training,0.83,Average,Sawyerland,Small,2022-11-16,afigueroa@example.com,Net 60,True,Low,Medium,Biennial,Negotiated
+V0590,Martin-Luna,Marketing,SEO,7.78,Good,Chandlerchester,Medium,2022-09-18,thomaskevin@example.net,Net 30,False,High,Medium,Biennial,Negotiated
+V0591,Jones-Choi,Operations,Logistics,0.23,Poor,Davischester,Large,2023-10-11,robert87@example.net,Net 45,True,Low,Medium,Biennial,CPI Linked
+V0592,"Fischer, Taylor and Lopez",HR,Training,2.95,Good,Robertsfort,Large,2022-07-04,mary47@example.net,Net 45,True,Medium,Low,Biennial,Negotiated
+V0593,"Ford, Johnson and Smith",HR,Recruiting,4.79,Poor,Kevinfort,Small,2022-09-06,robert73@example.org,Net 60,True,Low,Medium,Annual,CPI Linked
+V0594,Hubbard Group,Facilities,Maintenance,1.6,Average,New Julieshire,Medium,2023-06-10,ooneill@example.net,Net 30,True,High,Medium,Biennial,CPI Linked
+V0595,Mccann-Cardenas,Operations,Logistics,3.38,Good,Williamshire,Large,2022-06-15,francisco02@example.com,Net 60,True,High,High,Annual,CPI Linked
+V0596,Johns-Taylor,Marketing,SEO,0.26,Average,North Joseph,Small,2023-04-23,brandon48@example.net,Net 60,False,High,High,Biennial,Negotiated
+V0597,Palmer Ltd,HR,Training,8.63,Average,Port Cody,Medium,2024-01-07,amybrennan@example.net,Net 30,True,Low,Low,Biennial,Fixed
+V0598,Nelson-Wolfe,Operations,Logistics,1.85,Poor,Codyshire,Small,2023-03-02,alexanderholmes@example.com,Net 30,False,Medium,Low,Biennial,Fixed
+V0599,Jenkins-Mccall,Facilities,Cleaning,2.06,Average,North Jeffery,Small,2023-06-27,mariepope@example.net,Net 45,True,High,Medium,Annual,Fixed
+V0600,"Norris, Cisneros and Mathis",Marketing,Digital Ads,4.99,Good,South Stevenland,Medium,2022-08-31,sandramendoza@example.com,Net 45,True,Medium,Low,Annual,Fixed
+V0601,"Cox, Montoya and Preston",Facilities,Maintenance,9.28,Poor,Geraldport,Large,2022-06-24,walkermelissa@example.org,Net 30,True,Medium,Medium,Biennial,Negotiated
+V0602,"Perez, Martinez and Anderson",Marketing,SEO,7.82,Poor,South Hannahville,Small,2022-08-01,hamptonkatherine@example.org,Net 30,False,Low,Low,Annual,CPI Linked
+V0603,Rodriguez Ltd,HR,Training,4.82,Good,South Davidview,Large,2022-07-05,turneralex@example.org,Net 45,False,High,Medium,Annual,Negotiated
+V0604,Mora and Sons,Operations,Logistics,1.78,Poor,East Ellen,Large,2022-06-24,thomasjulie@example.com,Net 45,True,Medium,Low,Annual,Fixed
+V0605,"Bailey, Martin and Mason",HR,Training,9.16,Good,New Ashley,Medium,2022-08-17,ricejennifer@example.com,Net 60,True,Low,Medium,Biennial,CPI Linked
+V0606,Winters PLC,Marketing,SEO,4.75,Average,Lake Coreyborough,Large,2024-05-16,lrichardson@example.org,Net 30,True,High,High,Biennial,CPI Linked
+V0607,Nunez-Rodriguez,Operations,Utilities,7.13,Average,Tinachester,Large,2022-11-15,rickjuarez@example.com,Net 45,False,Medium,Medium,Annual,Fixed
+V0608,Owens PLC,HR,Training,7.96,Poor,South Kathryn,Large,2023-12-01,angela01@example.com,Net 45,True,Low,Low,Annual,Negotiated
+V0609,Wilson-Campbell,Operations,Utilities,9.06,Poor,Gloriamouth,Small,2022-11-24,broberts@example.org,Net 60,True,High,Medium,Annual,Negotiated
+V0610,Jacobson Group,Marketing,SEO,3.92,Good,Harryfort,Medium,2023-11-06,sandersalexandra@example.net,Net 30,False,Low,Low,Annual,CPI Linked
+V0611,Wilson Group,Operations,Logistics,5.04,Poor,Nealville,Large,2023-12-29,calvinhester@example.com,Net 60,True,High,Medium,Annual,CPI Linked
+V0612,Larson Group,HR,Training,1.16,Average,East Maryfort,Large,2023-01-04,katelyn65@example.com,Net 30,False,Low,Medium,Annual,Fixed
+V0613,"Morrison, Sullivan and Washington",Operations,Logistics,5.37,Average,Dylanmouth,Large,2022-08-24,kingtyler@example.net,Net 60,True,Medium,Medium,Biennial,CPI Linked
+V0614,Johnson Ltd,Facilities,Maintenance,8.67,Average,Port Carlostown,Large,2022-10-19,ujacobs@example.org,Net 45,True,Low,Low,Annual,CPI Linked
+V0615,Howell-Davis,Operations,Utilities,6.19,Average,Lake Karenfort,Large,2024-02-07,qharris@example.com,Net 45,False,Low,Medium,Annual,Negotiated
+V0616,Wagner-Daniels,Facilities,Maintenance,7.33,Poor,Port Anthonychester,Large,2024-04-15,reyesleonard@example.com,Net 30,False,Low,Low,Biennial,Negotiated
+V0617,Stevens-Johnson,Marketing,SEO,1.3,Good,Nicoleburgh,Small,2023-06-18,ttaylor@example.com,Net 60,True,Medium,High,Biennial,Negotiated
+V0618,Gallagher-Carroll,Operations,Logistics,8.92,Average,Kellerside,Small,2023-08-20,kalvarez@example.net,Net 30,True,Low,Medium,Annual,Fixed
+V0619,Myers Group,Marketing,Digital Ads,8.97,Average,Jensenstad,Small,2024-01-18,luke09@example.org,Net 45,True,Low,High,Biennial,Fixed
+V0620,Hood LLC,Marketing,Events,1.39,Poor,Port Patriciamouth,Medium,2023-03-24,pattersonvictoria@example.com,Net 60,True,High,High,Annual,CPI Linked
+V0621,Brown-Sanchez,IT,Software,3.82,Average,Lake Larry,Medium,2022-08-06,meltondanny@example.org,Net 60,False,Medium,Medium,Biennial,Fixed
+V0622,Ryan Inc,Operations,Logistics,6.21,Poor,Barrettchester,Medium,2023-08-17,sadams@example.com,Net 60,False,High,Low,Biennial,Negotiated
+V0623,"Johnson, Stewart and Hudson",Marketing,SEO,9.02,Average,Ashleyfort,Medium,2022-08-18,matthewshaw@example.net,Net 30,True,Low,Medium,Annual,CPI Linked
+V0624,Jackson-Evans,Marketing,Events,6.43,Poor,Harrisland,Large,2024-03-15,karlwilliams@example.net,Net 45,False,Medium,Medium,Biennial,Negotiated
+V0625,Ballard-Weber,Marketing,Digital Ads,0.89,Good,Lake Meganville,Medium,2023-09-04,joshua98@example.com,Net 45,False,Medium,High,Biennial,CPI Linked
+V0626,Clark-Flynn,HR,Recruiting,9.01,Average,Williamport,Large,2023-05-04,james64@example.net,Net 45,True,High,Low,Annual,Fixed
+V0627,"Chavez, Hines and White",Facilities,Cleaning,5.64,Average,Lake Jacquelineburgh,Medium,2023-08-24,vlewis@example.com,Net 45,True,High,High,Biennial,Negotiated
+V0628,Giles-Patel,HR,Recruiting,6.31,Poor,Michaelton,Small,2023-07-12,michaelhernandez@example.org,Net 60,False,High,High,Biennial,CPI Linked
+V0629,"Jennings, Evans and Graham",Facilities,Maintenance,6.86,Average,Michelleland,Large,2023-10-07,meghanadams@example.com,Net 60,True,High,Low,Annual,CPI Linked
+V0630,"Martin, Mcdaniel and Young",IT,Hardware,0.01,Poor,North Edward,Small,2022-06-23,lauracollins@example.com,Net 60,False,High,High,Annual,Fixed
+V0631,"Esparza, Henderson and Bullock",IT,Hardware,0.46,Poor,East Joseph,Large,2022-06-24,kristine48@example.org,Net 30,True,High,High,Annual,Fixed
+V0632,"Phelps, Stuart and Tucker",IT,Hardware,0.01,Good,North Micheleland,Large,2023-01-31,michelle65@example.net,Net 30,False,Low,High,Biennial,Negotiated
+V0633,"Blackwell, Sanders and Larsen",HR,Training,5.99,Good,East Daniel,Medium,2023-12-24,boydmaria@example.net,Net 60,True,Medium,Low,Annual,CPI Linked
+V0634,Crawford-Davis,IT,Software,0.91,Good,Port Lindsaymouth,Small,2024-03-09,vshaffer@example.org,Net 30,False,Low,Low,Annual,CPI Linked
+V0635,Robinson-Rodriguez,Facilities,Maintenance,8.51,Average,West Scott,Small,2022-12-16,henrynicholas@example.org,Net 60,False,Medium,Low,Annual,Fixed
+V0636,Gardner-Wells,Marketing,SEO,3.15,Poor,West Natasha,Small,2024-05-29,michaelbaldwin@example.com,Net 30,False,Low,Low,Biennial,CPI Linked
+V0637,Brewer PLC,Operations,Logistics,2.06,Good,Port Joditon,Medium,2023-11-20,johnnycruz@example.net,Net 45,True,Low,High,Biennial,Negotiated
+V0638,"Cox, Burnett and Martinez",Facilities,Maintenance,4.01,Average,Port Scott,Large,2022-06-08,qpennington@example.com,Net 45,False,High,Medium,Biennial,Negotiated
+V0639,Mayer and Sons,IT,Software,9.76,Poor,Jasonburgh,Small,2024-05-13,zwelch@example.net,Net 60,False,Medium,Medium,Biennial,Fixed
+V0640,Mccormick-Hill,Marketing,SEO,7.85,Average,Port Kimberlyfort,Medium,2023-06-02,vhouse@example.net,Net 45,False,High,High,Annual,Negotiated
+V0641,Mcdowell-Wilkins,Marketing,SEO,4.99,Average,Lake Jose,Large,2022-07-23,robert85@example.com,Net 30,False,Low,High,Biennial,Fixed
+V0642,"Johnson, Williams and May",IT,Software,3.4,Poor,Gibbsberg,Large,2022-06-04,tgonzalez@example.com,Net 45,True,Medium,High,Biennial,Negotiated
+V0643,"Miller, Moore and Black",HR,Training,8.73,Good,Port Brooke,Medium,2023-04-16,shannon24@example.org,Net 30,True,High,Low,Biennial,Negotiated
+V0644,"Watkins, Murphy and Campbell",Operations,Logistics,8.96,Poor,South Michaelfurt,Large,2024-04-12,kduffy@example.org,Net 60,False,High,Medium,Annual,Negotiated
+V0645,Vaughan PLC,Facilities,Cleaning,1.73,Poor,North Terri,Small,2022-11-02,jacqueline20@example.com,Net 60,True,Medium,Low,Annual,Negotiated
+V0646,"Patterson, Green and Davis",HR,Recruiting,7.8,Average,Georgeshire,Medium,2022-09-01,higginsryan@example.com,Net 60,True,High,Medium,Annual,CPI Linked
+V0647,"Snyder, Walker and Harris",Operations,Logistics,2.8,Poor,Keithfort,Medium,2023-03-25,ryanclark@example.org,Net 30,False,Medium,High,Annual,Negotiated
+V0648,Acosta-Lopez,IT,Hardware,8.99,Poor,South Laura,Large,2022-06-24,theresa39@example.com,Net 60,True,Medium,Low,Annual,CPI Linked
+V0649,Wood Ltd,Marketing,SEO,3.42,Good,Millerfort,Small,2022-09-13,terri63@example.net,Net 30,True,Low,Low,Biennial,CPI Linked
+V0650,Erickson-Fitzgerald,HR,Recruiting,0.11,Good,Charlesside,Medium,2022-07-17,cookjimmy@example.com,Net 30,True,Low,Medium,Biennial,Negotiated
+V0651,"Crosby, Coffey and George",IT,Software,6.57,Poor,North Jonfurt,Medium,2023-01-22,ilambert@example.net,Net 45,False,Low,Medium,Annual,Fixed
+V0652,Carpenter LLC,Operations,Utilities,2.98,Good,New Trevor,Medium,2023-02-20,uanderson@example.net,Net 30,False,Low,Medium,Annual,CPI Linked
+V0653,"Hamilton, Green and Edwards",Marketing,Digital Ads,2.92,Poor,South Monica,Medium,2024-03-11,julie64@example.com,Net 45,False,High,Medium,Annual,CPI Linked
+V0654,"Gallegos, Mcintosh and Black",IT,Software,3.45,Poor,Staffordmouth,Small,2023-12-26,jgallagher@example.net,Net 30,False,Medium,Medium,Biennial,Negotiated
+V0655,"Fields, Gonzales and Lopez",Marketing,Events,4.37,Average,East Isaacfort,Small,2022-12-21,janicegraham@example.com,Net 60,True,Medium,Low,Biennial,Negotiated
+V0656,Alexander Ltd,Operations,Utilities,6.65,Average,Ellisville,Small,2024-03-19,daviddavis@example.com,Net 30,True,High,High,Biennial,CPI Linked
+V0657,Conley Ltd,HR,Recruiting,0.53,Average,Annashire,Small,2022-11-13,foxashley@example.com,Net 30,False,High,High,Biennial,CPI Linked
+V0658,Sanchez Group,HR,Recruiting,4.08,Average,West Anthonyville,Small,2023-04-04,brittany15@example.org,Net 60,False,High,Low,Annual,Fixed
+V0659,Miller Ltd,IT,Cloud,6.97,Good,Gibsonview,Small,2023-09-06,riverabradley@example.net,Net 30,False,High,Low,Biennial,CPI Linked
+V0660,Nguyen-Dennis,IT,Cloud,4.43,Poor,East Michelle,Medium,2024-02-14,marcus01@example.net,Net 45,True,High,High,Biennial,Fixed
+V0661,"James, Ross and Thompson",Marketing,Digital Ads,2.91,Good,Davisborough,Large,2022-10-06,schan@example.net,Net 60,False,Medium,High,Biennial,Fixed
+V0662,"Moore, Evans and Owen",Facilities,Maintenance,2.29,Good,Rebeccaberg,Large,2023-03-07,collierwilliam@example.com,Net 30,True,Medium,Medium,Annual,CPI Linked
+V0663,Mcclure-Alvarez,Operations,Utilities,8.94,Poor,Davischester,Large,2024-02-21,christina66@example.org,Net 30,True,Medium,Low,Biennial,Fixed
+V0664,Palmer Group,Operations,Utilities,1.35,Average,Lake Gina,Small,2022-09-30,prose@example.net,Net 60,False,Low,Medium,Annual,Negotiated
+V0665,Roberts Group,IT,Cloud,9.89,Good,Port Timberg,Small,2022-09-09,mckenzie86@example.com,Net 45,True,High,Low,Biennial,Negotiated
+V0666,"Williams, Jones and Williams",Marketing,SEO,8.81,Average,New Rogerville,Small,2023-05-28,michael91@example.net,Net 30,False,Low,Low,Annual,Negotiated
+V0667,Wilson Ltd,Marketing,Digital Ads,2.79,Average,Whiteburgh,Small,2024-03-17,awilliams@example.net,Net 30,False,Medium,Medium,Annual,CPI Linked
+V0668,Edwards-Ramsey,Operations,Utilities,6.49,Average,Hansonview,Small,2023-02-22,jasonmiller@example.net,Net 30,False,Low,Low,Biennial,Fixed
+V0669,Savage-Rodriguez,IT,Software,4.6,Good,North Randalltown,Small,2022-10-13,zstevens@example.net,Net 60,False,High,High,Biennial,Negotiated
+V0670,"Guzman, Tucker and Montgomery",IT,Software,7.61,Average,Hannahfurt,Medium,2024-02-16,christopher20@example.org,Net 45,True,Medium,Low,Annual,Fixed
+V0671,Cabrera Ltd,HR,Recruiting,8.31,Poor,Port Anthony,Large,2023-06-10,debragraham@example.net,Net 45,True,Low,High,Biennial,CPI Linked
+V0672,"Lee, Turner and Ford",Operations,Utilities,0.03,Average,Hendersonville,Medium,2022-10-09,joannewallace@example.com,Net 60,False,High,Low,Biennial,Fixed
+V0673,Smith-Cole,Marketing,SEO,0.49,Poor,East Kenneth,Large,2024-03-07,awilliams@example.org,Net 45,False,Medium,Medium,Biennial,CPI Linked
+V0674,"Abbott, Reynolds and Perry",Marketing,Events,0.48,Average,Mclaughlinside,Medium,2023-01-13,freemantodd@example.net,Net 60,True,High,Medium,Annual,CPI Linked
+V0675,"Carr, Gregory and Velasquez",Operations,Utilities,9.66,Average,Hallton,Medium,2023-07-17,hendersonleslie@example.org,Net 60,False,Medium,Low,Annual,Fixed
+V0676,Orozco-Butler,Operations,Logistics,0.79,Average,Wilsonstad,Medium,2023-05-16,ssmith@example.net,Net 60,True,Medium,High,Annual,Negotiated
+V0677,Harrison Group,Marketing,SEO,0.46,Average,New Jeffrey,Small,2024-05-08,sandra72@example.com,Net 60,False,Low,Low,Annual,Fixed
+V0678,"Dawson, Moyer and Whitaker",Facilities,Maintenance,1.59,Average,Lauraburgh,Small,2023-09-27,justincurry@example.net,Net 45,False,Medium,Medium,Biennial,CPI Linked
+V0679,Anderson-Gonzalez,HR,Training,5.98,Poor,Garciachester,Large,2023-06-20,jimmy80@example.org,Net 45,True,High,Low,Biennial,CPI Linked
+V0680,Ibarra-Kelly,IT,Cloud,0.45,Average,East Maria,Large,2024-04-26,romanmatthew@example.org,Net 45,True,Low,Low,Annual,Negotiated
+V0681,"Perez, Hoffman and Tucker",HR,Recruiting,3.83,Poor,Kristenton,Large,2024-01-21,paula89@example.net,Net 30,True,Low,Medium,Biennial,CPI Linked
+V0682,Mccarthy Group,HR,Training,6.8,Poor,Estesville,Medium,2022-08-23,colonbobby@example.org,Net 60,False,High,Low,Biennial,Fixed
+V0683,Soto and Sons,Operations,Logistics,2.48,Poor,Ericport,Medium,2023-12-04,fgill@example.net,Net 30,True,Low,Medium,Annual,Negotiated
+V0684,Moore LLC,IT,Cloud,3.99,Poor,Loriville,Small,2024-03-22,scottperry@example.org,Net 30,False,Low,High,Biennial,CPI Linked
+V0685,Davenport Group,IT,Cloud,6.01,Good,Justinburgh,Small,2022-08-07,nathan65@example.net,Net 60,True,Medium,High,Annual,CPI Linked
+V0686,"Sanchez, Mullins and Moreno",Facilities,Maintenance,2.3,Poor,East Laurie,Large,2023-04-19,hvillanueva@example.net,Net 45,True,Medium,Medium,Annual,Fixed
+V0687,Acevedo-Ramos,HR,Training,9.19,Poor,Lake Lindaland,Large,2022-08-06,leroy26@example.org,Net 60,True,Low,Medium,Biennial,Negotiated
+V0688,Malone-Keller,HR,Training,8.26,Good,New Brian,Medium,2023-10-05,robert84@example.net,Net 45,False,Medium,Low,Annual,Negotiated
+V0689,"Edwards, Cooper and Wilcox",Operations,Logistics,6.38,Average,Lake Richard,Medium,2023-10-15,paigeweber@example.net,Net 45,True,High,Low,Annual,CPI Linked
+V0690,"Ramos, Reed and Cain",Operations,Logistics,0.42,Good,Roweport,Small,2022-08-06,medinapeter@example.net,Net 45,True,Low,Medium,Biennial,Negotiated
+V0691,"Hobbs, Meyer and Fernandez",Facilities,Cleaning,9.39,Poor,North William,Medium,2023-01-30,katherine20@example.org,Net 30,True,High,High,Biennial,Fixed
+V0692,"Vargas, Allen and Schroeder",Facilities,Maintenance,4.0,Average,Benitezville,Small,2023-12-22,skinnerjordan@example.net,Net 60,False,Low,High,Annual,CPI Linked
+V0693,Martinez-Sherman,IT,Cloud,5.33,Good,South Kennethtown,Medium,2023-05-19,tonya99@example.net,Net 60,False,High,Low,Annual,CPI Linked
+V0694,"Wade, Richard and Hall",Marketing,SEO,5.16,Poor,Justinshire,Small,2023-11-06,jenniferstone@example.org,Net 30,False,Medium,Medium,Biennial,Negotiated
+V0695,Murphy PLC,IT,Software,3.73,Average,Port Kimberly,Large,2023-05-20,thomasronald@example.com,Net 60,True,Medium,High,Annual,Fixed
+V0696,Davis Group,IT,Cloud,5.95,Good,South Jason,Medium,2022-08-01,erica69@example.net,Net 60,False,Low,High,Annual,Negotiated
+V0697,"Maxwell, Wiggins and Silva",Operations,Utilities,9.69,Good,Barajasfort,Large,2023-12-22,jcolon@example.net,Net 45,False,Low,High,Biennial,CPI Linked
+V0698,Washington Group,HR,Training,1.96,Average,Lake William,Medium,2023-07-17,bensonstanley@example.org,Net 60,True,Low,High,Annual,Fixed
+V0699,"Moore, Hansen and Dorsey",HR,Training,4.44,Average,New Melissaville,Small,2022-09-03,ashley08@example.org,Net 30,True,Medium,Medium,Annual,Negotiated
+V0700,Watson LLC,Marketing,SEO,1.86,Average,Kellytown,Small,2024-02-06,douglaslawrence@example.org,Net 30,False,Low,Medium,Annual,CPI Linked
+V0701,Small-Lewis,Facilities,Cleaning,0.92,Poor,Smithside,Medium,2023-02-27,harrellrobert@example.net,Net 60,False,Low,Medium,Annual,CPI Linked
+V0702,Knight-Mccullough,Facilities,Maintenance,0.98,Poor,Alvarezberg,Large,2024-01-14,williammurray@example.com,Net 60,False,High,High,Annual,CPI Linked
+V0703,"Cole, Cline and Nguyen",IT,Hardware,6.07,Good,Hughesfurt,Medium,2023-02-20,rubiopamela@example.net,Net 30,True,Medium,Medium,Biennial,CPI Linked
+V0704,Brewer-Cline,HR,Training,8.27,Average,New Crystalport,Small,2023-08-11,schneiderchristopher@example.net,Net 60,False,High,High,Annual,Fixed
+V0705,"Ray, Brown and Hudson",Facilities,Maintenance,1.69,Good,Port Thomas,Small,2024-04-28,martinezsharon@example.org,Net 60,True,Low,High,Annual,Fixed
+V0706,Hill and Sons,HR,Training,6.74,Poor,Port Janice,Medium,2024-04-21,imiller@example.net,Net 45,False,High,Low,Annual,Fixed
+V0707,Morales-Williams,Marketing,Digital Ads,5.85,Average,West Samuelchester,Small,2022-06-20,patrick11@example.org,Net 30,True,Low,Low,Annual,CPI Linked
+V0708,"Jackson, Thomas and Scott",Facilities,Maintenance,5.44,Good,East Kristopherchester,Small,2023-11-11,brianwoodward@example.org,Net 45,False,Medium,High,Annual,Fixed
+V0709,Reeves LLC,Facilities,Cleaning,9.73,Good,Garciaberg,Small,2023-04-18,jonathan10@example.org,Net 60,True,High,Low,Biennial,Negotiated
+V0710,Goodwin PLC,HR,Training,3.19,Good,South William,Medium,2023-06-28,ravery@example.org,Net 30,True,Medium,High,Biennial,CPI Linked
+V0711,Marshall-Russell,IT,Cloud,2.38,Average,Johnsonbury,Large,2024-05-11,adamstabitha@example.net,Net 60,False,Low,Low,Biennial,CPI Linked
+V0712,Sanchez PLC,Marketing,SEO,5.9,Average,West Ashley,Small,2023-05-14,mathisvincent@example.org,Net 60,False,Low,Low,Biennial,Fixed
+V0713,Fernandez-Jackson,HR,Training,9.87,Good,New Stephanie,Small,2024-05-09,dwilliams@example.net,Net 60,False,Medium,Medium,Biennial,Fixed
+V0714,Delgado-Jackson,Operations,Logistics,6.46,Poor,South Joshuaview,Small,2024-03-15,okidd@example.org,Net 45,False,Low,Low,Annual,Negotiated
+V0715,"Pittman, Campbell and Martin",Operations,Utilities,5.46,Average,West Christopherville,Small,2024-03-08,jessicalutz@example.com,Net 30,True,Low,Medium,Annual,Negotiated
+V0716,Bishop LLC,Marketing,Events,7.06,Good,Cynthiamouth,Large,2022-12-31,eileenmorris@example.org,Net 45,False,Low,Low,Annual,Negotiated
+V0717,Haley-Murphy,Facilities,Maintenance,9.79,Poor,Lake Sandra,Large,2023-09-17,asmith@example.net,Net 30,False,Low,Medium,Annual,CPI Linked
+V0718,Gutierrez Ltd,Operations,Logistics,7.41,Average,Farmerside,Small,2022-08-04,ryanpatricia@example.net,Net 30,True,High,Medium,Biennial,CPI Linked
+V0719,Chambers-Gomez,Facilities,Cleaning,4.0,Average,Careystad,Medium,2023-03-29,marycain@example.org,Net 45,False,High,High,Annual,Fixed
+V0720,Ford and Sons,Operations,Utilities,5.58,Poor,Smithtown,Large,2024-01-12,erin53@example.org,Net 30,True,Medium,High,Biennial,CPI Linked
+V0721,"Garrett, Stokes and Walker",Operations,Logistics,7.78,Average,Coffeyton,Small,2023-01-06,tconway@example.net,Net 45,False,High,High,Biennial,Fixed
+V0722,Smith Ltd,Marketing,Events,6.2,Good,Rodriguezview,Medium,2023-08-18,mjackson@example.net,Net 60,False,Medium,Medium,Annual,Fixed
+V0723,"Knight, Fleming and Cunningham",Operations,Logistics,8.08,Good,New Davidland,Medium,2022-09-08,sarah38@example.net,Net 30,True,Low,Medium,Biennial,CPI Linked
+V0724,Lee-Gregory,Operations,Utilities,8.75,Average,Erinmouth,Medium,2022-06-03,pdavidson@example.org,Net 60,False,Low,Low,Biennial,Negotiated
+V0725,Reynolds-Carney,Operations,Utilities,2.88,Average,Davidhaven,Small,2023-05-30,wward@example.org,Net 60,True,High,Low,Biennial,CPI Linked
+V0726,"Walker, Ramirez and Fisher",Facilities,Cleaning,7.27,Poor,Stewartfurt,Medium,2022-10-31,christopher90@example.net,Net 30,True,Low,Low,Annual,CPI Linked
+V0727,Spence Group,Marketing,Digital Ads,8.48,Poor,East Jamesmouth,Large,2023-01-29,garrettcolin@example.com,Net 30,False,High,Low,Annual,CPI Linked
+V0728,Morton-Watkins,Operations,Utilities,8.12,Good,Marybury,Large,2022-08-24,vallen@example.org,Net 60,False,High,Low,Annual,Fixed
+V0729,Stone-Young,HR,Recruiting,3.26,Poor,Port Carolmouth,Large,2024-01-16,garrettbeth@example.org,Net 45,True,High,High,Annual,CPI Linked
+V0730,Rangel Group,Facilities,Maintenance,0.89,Good,Pamelaland,Small,2024-01-30,bryanlang@example.org,Net 60,True,High,High,Annual,CPI Linked
+V0731,Bishop-Reynolds,Facilities,Maintenance,9.18,Average,Lake Brianton,Small,2023-01-17,nmorales@example.com,Net 30,False,Medium,Medium,Annual,Negotiated
+V0732,Hancock Ltd,Marketing,SEO,7.63,Poor,South Patrickchester,Small,2024-04-15,morgansharon@example.org,Net 60,True,Medium,Medium,Biennial,Negotiated
+V0733,Holmes-Matthews,Marketing,Events,7.47,Average,North Alexanderland,Medium,2023-09-05,rebeccamartinez@example.net,Net 30,True,High,Medium,Biennial,CPI Linked
+V0734,Kelly-Olson,IT,Software,6.07,Good,Lopezberg,Small,2024-02-11,brownlarry@example.com,Net 30,True,Low,Low,Biennial,Fixed
+V0735,"Moyer, Webster and Collins",HR,Recruiting,9.06,Poor,East Terrance,Medium,2023-09-13,kelly08@example.net,Net 45,False,Medium,Low,Biennial,Negotiated
+V0736,"Gregory, Brown and Hunter",IT,Hardware,9.06,Poor,South Mauriceborough,Small,2023-10-12,kristenpeterson@example.net,Net 30,True,Medium,High,Annual,Fixed
+V0737,Neal-Holden,Marketing,Events,4.55,Average,Melissashire,Large,2023-02-17,robert21@example.com,Net 45,True,Medium,Medium,Biennial,Fixed
+V0738,Crawford Inc,Facilities,Maintenance,0.81,Poor,Lake Jerry,Small,2023-09-29,johnnavarro@example.com,Net 30,True,High,Low,Annual,Negotiated
+V0739,"Bennett, Ross and Mckenzie",Marketing,SEO,4.1,Poor,West Alejandrostad,Medium,2022-06-25,thomasscott@example.net,Net 45,True,Low,High,Annual,Negotiated
+V0740,"Durham, Ward and Hester",Marketing,Digital Ads,1.99,Average,East Justin,Small,2022-11-19,jennifer58@example.org,Net 60,True,High,Low,Annual,Negotiated
+V0741,Gonzalez and Sons,IT,Hardware,1.66,Poor,Reneetown,Small,2024-03-08,nicholascobb@example.org,Net 60,True,Low,Medium,Annual,CPI Linked
+V0742,Boyle-Torres,IT,Cloud,0.82,Good,West Lisa,Medium,2023-10-28,shelleyrowland@example.net,Net 30,False,Medium,Medium,Annual,CPI Linked
+V0743,Johns-Jones,IT,Software,6.1,Poor,East Laura,Large,2022-10-28,ubenson@example.net,Net 45,True,High,Medium,Annual,CPI Linked
+V0744,Rowland-Sanchez,HR,Recruiting,2.09,Good,Port Christinaborough,Small,2024-03-26,kristine53@example.org,Net 30,False,Low,Low,Annual,Negotiated
+V0745,"Flynn, Salas and York",IT,Hardware,0.28,Poor,Clarkland,Small,2024-02-01,ngibbs@example.org,Net 60,True,Medium,High,Annual,Fixed
+V0746,Romero Ltd,HR,Training,7.01,Average,Victormouth,Large,2022-10-19,jennifer87@example.net,Net 45,False,High,Low,Biennial,CPI Linked
+V0747,Wells-Perkins,IT,Hardware,0.66,Good,East Jeffreyborough,Large,2023-05-19,randytorres@example.com,Net 60,False,High,Low,Annual,CPI Linked
+V0748,"Moore, Kirby and Scott",IT,Cloud,8.66,Poor,East Karenport,Small,2023-05-13,jerry07@example.net,Net 60,True,Low,Low,Biennial,CPI Linked
+V0749,"Rogers, Hayes and Reynolds",IT,Hardware,7.11,Average,Lindamouth,Medium,2022-12-31,cjohnson@example.org,Net 45,False,Medium,Low,Annual,Negotiated
+V0750,Brewer-Howard,Marketing,SEO,7.31,Poor,West Meganhaven,Small,2023-07-31,hartmansara@example.org,Net 30,True,High,High,Biennial,CPI Linked
+V0751,Jones Inc,Marketing,SEO,9.46,Poor,West James,Small,2023-02-12,kevin43@example.net,Net 30,False,High,High,Biennial,Negotiated
+V0752,"Bolton, Murillo and Goodwin",IT,Software,0.93,Good,Alanport,Medium,2023-01-06,krista66@example.net,Net 60,False,Medium,Medium,Annual,Negotiated
+V0753,"Smith, Valdez and Hays",Facilities,Cleaning,1.33,Average,Port Raymond,Small,2022-11-25,thomasblack@example.net,Net 60,False,High,High,Biennial,Negotiated
+V0754,Sharp-Murray,HR,Recruiting,7.01,Poor,West Meganchester,Medium,2024-01-21,cclark@example.net,Net 45,True,Low,High,Biennial,Negotiated
+V0755,Brooks PLC,Operations,Utilities,7.16,Poor,West Sherry,Medium,2022-06-09,wcochran@example.com,Net 45,False,Medium,High,Biennial,Fixed
+V0756,Barnes Ltd,HR,Recruiting,1.79,Good,Farmerside,Large,2023-01-20,brenda90@example.org,Net 60,False,Medium,Medium,Biennial,Fixed
+V0757,Rowland LLC,HR,Training,6.61,Poor,Bairdborough,Large,2023-04-01,fergusonjacob@example.org,Net 45,True,High,High,Annual,Fixed
+V0758,Hudson-Hayes,Operations,Utilities,7.48,Good,Christopherville,Large,2023-11-08,antoniobarker@example.com,Net 60,True,Low,High,Biennial,Negotiated
+V0759,Lopez Inc,HR,Training,6.34,Average,Campbellbury,Medium,2023-01-14,gibsonmiguel@example.org,Net 30,False,Low,Low,Biennial,Fixed
+V0760,Murphy Group,IT,Software,7.75,Poor,Mooreville,Small,2022-09-10,emendoza@example.com,Net 30,False,High,Medium,Annual,Fixed
+V0761,Anderson and Sons,HR,Recruiting,2.09,Poor,Ryanfort,Large,2022-10-03,briana87@example.com,Net 45,False,Medium,High,Biennial,Negotiated
+V0762,Smith and Sons,Operations,Logistics,0.88,Poor,Brownfurt,Large,2023-09-14,aliciakent@example.com,Net 60,True,Medium,Medium,Annual,Negotiated
+V0763,Ford-Williams,Facilities,Maintenance,3.35,Good,West Debbiemouth,Large,2023-02-26,peter26@example.org,Net 45,True,Medium,High,Annual,CPI Linked
+V0764,Yoder Ltd,Facilities,Cleaning,4.19,Poor,Ellisburgh,Small,2023-11-26,longsonya@example.org,Net 45,True,Low,Low,Biennial,Fixed
+V0765,Hill Ltd,IT,Software,7.51,Average,Elizabethland,Small,2023-11-26,reginajenkins@example.net,Net 45,False,Medium,Low,Annual,Negotiated
+V0766,Carney Inc,HR,Training,9.33,Average,New Katiemouth,Small,2023-04-16,nmartin@example.net,Net 60,False,Low,Medium,Annual,CPI Linked
+V0767,Murray Inc,HR,Recruiting,8.28,Average,Jamesfurt,Medium,2024-03-27,randysmith@example.org,Net 60,True,Medium,High,Biennial,Negotiated
+V0768,"Stark, Murphy and Goodman",Operations,Logistics,4.57,Poor,Murrayland,Small,2023-08-01,jenniferkim@example.com,Net 60,True,Low,Low,Annual,Negotiated
+V0769,Skinner-Jackson,Operations,Utilities,2.36,Good,New Craigport,Large,2022-09-06,qjackson@example.org,Net 45,True,Medium,High,Biennial,Fixed
+V0770,"Nelson, Alexander and Thompson",IT,Software,3.22,Good,Lake Amandamouth,Large,2023-11-25,copelandlisa@example.net,Net 30,False,Low,Low,Biennial,CPI Linked
+V0771,"Moran, Prince and Myers",Operations,Logistics,9.07,Poor,Scotttown,Small,2022-07-09,pwang@example.com,Net 45,False,Low,Low,Biennial,CPI Linked
+V0772,Gonzalez Inc,Facilities,Maintenance,9.79,Poor,Johnsontown,Medium,2023-02-18,erinbrown@example.org,Net 60,True,Medium,High,Biennial,Negotiated
+V0773,"Jackson, Jackson and Perry",Facilities,Cleaning,2.92,Good,Port Markside,Large,2023-10-01,colleenvilla@example.com,Net 30,False,Low,Low,Biennial,Fixed
+V0774,Martinez-Lewis,Marketing,Digital Ads,6.01,Poor,Marcustown,Medium,2023-04-10,alexander37@example.org,Net 45,False,Low,High,Biennial,Negotiated
+V0775,Barrett LLC,Operations,Utilities,3.37,Poor,Bradleyborough,Medium,2023-04-17,katrina71@example.net,Net 60,False,High,Low,Annual,Fixed
+V0776,"Moody, Nielsen and Carroll",Marketing,Digital Ads,3.32,Good,Susanmouth,Medium,2023-10-05,xgregory@example.net,Net 45,False,Medium,Low,Biennial,CPI Linked
+V0777,Rivera Ltd,Operations,Logistics,5.11,Average,Tiffanyfort,Medium,2022-07-24,andres97@example.com,Net 45,False,High,Low,Annual,Fixed
+V0778,"Davidson, Hall and Matthews",Operations,Utilities,4.75,Average,East Andrewville,Large,2023-01-27,joanntodd@example.net,Net 45,False,Low,Medium,Annual,Fixed
+V0779,Brown LLC,IT,Hardware,0.7,Poor,Phillipsberg,Medium,2023-03-20,dawnyoung@example.net,Net 45,False,Low,High,Annual,Fixed
+V0780,"Hinton, Wallace and Wiley",Operations,Utilities,3.11,Average,West Lonnie,Large,2024-02-03,meyertiffany@example.net,Net 45,False,Low,Low,Biennial,Fixed
+V0781,Christensen-Perez,IT,Cloud,2.73,Average,Matthewborough,Medium,2023-07-25,knoxelizabeth@example.org,Net 30,False,Low,Medium,Biennial,Negotiated
+V0782,"Horton, Walker and Salas",Operations,Logistics,9.75,Poor,Isaiahtown,Large,2022-07-22,mjones@example.org,Net 45,True,Low,Medium,Annual,Negotiated
+V0783,"Braun, Mays and Martinez",HR,Recruiting,4.68,Average,New Ana,Medium,2024-02-09,joelmiller@example.net,Net 30,True,High,Medium,Annual,CPI Linked
+V0784,Collins-Griffith,IT,Software,1.23,Average,South Gregory,Medium,2022-12-12,justin73@example.com,Net 30,True,Medium,Low,Biennial,Negotiated
+V0785,Miller-Kaufman,Marketing,Events,0.25,Poor,Grayfort,Large,2023-05-10,vwagner@example.com,Net 45,True,High,High,Biennial,Fixed
+V0786,Weiss Group,Operations,Utilities,7.28,Poor,Port Patrickland,Small,2024-01-12,brooke28@example.net,Net 45,False,High,Medium,Annual,Fixed
+V0787,Scott Group,Facilities,Cleaning,0.3,Average,Shawnfurt,Large,2023-08-12,ijones@example.net,Net 45,False,Low,Low,Biennial,Negotiated
+V0788,Gonzalez-Hendricks,Facilities,Cleaning,9.8,Poor,North Michellestad,Large,2023-06-18,zfrost@example.net,Net 30,True,Medium,High,Biennial,Fixed
+V0789,Cruz-Parker,Marketing,SEO,1.88,Poor,South Nicoleville,Small,2023-03-27,jamesgraham@example.com,Net 30,False,High,Low,Biennial,Negotiated
+V0790,"Bailey, Fletcher and Reid",HR,Recruiting,1.32,Good,Heatherfurt,Medium,2024-05-21,pfitzgerald@example.com,Net 45,True,High,High,Biennial,CPI Linked
+V0791,Dorsey LLC,Facilities,Cleaning,5.73,Poor,Lake Elizabethberg,Small,2022-12-21,jblackburn@example.com,Net 45,False,High,Low,Annual,Fixed
+V0792,Guzman Ltd,Operations,Logistics,7.32,Average,North Darryl,Large,2022-08-12,lsanders@example.org,Net 30,False,High,Low,Biennial,Negotiated
+V0793,"Kent, Liu and Martin",HR,Training,8.81,Poor,Kingport,Large,2023-06-25,uwillis@example.com,Net 60,True,High,Low,Biennial,Fixed
+V0794,"Booth, Rodriguez and Armstrong",Facilities,Maintenance,8.6,Poor,Lisaview,Small,2024-01-04,sarahsanders@example.com,Net 30,False,Low,Medium,Biennial,Fixed
+V0795,Benitez Group,Operations,Utilities,7.3,Poor,North Chadchester,Medium,2023-07-14,upena@example.com,Net 30,True,High,Low,Biennial,Negotiated
+V0796,Thompson and Sons,Operations,Logistics,6.11,Average,East Tom,Large,2023-06-27,hayeslisa@example.org,Net 45,False,High,High,Biennial,Fixed
+V0797,Brown and Sons,IT,Cloud,0.24,Poor,West Tonya,Large,2024-04-09,nalexander@example.org,Net 30,True,Medium,High,Biennial,CPI Linked
+V0798,"Martin, Carter and Gray",Operations,Logistics,9.51,Poor,Calebtown,Large,2023-08-30,timothychambers@example.org,Net 45,True,Medium,Low,Biennial,Negotiated
+V0799,Brown Inc,HR,Recruiting,6.88,Good,North Jasontown,Medium,2023-03-20,sarah75@example.net,Net 60,True,Medium,Low,Annual,CPI Linked
+V0800,Rogers-Maldonado,Marketing,SEO,9.29,Poor,Yvonnebury,Large,2023-03-09,dgray@example.com,Net 30,False,Low,Low,Biennial,Fixed
+V0801,Drake-Smith,Operations,Logistics,9.18,Average,Hardyberg,Medium,2022-06-21,meltonjoshua@example.net,Net 45,True,High,Medium,Biennial,CPI Linked
+V0802,Richardson PLC,Operations,Logistics,8.1,Poor,Robertsonborough,Medium,2022-06-04,allen50@example.net,Net 45,False,High,Medium,Annual,CPI Linked
+V0803,Gregory-Hall,HR,Training,2.34,Poor,Rossland,Large,2023-02-27,ecrosby@example.net,Net 30,False,Low,Medium,Biennial,Fixed
+V0804,"Stein, Navarro and Carter",Marketing,Events,1.4,Good,Lake Douglas,Small,2023-07-10,andersonlaura@example.com,Net 30,True,High,Low,Biennial,CPI Linked
+V0805,"Davies, Archer and Owens",HR,Training,1.63,Good,Friedmanfort,Large,2023-10-29,johnjackson@example.net,Net 45,True,Low,High,Annual,Negotiated
+V0806,"Davis, Graham and Baldwin",IT,Cloud,9.71,Average,West Raven,Large,2024-01-18,jeffrey47@example.net,Net 45,True,High,Low,Biennial,Negotiated
+V0807,Wade PLC,IT,Cloud,6.99,Good,Davismouth,Medium,2024-04-09,sarahmiranda@example.net,Net 60,False,Medium,High,Annual,CPI Linked
+V0808,Schneider Group,Operations,Utilities,9.18,Poor,Valdezside,Small,2024-03-27,ostokes@example.com,Net 45,True,High,Medium,Biennial,Negotiated
+V0809,Carter Inc,Marketing,SEO,0.98,Average,West Joyborough,Medium,2024-01-01,berrydavid@example.com,Net 30,True,High,Low,Annual,CPI Linked
+V0810,Ray-Smith,Operations,Utilities,7.11,Poor,New Amandafurt,Small,2023-04-27,kelsey28@example.net,Net 45,False,Low,High,Biennial,Negotiated
+V0811,"Garza, Rodriguez and Smith",Facilities,Cleaning,8.71,Good,Stewartport,Large,2024-03-13,vincentbryant@example.net,Net 45,True,Medium,High,Annual,Negotiated
+V0812,Thomas-Ortega,IT,Software,9.87,Good,New Lukehaven,Large,2023-11-18,hillmelanie@example.net,Net 45,True,High,Low,Biennial,Negotiated
+V0813,Welch-Lewis,HR,Recruiting,2.9,Poor,Janetfurt,Small,2022-07-17,eric33@example.net,Net 45,True,Medium,Low,Biennial,Negotiated
+V0814,"Williams, Grimes and White",Operations,Logistics,0.89,Good,Lunaport,Medium,2024-02-25,vickiekelley@example.com,Net 30,True,Medium,High,Annual,Negotiated
+V0815,Gregory-Mooney,IT,Hardware,7.93,Good,Myershaven,Medium,2023-12-18,justin38@example.com,Net 30,True,High,Low,Biennial,Fixed
+V0816,Anderson PLC,Facilities,Cleaning,5.71,Poor,Port Sarahport,Large,2023-05-23,barbararamos@example.com,Net 45,False,High,Medium,Biennial,Fixed
+V0817,Merritt-Clark,Marketing,SEO,2.94,Good,Lake Denise,Small,2023-03-10,gregoryvanessa@example.org,Net 30,True,High,Low,Biennial,CPI Linked
+V0818,Clements-Simmons,Facilities,Cleaning,9.9,Poor,North Cody,Small,2023-06-05,sierrawilson@example.net,Net 60,False,Low,Medium,Annual,CPI Linked
+V0819,"Morgan, Hamilton and Hernandez",IT,Software,7.47,Good,Sanchezville,Large,2022-12-06,sburns@example.net,Net 60,False,Low,Low,Annual,CPI Linked
+V0820,Delgado Group,HR,Recruiting,8.78,Average,Port Stevenfurt,Large,2023-01-01,hrichardson@example.org,Net 60,False,Medium,Low,Annual,Negotiated
+V0821,Martinez Ltd,Marketing,Events,6.92,Poor,North Brenda,Medium,2023-08-20,vhill@example.org,Net 60,True,Medium,High,Annual,CPI Linked
+V0822,"White, Washington and Newman",Facilities,Cleaning,7.16,Average,Evansberg,Medium,2022-08-18,bryan82@example.com,Net 60,True,Medium,Medium,Annual,Negotiated
+V0823,"Smith, Hawkins and Herrera",IT,Hardware,3.87,Good,Brownshire,Medium,2023-07-25,molinajared@example.net,Net 45,True,Low,Medium,Biennial,Negotiated
+V0824,White PLC,HR,Training,9.5,Average,North Angela,Small,2024-02-13,david29@example.org,Net 60,False,Medium,Low,Biennial,Negotiated
+V0825,"Martin, Hart and York",IT,Cloud,9.08,Average,North Tinahaven,Large,2023-01-19,tammy26@example.net,Net 60,True,Medium,Low,Biennial,Fixed
+V0826,Wright Inc,HR,Recruiting,3.47,Poor,Donnamouth,Small,2022-09-18,hneal@example.com,Net 60,True,Medium,Medium,Biennial,Negotiated
+V0827,"Medina, Clark and Garcia",Marketing,Digital Ads,7.11,Good,East Benjaminberg,Large,2023-01-20,susanguzman@example.org,Net 45,False,Low,Low,Biennial,Fixed
+V0828,"Howard, Anderson and Dean",Facilities,Maintenance,9.42,Average,New Jonathanfurt,Large,2023-10-19,ricardomiller@example.com,Net 45,False,High,Medium,Annual,Fixed
+V0829,"Coleman, Neal and Herrera",Facilities,Cleaning,8.18,Good,Lake Jessicaborough,Small,2023-12-08,anne89@example.org,Net 60,True,High,Medium,Biennial,CPI Linked
+V0830,Underwood-Stewart,IT,Cloud,8.26,Good,Graybury,Large,2022-08-01,david18@example.com,Net 60,False,Medium,High,Biennial,Fixed
+V0831,Murphy Inc,Marketing,Events,0.17,Average,Reginaview,Medium,2022-09-23,joshuagarcia@example.org,Net 60,True,Medium,High,Annual,Negotiated
+V0832,Lynn-Patton,Operations,Utilities,1.16,Poor,East Alishaport,Small,2023-09-02,wdavis@example.net,Net 30,True,Low,High,Biennial,Fixed
+V0833,"Grimes, Arnold and Lawson",Marketing,Events,3.94,Poor,East Louisfurt,Large,2022-10-20,linda88@example.net,Net 30,True,Low,High,Annual,Negotiated
+V0834,Woods-Anderson,Facilities,Maintenance,0.16,Poor,Lake Williamberg,Small,2023-10-25,douglasbradley@example.com,Net 60,False,Medium,High,Biennial,Negotiated
+V0835,Sellers Ltd,Marketing,Events,3.59,Average,Jasminebury,Medium,2023-11-10,lmann@example.com,Net 60,False,Medium,High,Annual,Fixed
+V0836,Lindsey-Shaw,Marketing,Digital Ads,8.57,Poor,Stephaniehaven,Small,2023-12-12,kevinhodge@example.com,Net 30,False,Medium,Medium,Annual,CPI Linked
+V0837,Townsend-Bruce,Facilities,Cleaning,5.92,Good,North Jessicaland,Large,2022-10-08,millerjustin@example.com,Net 45,True,Medium,Low,Biennial,Fixed
+V0838,Hayden Group,HR,Recruiting,2.43,Poor,South Tyler,Small,2023-11-16,sullivanchristina@example.net,Net 30,False,Medium,Medium,Annual,CPI Linked
+V0839,Klein Ltd,HR,Training,0.61,Poor,Johnhaven,Small,2023-11-15,lawsontami@example.net,Net 30,False,Medium,Low,Biennial,Fixed
+V0840,"Mckee, Thompson and Richardson",IT,Software,3.24,Average,New Michael,Small,2022-07-11,ksimpson@example.com,Net 30,True,Medium,High,Annual,Fixed
+V0841,Morgan Ltd,HR,Recruiting,7.13,Poor,Port Amber,Medium,2024-01-18,robertstimothy@example.com,Net 30,False,Low,Medium,Annual,Negotiated
+V0842,Smith Ltd,Facilities,Maintenance,7.29,Average,Robinsonport,Small,2024-05-23,wallspatricia@example.com,Net 60,True,Medium,Low,Biennial,Fixed
+V0843,Kelly PLC,Marketing,SEO,7.03,Average,Murphystad,Small,2022-08-24,baileyjennifer@example.com,Net 60,False,Low,Medium,Biennial,Fixed
+V0844,Smith-Jordan,IT,Software,7.11,Average,North Allison,Large,2024-04-29,robertgentry@example.org,Net 45,True,High,Medium,Annual,Fixed
+V0845,Hammond LLC,Facilities,Maintenance,8.98,Poor,South Randall,Large,2023-01-20,ross28@example.com,Net 45,True,Low,High,Biennial,Negotiated
+V0846,Mayo Ltd,HR,Training,1.63,Poor,Martinstad,Medium,2024-01-03,tsmith@example.org,Net 30,False,High,High,Biennial,Negotiated
+V0847,Lopez Inc,IT,Software,9.55,Average,South Robert,Medium,2023-02-14,martinjames@example.com,Net 30,True,Medium,Medium,Annual,CPI Linked
+V0848,"Bird, Wilson and Burns",Facilities,Maintenance,3.61,Poor,Marshberg,Large,2023-02-09,vshaw@example.com,Net 30,True,Low,High,Annual,Fixed
+V0849,Rodriguez Inc,HR,Training,6.27,Poor,East Erichaven,Large,2022-06-12,brettgallegos@example.com,Net 60,False,High,High,Biennial,CPI Linked
+V0850,"Mclaughlin, Hamilton and Roberts",IT,Hardware,8.91,Poor,Millerchester,Small,2022-12-11,jessicalopez@example.com,Net 45,False,Low,Low,Annual,Fixed
+V0851,Lin Ltd,Operations,Logistics,9.16,Good,Lake Lori,Small,2022-11-03,zmccarthy@example.org,Net 45,True,Low,High,Biennial,Fixed
+V0852,"Cross, Carr and Lopez",Operations,Logistics,3.06,Good,East David,Medium,2023-04-09,hilljames@example.org,Net 60,True,Low,Low,Biennial,Negotiated
+V0853,Smith-Gonzalez,Operations,Logistics,1.76,Average,South Richardport,Medium,2023-11-27,jeffreysimmons@example.org,Net 30,False,High,Low,Annual,CPI Linked
+V0854,"Simmons, Williams and Rodriguez",Facilities,Cleaning,8.34,Good,Juanstad,Large,2023-12-06,dwright@example.org,Net 45,False,Medium,High,Annual,Fixed
+V0855,Smith Ltd,Marketing,Events,3.26,Good,Jasonfort,Small,2023-01-05,jordanjohnny@example.com,Net 30,False,Low,High,Biennial,Fixed
+V0856,Cook-Rodriguez,Facilities,Maintenance,8.33,Poor,Lake Andreaberg,Small,2023-02-14,judith59@example.net,Net 30,True,High,Low,Annual,Negotiated
+V0857,"Watson, Santos and Clark",HR,Training,8.7,Poor,Millerville,Small,2022-09-11,williamstanya@example.net,Net 60,False,Low,Low,Biennial,Fixed
+V0858,Lee Group,Facilities,Cleaning,2.09,Good,North Shellymouth,Small,2023-01-22,mmayo@example.net,Net 60,False,Low,High,Biennial,CPI Linked
+V0859,"Hernandez, Anderson and Barnes",Facilities,Cleaning,8.24,Good,Patriciaside,Large,2023-02-26,shane16@example.org,Net 45,False,Medium,High,Biennial,Fixed
+V0860,Barnes-Velazquez,Operations,Utilities,7.97,Good,East Carolberg,Small,2023-01-12,sosabruce@example.net,Net 45,False,Medium,Medium,Annual,Negotiated
+V0861,Yang Group,Marketing,Events,9.96,Average,Cohenhaven,Medium,2022-07-30,samuelhicks@example.net,Net 30,False,Low,High,Biennial,Negotiated
+V0862,Morales-Nelson,Operations,Utilities,9.08,Good,North Ernest,Medium,2022-11-18,suarezkrystal@example.com,Net 30,True,Low,Medium,Annual,Fixed
+V0863,"Zimmerman, Warren and Turner",Marketing,Events,5.94,Poor,West Jeanette,Small,2023-08-04,jacksonbrandon@example.org,Net 60,False,Medium,High,Biennial,Fixed
+V0864,Williams-Hernandez,Marketing,Events,7.4,Average,Saraview,Large,2024-04-10,dayjohn@example.org,Net 30,False,Medium,Medium,Biennial,Fixed
+V0865,"Wilson, Wong and Chen",Operations,Logistics,0.99,Poor,Markside,Small,2022-12-24,rickycarr@example.com,Net 30,True,Medium,High,Biennial,CPI Linked
+V0866,Garrett Inc,Facilities,Cleaning,4.55,Good,Jeffreyview,Large,2022-10-17,teresa89@example.org,Net 60,False,Low,Low,Biennial,Fixed
+V0867,"Reese, Reyes and Valdez",HR,Training,5.53,Good,Port Scott,Medium,2023-02-08,james62@example.com,Net 45,True,High,Low,Annual,Negotiated
+V0868,Blair Group,Operations,Utilities,5.22,Average,Eddiefort,Small,2022-08-13,lwhite@example.org,Net 45,True,Medium,Medium,Annual,CPI Linked
+V0869,Hudson Ltd,Marketing,SEO,9.01,Good,Lake Julian,Small,2023-01-28,nicoleroth@example.net,Net 60,True,High,High,Biennial,CPI Linked
+V0870,"Lopez, Thomas and Simmons",Operations,Utilities,3.07,Good,Stoutfurt,Medium,2022-08-18,jessicamorton@example.net,Net 45,True,High,Low,Annual,Negotiated
+V0871,Gray Inc,HR,Recruiting,9.25,Average,Port Alexanderton,Medium,2022-09-12,kaylaadams@example.net,Net 30,True,Low,Medium,Biennial,CPI Linked
+V0872,"Smith, Burch and Rosario",Facilities,Cleaning,0.72,Average,New Jillmouth,Small,2024-03-25,harristimothy@example.net,Net 60,True,High,Medium,Annual,CPI Linked
+V0873,Ochoa-Parker,Marketing,Events,6.03,Good,Mooreton,Medium,2023-07-29,courtney10@example.org,Net 60,False,Medium,Medium,Annual,CPI Linked
+V0874,Stephens Inc,IT,Hardware,9.97,Average,Thomasbury,Small,2022-06-20,ronaldhernandez@example.net,Net 45,False,Medium,Low,Annual,Negotiated
+V0875,Perez-Koch,HR,Recruiting,1.71,Poor,Mcdanielville,Small,2023-06-19,vickiwalker@example.com,Net 30,False,High,Medium,Annual,Negotiated
+V0876,Jones-Cook,Facilities,Maintenance,9.84,Good,Sandraland,Small,2024-04-27,munozgregory@example.net,Net 60,True,High,Medium,Biennial,Negotiated
+V0877,Greene-Shelton,IT,Hardware,9.51,Good,Lake Gloria,Small,2023-09-30,michael14@example.com,Net 30,False,Medium,Medium,Biennial,CPI Linked
+V0878,"Wood, Baker and Meadows",Marketing,Digital Ads,3.95,Good,Port Aaronberg,Small,2024-01-27,lukemyers@example.net,Net 30,True,High,Medium,Biennial,CPI Linked
+V0879,Briggs-Wilson,HR,Training,1.44,Poor,Moyerview,Small,2022-09-22,morrisdavid@example.com,Net 30,True,Low,Medium,Biennial,CPI Linked
+V0880,Flores-Coleman,Operations,Logistics,5.77,Poor,Guzmanmouth,Medium,2022-09-17,patrickdunn@example.net,Net 60,True,Medium,Medium,Biennial,CPI Linked
+V0881,"Vasquez, Herrera and Hall",IT,Software,9.47,Average,New Jenniferhaven,Small,2023-08-24,jacquelineyoung@example.org,Net 45,True,High,High,Annual,CPI Linked
+V0882,Mcknight Inc,Marketing,SEO,3.34,Average,Angelaberg,Large,2024-05-17,brownmichael@example.org,Net 45,True,Low,High,Biennial,Negotiated
+V0883,Stevens-Conley,HR,Training,8.45,Poor,Sanchezbury,Medium,2022-07-15,daviddominguez@example.org,Net 30,False,Low,Low,Annual,Fixed
+V0884,Quinn-Horton,IT,Software,0.84,Average,Watsonville,Small,2023-10-29,woodsbrittney@example.org,Net 45,False,High,Medium,Biennial,CPI Linked
+V0885,Thomas and Sons,IT,Cloud,0.04,Poor,East Chrisshire,Large,2024-03-08,lhernandez@example.com,Net 30,False,High,Low,Annual,Negotiated
+V0886,"Taylor, Rose and Rush",HR,Recruiting,2.56,Poor,Jenkinsmouth,Medium,2023-05-12,mitchelleric@example.net,Net 30,True,Medium,Low,Annual,Negotiated
+V0887,Munoz and Sons,Operations,Logistics,7.33,Average,North Randy,Large,2023-04-27,qspencer@example.net,Net 30,True,High,Medium,Biennial,CPI Linked
+V0888,"Torres, Perez and Huynh",Marketing,Events,6.51,Average,Teresahaven,Small,2023-03-22,juliamorales@example.org,Net 30,False,High,High,Biennial,Negotiated
+V0889,Long Ltd,IT,Cloud,6.94,Good,Port Heatherfort,Small,2023-01-31,kwilcox@example.org,Net 45,True,High,Medium,Annual,CPI Linked
+V0890,Lucas-Lee,Facilities,Maintenance,0.05,Poor,North Christianmouth,Small,2022-06-23,julianweaver@example.org,Net 30,False,Medium,Low,Annual,Fixed
+V0891,Harper LLC,IT,Cloud,4.33,Average,New James,Large,2024-05-23,allenchristopher@example.net,Net 45,True,Low,Medium,Annual,CPI Linked
+V0892,"Williams, Downs and Webb",Facilities,Maintenance,1.34,Good,West Christopherport,Medium,2022-06-08,karen68@example.org,Net 30,True,Medium,Low,Biennial,CPI Linked
+V0893,Walton-Swanson,HR,Recruiting,3.59,Poor,Lake Emily,Medium,2023-02-14,gmosley@example.org,Net 60,True,Medium,High,Annual,Fixed
+V0894,"Aguirre, Hernandez and Matthews",HR,Recruiting,6.23,Good,Woodston,Medium,2023-01-13,edwardford@example.net,Net 45,True,Medium,High,Annual,CPI Linked
+V0895,Cisneros and Sons,Operations,Utilities,0.1,Good,Port Erin,Large,2022-09-19,victoriamason@example.net,Net 45,True,Low,Low,Biennial,Fixed
+V0896,"Curtis, Conrad and Peterson",IT,Cloud,1.62,Good,West Kelly,Small,2023-09-29,twilliams@example.net,Net 30,False,Medium,High,Annual,Negotiated
+V0897,Allen-Shea,IT,Hardware,4.73,Average,East Ashleyfort,Medium,2022-08-16,thomasmonica@example.net,Net 45,True,Medium,Medium,Annual,CPI Linked
+V0898,Porter Group,Facilities,Maintenance,2.49,Good,Geoffreyport,Large,2022-10-05,ramirezmichael@example.org,Net 60,False,Low,Medium,Annual,Fixed
+V0899,White Group,Marketing,SEO,5.21,Poor,Valerieview,Medium,2024-01-15,isantos@example.org,Net 45,False,Medium,High,Annual,Fixed
+V0900,"Freeman, Cox and Mitchell",HR,Recruiting,3.53,Poor,Vincentberg,Medium,2023-05-10,william95@example.com,Net 30,False,Low,Low,Annual,Negotiated
+V0901,Fleming PLC,Facilities,Maintenance,2.33,Good,Bakerton,Small,2023-09-27,figueroajohn@example.net,Net 30,False,Medium,Low,Biennial,Fixed
+V0902,Moore Inc,Operations,Logistics,8.25,Good,Nicholasshire,Small,2023-04-08,walkermorgan@example.net,Net 30,False,High,Medium,Annual,Negotiated
+V0903,Bailey Group,IT,Hardware,2.42,Good,Rodriguezburgh,Large,2023-12-22,lowerysandra@example.com,Net 60,True,Low,Low,Annual,Fixed
+V0904,Morales Inc,Facilities,Maintenance,7.74,Average,Matthewfort,Large,2022-11-14,dwilson@example.org,Net 30,True,Low,Medium,Annual,CPI Linked
+V0905,"Moore, Harrison and Bowman",Marketing,SEO,4.84,Average,Ashleyfurt,Large,2022-07-20,kristine73@example.org,Net 30,True,Low,Low,Biennial,Fixed
+V0906,Parrish Ltd,IT,Cloud,1.99,Good,Nelsonburgh,Large,2022-08-05,chadsullivan@example.com,Net 45,True,Low,Low,Biennial,Fixed
+V0907,"Hayes, Barnes and Lewis",Marketing,Digital Ads,7.12,Good,Jackton,Small,2022-08-12,wpeterson@example.com,Net 30,True,Low,Medium,Biennial,CPI Linked
+V0908,Gonzalez Group,Facilities,Maintenance,6.21,Good,Alvarezburgh,Large,2023-11-25,sgomez@example.net,Net 45,True,High,Low,Biennial,CPI Linked
+V0909,Morrow-Hoffman,Marketing,Events,4.71,Poor,North Jennifer,Large,2023-08-25,mariodowns@example.net,Net 60,False,Low,High,Biennial,Fixed
+V0910,"Bryan, Quinn and Smith",HR,Recruiting,9.6,Poor,Peckfort,Small,2024-04-03,daniel64@example.net,Net 45,True,Low,High,Annual,Fixed
+V0911,"Smith, Hayes and Wall",Facilities,Maintenance,8.33,Poor,Lake Shannon,Medium,2023-08-25,johnsonjulie@example.org,Net 30,True,Low,Low,Biennial,Fixed
+V0912,Horton-Schroeder,IT,Cloud,1.65,Poor,Robinsonborough,Medium,2022-10-28,woodmichael@example.com,Net 30,True,Medium,Low,Biennial,Negotiated
+V0913,Shaw-Parrish,Marketing,SEO,4.33,Good,Banksmouth,Large,2023-04-19,ibell@example.com,Net 60,True,Medium,Low,Biennial,Fixed
+V0914,"Dickson, Rogers and House",HR,Recruiting,1.31,Poor,Pattersonburgh,Medium,2023-08-05,amyjames@example.net,Net 45,True,High,Low,Biennial,Negotiated
+V0915,"Frazier, Walters and Park",HR,Recruiting,3.32,Poor,North Lindaville,Large,2022-08-10,jensenrobert@example.com,Net 60,False,High,Medium,Annual,Fixed
+V0916,"Walton, Ho and Garcia",Facilities,Cleaning,4.94,Poor,Gordonton,Small,2023-11-02,melissa33@example.com,Net 60,False,Low,Low,Annual,Fixed
+V0917,"James, Gonzalez and Harrison",IT,Software,7.79,Poor,West Tammymouth,Small,2023-04-18,xsmith@example.org,Net 30,True,High,Low,Biennial,Negotiated
+V0918,"Campbell, Hobbs and Baker",Operations,Logistics,1.8,Good,Nuneztown,Large,2024-05-01,bjohnson@example.org,Net 60,True,Low,High,Annual,CPI Linked
+V0919,Randall-Stone,IT,Hardware,0.58,Poor,Matthewshire,Small,2023-05-02,angelamyers@example.net,Net 45,False,Medium,High,Biennial,Fixed
+V0920,"Long, Williams and Frederick",IT,Cloud,0.62,Average,Andersonfurt,Large,2023-12-19,richardflores@example.org,Net 45,False,High,High,Biennial,Fixed
+V0921,Hall-Mckinney,HR,Training,0.07,Average,New David,Medium,2023-08-24,ocameron@example.com,Net 30,False,Low,Low,Biennial,Fixed
+V0922,"Moore, Morris and Davis",Marketing,Events,2.23,Average,South Alexandershire,Small,2022-09-28,montgomeryamy@example.org,Net 45,True,Low,High,Biennial,Fixed
+V0923,"Reyes, Newton and Anderson",IT,Software,5.59,Average,Waltersstad,Medium,2022-10-24,denisewalker@example.org,Net 60,False,Medium,High,Annual,Negotiated
+V0924,"Pittman, Barber and Roman",Operations,Logistics,3.55,Poor,Townsendton,Medium,2023-01-01,donovancourtney@example.net,Net 30,True,Low,High,Annual,CPI Linked
+V0925,"Camacho, Rodriguez and Ho",Operations,Utilities,7.7,Average,North Donaldview,Medium,2024-04-26,christophersnyder@example.com,Net 30,False,Medium,High,Annual,Negotiated
+V0926,Myers Group,Facilities,Cleaning,2.64,Good,South Charlesland,Medium,2022-11-12,ubrooks@example.net,Net 30,True,Medium,Low,Annual,Fixed
+V0927,Stokes-White,Operations,Utilities,9.57,Average,East Donnaton,Large,2022-09-01,victoria79@example.net,Net 60,True,High,Medium,Biennial,Negotiated
+V0928,"Smith, Boyd and Scott",HR,Recruiting,8.78,Average,East Catherineside,Large,2022-06-19,javierdiaz@example.org,Net 45,False,Low,High,Annual,CPI Linked
+V0929,Murphy and Sons,Operations,Utilities,7.5,Poor,Lake Heatherberg,Small,2022-12-26,timothy15@example.net,Net 60,False,Medium,Medium,Annual,Fixed
+V0930,"Pearson, Owens and Lamb",Facilities,Maintenance,2.67,Good,Huntfurt,Small,2024-05-18,johngonzalez@example.net,Net 60,True,Low,Medium,Biennial,CPI Linked
+V0931,Hayden-Garcia,Facilities,Cleaning,8.84,Average,Gabrielborough,Small,2023-12-14,chamilton@example.com,Net 30,False,Low,Low,Annual,Fixed
+V0932,"Burgess, Cabrera and Dean",IT,Software,9.3,Poor,Pattersonshire,Large,2023-03-03,rachael17@example.org,Net 30,True,Medium,High,Biennial,CPI Linked
+V0933,Rubio LLC,IT,Hardware,4.82,Average,Carterhaven,Medium,2023-03-02,ljohnson@example.com,Net 45,True,High,Low,Biennial,CPI Linked
+V0934,Gibbs-Howard,IT,Cloud,3.59,Poor,East Dianestad,Small,2022-09-22,david50@example.net,Net 30,True,Medium,Medium,Biennial,Fixed
+V0935,Lewis-Bradley,Operations,Logistics,1.97,Average,Rachelside,Medium,2022-07-23,ncampbell@example.net,Net 30,True,High,High,Annual,Fixed
+V0936,Garcia LLC,Marketing,SEO,8.7,Good,New Patriciachester,Medium,2023-11-13,ustewart@example.org,Net 45,False,High,Medium,Annual,CPI Linked
+V0937,Williams Group,IT,Software,7.23,Good,Williamsview,Large,2023-04-25,martinezgeorge@example.com,Net 60,True,Low,Medium,Annual,Fixed
+V0938,"Reyes, Ray and Mitchell",Operations,Utilities,3.8,Good,South Justinfurt,Medium,2022-06-30,rogersallen@example.com,Net 60,True,Low,Low,Biennial,CPI Linked
+V0939,Gallegos Group,Facilities,Maintenance,9.73,Poor,Joshuastad,Medium,2023-04-08,hawkinslawrence@example.net,Net 45,True,Low,Low,Annual,Negotiated
+V0940,Long Ltd,Facilities,Maintenance,2.2,Good,Snyderville,Large,2024-03-17,sharon10@example.org,Net 30,False,High,Low,Annual,Negotiated
+V0941,Petersen and Sons,Marketing,SEO,6.03,Average,West Michellechester,Small,2022-11-24,christopherramsey@example.com,Net 60,True,High,High,Biennial,CPI Linked
+V0942,"Mayo, Villa and Parrish",IT,Cloud,1.97,Poor,Nicoleton,Medium,2022-08-27,valentinecharles@example.com,Net 60,False,High,Low,Biennial,Fixed
+V0943,"Salazar, Burnett and Nelson",Marketing,SEO,7.88,Poor,East Brandy,Small,2022-09-03,luishernandez@example.net,Net 45,False,Low,Medium,Biennial,CPI Linked
+V0944,Walsh-Barnett,Operations,Utilities,9.42,Good,New Timothy,Medium,2023-06-17,marc73@example.org,Net 45,False,High,High,Biennial,Fixed
+V0945,Miranda-Dawson,Facilities,Maintenance,2.54,Poor,Angelicabury,Large,2023-10-27,heatherjones@example.com,Net 60,True,Medium,Low,Annual,CPI Linked
+V0946,Lewis Ltd,Facilities,Cleaning,5.57,Poor,South Lori,Medium,2022-10-25,ngarcia@example.net,Net 30,True,Medium,Medium,Biennial,CPI Linked
+V0947,"Palmer, Edwards and Blackburn",HR,Training,4.56,Poor,Rioshaven,Large,2022-08-23,jefferycox@example.com,Net 60,True,Medium,Medium,Biennial,Fixed
+V0948,"Palmer, Deleon and Lopez",Operations,Logistics,3.67,Good,Rodneyport,Medium,2024-04-07,thomasnancy@example.net,Net 60,False,Medium,Medium,Biennial,Fixed
+V0949,Allen Group,Operations,Utilities,9.74,Poor,West Anthony,Large,2023-10-29,hbell@example.net,Net 45,True,Low,Medium,Biennial,CPI Linked
+V0950,Gomez and Sons,Facilities,Cleaning,7.47,Good,South Wayne,Small,2023-07-01,brian45@example.org,Net 30,True,Low,Low,Biennial,Fixed
+V0951,Wong Ltd,Marketing,Digital Ads,9.37,Poor,Leeborough,Large,2023-04-10,brookemoreno@example.com,Net 45,False,Low,High,Annual,Fixed
+V0952,"Hamilton, Maldonado and Lucas",Marketing,SEO,5.24,Good,East Dariuston,Large,2023-08-22,john81@example.com,Net 45,False,High,High,Annual,Negotiated
+V0953,Andrade Ltd,HR,Training,9.83,Poor,Myersville,Small,2022-11-19,tyler23@example.com,Net 60,True,Low,Medium,Biennial,Negotiated
+V0954,"Roberts, Carlson and Gross",IT,Cloud,3.89,Average,East Wesleyfort,Large,2023-12-28,melissa32@example.com,Net 60,True,Medium,Low,Biennial,CPI Linked
+V0955,"Jones, Lopez and Yoder",IT,Cloud,9.35,Average,North Elizabeth,Small,2023-04-30,andrew41@example.org,Net 45,True,High,Low,Annual,Negotiated
+V0956,"Wolf, Smith and Bell",Facilities,Cleaning,1.4,Poor,Aguilarfort,Small,2024-04-10,thomaswilliams@example.org,Net 45,True,High,Medium,Biennial,Fixed
+V0957,"Frazier, Roberts and Perez",HR,Recruiting,0.68,Poor,Port Dwayne,Medium,2022-08-13,torresjill@example.com,Net 45,True,High,Low,Annual,CPI Linked
+V0958,Navarro-Fritz,IT,Cloud,5.66,Poor,Elizabethview,Small,2023-03-11,wsmith@example.com,Net 45,True,Medium,Low,Annual,CPI Linked
+V0959,"Cook, Holmes and Beck",Marketing,SEO,5.54,Poor,Rodriguezhaven,Small,2023-12-19,hernandezrobert@example.org,Net 60,True,High,High,Biennial,Negotiated
+V0960,"Mcknight, Howard and Johnson",Facilities,Cleaning,4.49,Poor,Howardland,Large,2022-10-30,rfowler@example.net,Net 30,True,Low,High,Annual,CPI Linked
+V0961,"Gardner, Gaines and Archer",Facilities,Maintenance,5.78,Good,West Renee,Large,2023-02-27,peter64@example.com,Net 60,False,High,Medium,Annual,Fixed
+V0962,Williams PLC,Facilities,Maintenance,6.89,Poor,Maryville,Small,2023-05-04,yknight@example.com,Net 45,True,Low,High,Biennial,Negotiated
+V0963,Rodriguez-Smith,IT,Cloud,6.97,Good,South Erin,Large,2023-07-13,cindy24@example.com,Net 45,False,High,Low,Annual,CPI Linked
+V0964,Brown-Phillips,Facilities,Cleaning,7.82,Poor,Williamsport,Small,2024-03-04,brownkevin@example.com,Net 60,True,Low,High,Annual,CPI Linked
+V0965,Keller-Smith,IT,Software,6.78,Average,Devinport,Small,2024-02-01,stephaniereeves@example.org,Net 30,True,Medium,High,Biennial,Fixed
+V0966,"Gonzalez, Richards and Miller",Facilities,Maintenance,3.72,Good,North Thomas,Small,2023-03-04,lisawalsh@example.com,Net 60,False,Low,Low,Annual,Fixed
+V0967,Rasmussen-Garcia,IT,Cloud,7.04,Average,Samanthaport,Small,2022-10-14,ushelton@example.net,Net 45,False,High,High,Annual,Negotiated
+V0968,Vega and Sons,IT,Cloud,1.58,Poor,Derekside,Medium,2022-11-03,kevin49@example.net,Net 45,False,High,High,Annual,Negotiated
+V0969,Gardner-Bennett,Facilities,Cleaning,2.14,Good,Davishaven,Medium,2023-05-11,william57@example.com,Net 60,False,Low,High,Biennial,Negotiated
+V0970,Owens-Ali,Marketing,SEO,3.49,Good,Johnsonside,Large,2022-06-22,idavis@example.net,Net 45,True,High,Medium,Biennial,CPI Linked
+V0971,Buchanan-Carpenter,IT,Cloud,5.81,Good,Davidside,Large,2024-04-30,brian62@example.com,Net 30,True,High,High,Biennial,CPI Linked
+V0972,"Smith, Aguirre and Golden",Marketing,SEO,7.27,Average,Combsland,Medium,2022-07-14,maria15@example.net,Net 60,False,Low,Medium,Annual,Fixed
+V0973,Short PLC,Facilities,Maintenance,2.77,Poor,Vaughnton,Large,2022-09-04,mileszachary@example.net,Net 60,True,High,High,Annual,Negotiated
+V0974,"Coffey, Taylor and Jacobson",HR,Training,1.56,Poor,West Courtney,Small,2023-12-12,shaffercindy@example.org,Net 30,False,Low,Low,Biennial,CPI Linked
+V0975,Jones and Sons,IT,Hardware,3.69,Poor,New Collinborough,Medium,2022-08-21,gjohnson@example.com,Net 45,True,Low,Medium,Annual,Negotiated
+V0976,Brown-Martinez,Operations,Utilities,1.02,Poor,Webbburgh,Large,2024-02-29,meaganpayne@example.net,Net 45,True,Medium,High,Biennial,Fixed
+V0977,"Gonzales, Barrett and Martinez",HR,Training,4.52,Poor,Lake Andrew,Small,2022-09-20,georgeharmon@example.net,Net 45,True,Low,High,Biennial,CPI Linked
+V0978,Alvarez LLC,Operations,Utilities,3.63,Good,Elizabethshire,Medium,2023-06-19,elizabeth66@example.net,Net 60,True,Medium,Medium,Biennial,Negotiated
+V0979,Marshall Group,HR,Training,5.37,Average,North Justin,Large,2022-09-03,tsmith@example.org,Net 30,False,Low,Medium,Annual,Negotiated
+V0980,"Santos, Sandoval and Wallace",Operations,Utilities,9.66,Average,Sydneymouth,Small,2024-04-17,khill@example.com,Net 45,False,Medium,High,Annual,Fixed
+V0981,"Foley, Gordon and Bailey",HR,Training,6.54,Average,Palmerburgh,Small,2023-10-24,michaelball@example.com,Net 60,False,High,Low,Annual,Negotiated
+V0982,Espinoza-Buchanan,Operations,Logistics,9.25,Poor,Kristenport,Medium,2024-05-19,pjones@example.com,Net 30,True,High,Low,Annual,Negotiated
+V0983,Estes-Obrien,Marketing,Digital Ads,9.65,Good,New Jeanette,Medium,2023-06-30,david59@example.net,Net 60,True,Medium,High,Annual,CPI Linked
+V0984,Silva-Gallegos,HR,Training,8.56,Poor,North Anthonyburgh,Small,2022-11-28,ortegavictor@example.net,Net 30,False,Low,Medium,Annual,Negotiated
+V0985,Morris-Hall,Marketing,Events,0.64,Average,North Rachel,Small,2022-10-15,acampos@example.org,Net 60,True,Medium,High,Annual,Fixed
+V0986,Salazar Inc,IT,Software,3.09,Average,Port Karenmouth,Small,2024-01-15,catherine02@example.com,Net 45,True,Low,Low,Biennial,CPI Linked
+V0987,Hale Group,IT,Cloud,1.8,Average,Lake Audrey,Medium,2022-11-04,johnnykim@example.com,Net 60,True,Medium,Medium,Biennial,CPI Linked
+V0988,Harris and Sons,Facilities,Cleaning,7.97,Poor,Cervantesborough,Large,2022-08-07,sotoelizabeth@example.org,Net 60,False,High,High,Annual,CPI Linked
+V0989,Patrick Inc,Facilities,Maintenance,6.58,Poor,Kimshire,Medium,2023-07-31,petersonfaith@example.net,Net 30,True,High,High,Biennial,Negotiated
+V0990,"Rice, Lee and Clark",Marketing,Events,6.66,Good,Masonstad,Large,2023-09-25,lauriegonzales@example.net,Net 45,False,High,Low,Biennial,Negotiated
+V0991,Sawyer-Carroll,IT,Hardware,3.81,Average,Port Zachary,Medium,2022-08-19,jimenezbrett@example.net,Net 30,True,High,Medium,Biennial,Fixed
+V0992,Johnson-Nicholson,Facilities,Cleaning,2.36,Poor,Sandraview,Medium,2023-04-01,carlos24@example.org,Net 45,False,Medium,High,Annual,CPI Linked
+V0993,"Johnston, Castaneda and Frederick",Marketing,Digital Ads,5.27,Average,Reginaldton,Medium,2023-07-31,aguilarsharon@example.com,Net 30,False,Medium,High,Annual,Fixed
+V0994,"Johnson, Morgan and Green",Operations,Utilities,8.05,Average,Pamelaton,Small,2022-09-18,amygross@example.net,Net 30,False,Low,Low,Biennial,Negotiated
+V0995,Young Inc,HR,Recruiting,4.85,Good,West Tinachester,Large,2023-09-09,claytimothy@example.org,Net 30,False,Low,High,Annual,Fixed
+V0996,Cummings-Garcia,IT,Cloud,9.8,Good,Romerostad,Small,2023-05-03,oturner@example.org,Net 60,True,Medium,Low,Annual,CPI Linked
+V0997,Johnson and Sons,Marketing,Events,6.42,Average,Flemingtown,Medium,2023-08-05,xwilliams@example.com,Net 60,True,Medium,High,Biennial,CPI Linked
+V0998,"Martinez, Miles and Dunn",HR,Recruiting,5.61,Poor,South Davidstad,Medium,2023-03-02,matthewhull@example.org,Net 45,False,High,Low,Annual,Negotiated
+V0999,Davis Inc,HR,Recruiting,7.17,Average,South Julie,Large,2024-04-21,ritteralexis@example.net,Net 45,False,Low,High,Annual,Fixed
